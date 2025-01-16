@@ -1,2136 +1,2285 @@
-[
-  {
-    "title": "Session 1A: Advanced B2B Funnel Tactics",
-    "slug": "session-1a-advanced-b2b-funnel-tactics",
-    "description": "Learn proven funnel optimization methods for B2B client acquisition.",
-    "startTime": "2025-09-01T08:00:00Z",
-    "endTime": "2025-09-01T08:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Alice",
-        "lastName": "Smith",
-        "fullName": "Alice Smith",
-        "slug": "alice-smith",
-        "jobTitle": "Senior Content Manager",
-        "company": "MarketEdge",
-        "bio": "Alice specializes in B2B content tactics for global enterprises.",
-        "profilePhotoUrl": "https://example.com/photos/alice_smith.jpg"
-      },
-      {
-        "firstName": "James",
-        "lastName": "Lee",
-        "fullName": "James Lee",
-        "slug": "james-lee",
-        "jobTitle": "Head of Growth",
-        "company": "GrowthGuru",
-        "bio": "James focuses on data-driven acquisition and brand visibility.",
-        "profilePhotoUrl": "https://example.com/photos/james_lee.jpg"
+{
+  "data": [
+    {
+      "title": "Session 1A: Advanced B2B Funnel Tactics",
+      "slug": "session-1a-advanced-b2b-funnel-tactics",
+      "description": "Learn proven funnel optimization methods for B2B client acquisition.",
+      "startTime": "2025-09-01T08:00:00Z",
+      "endTime": "2025-09-01T08:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Alice",
+          "lastName": "Smith",
+          "fullName": "Alice Smith",
+          "slug": "alice-smith",
+          "jobTitle": "Senior Content Manager",
+          "company": "MarketEdge",
+          "bio": "Alice specializes in B2B content tactics for global enterprises.",
+          "profilePhotoUrl": "https://example.com/photos/alice_smith.jpg"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Lee",
+          "fullName": "James Lee",
+          "slug": "james-lee",
+          "jobTitle": "Head of Growth",
+          "company": "GrowthGuru",
+          "bio": "James focuses on data-driven acquisition and brand visibility.",
+          "profilePhotoUrl": "https://example.com/photos/james_lee.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "B2B Marketing",
+        "industry": "Healthcare",
+        "level": "Advanced",
+        "topics": [
+          "Lead Generation",
+          "Funnel Optimization"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "B2B Marketing",
-      "industry": "Healthcare",
-      "level": "Advanced",
-      "topics": ["Lead Generation", "Funnel Optimization"]
-    }
-  },
-  {
-    "title": "Session 1B: Streamlining Digital Asset Workflows",
-    "slug": "session-1b-streamlining-digital-asset-workflows",
-    "description": "Implement best practices to optimize digital asset creation and distribution.",
-    "startTime": "2025-09-01T08:00:00Z",
-    "endTime": "2025-09-01T08:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Brian",
-        "lastName": "Young",
-        "fullName": "Brian Young",
-        "slug": "brian-young",
-        "jobTitle": "Workflow Consultant",
-        "company": "ProcessFlow Inc.",
-        "bio": "Brian transforms digital teams with agile workflows and efficient planning.",
-        "profilePhotoUrl": "https://example.com/photos/brian_young.jpg"
-      },
-      {
-        "firstName": "Sophie",
-        "lastName": "Cheng",
-        "fullName": "Sophie Cheng",
-        "slug": "sophie-cheng",
-        "jobTitle": "Content Marketing Lead",
-        "company": "InnoMark",
-        "bio": "Sophie leads global content teams to improve quality and reduce time-to-market.",
-        "profilePhotoUrl": "https://example.com/photos/sophie_cheng.jpg"
+    },
+    {
+      "title": "Session 1B: Streamlining Digital Asset Workflows",
+      "slug": "session-1b-streamlining-digital-asset-workflows",
+      "description": "Implement best practices to optimize digital asset creation and distribution.",
+      "startTime": "2025-09-01T08:00:00Z",
+      "endTime": "2025-09-01T08:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Brian",
+          "lastName": "Young",
+          "fullName": "Brian Young",
+          "slug": "brian-young",
+          "jobTitle": "Workflow Consultant",
+          "company": "ProcessFlow Inc.",
+          "bio": "Brian transforms digital teams with agile workflows and efficient planning.",
+          "profilePhotoUrl": "https://example.com/photos/brian_young.jpg"
+        },
+        {
+          "firstName": "Sophie",
+          "lastName": "Cheng",
+          "fullName": "Sophie Cheng",
+          "slug": "sophie-cheng",
+          "jobTitle": "Content Marketing Lead",
+          "company": "InnoMark",
+          "bio": "Sophie leads global content teams to improve quality and reduce time-to-market.",
+          "profilePhotoUrl": "https://example.com/photos/sophie_cheng.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Workflow and Planning",
+        "industry": "Retail",
+        "level": "Intermediate",
+        "topics": [
+          "Project Management",
+          "Content Supply Chain"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Workflow and Planning",
-      "industry": "Retail",
-      "level": "Intermediate",
-      "topics": ["Project Management", "Content Supply Chain"]
-    }
-  },
-  {
-    "title": "Session 1C: Personalization at Scale with AI",
-    "slug": "session-1c-personalization-at-scale-with-ai",
-    "description": "Explore how generative AI can create deeper, more personalized customer journeys.",
-    "startTime": "2025-09-01T08:00:00Z",
-    "endTime": "2025-09-01T08:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Emma",
-        "lastName": "Jones",
-        "fullName": "Emma Jones",
-        "slug": "emma-jones",
-        "jobTitle": "AI Product Manager",
-        "company": "TechNova",
-        "bio": "Emma leads AI-driven transformations for enterprises in various sectors.",
-        "profilePhotoUrl": "https://example.com/photos/emma_jones.jpg"
-      },
-      {
-        "firstName": "Jacob",
-        "lastName": "Hart",
-        "fullName": "Jacob Hart",
-        "slug": "jacob-hart",
-        "jobTitle": "Chief Data Scientist",
-        "company": "TrendHive",
-        "bio": "Jacob bridges big data analytics and consumer behavior to maximize ROI.",
-        "profilePhotoUrl": "https://example.com/photos/jacob_hart.jpg"
+    },
+    {
+      "title": "Session 1C: Personalization at Scale with AI",
+      "slug": "session-1c-personalization-at-scale-with-ai",
+      "description": "Explore how generative AI can create deeper, more personalized customer journeys.",
+      "startTime": "2025-09-01T08:00:00Z",
+      "endTime": "2025-09-01T08:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Emma",
+          "lastName": "Jones",
+          "fullName": "Emma Jones",
+          "slug": "emma-jones",
+          "jobTitle": "AI Product Manager",
+          "company": "TechNova",
+          "bio": "Emma leads AI-driven transformations for enterprises in various sectors.",
+          "profilePhotoUrl": "https://example.com/photos/emma_jones.jpg"
+        },
+        {
+          "firstName": "Jacob",
+          "lastName": "Hart",
+          "fullName": "Jacob Hart",
+          "slug": "jacob-hart",
+          "jobTitle": "Chief Data Scientist",
+          "company": "TrendHive",
+          "bio": "Jacob bridges big data analytics and consumer behavior to maximize ROI.",
+          "profilePhotoUrl": "https://example.com/photos/jacob_hart.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Generative AI",
+        "industry": "Technology",
+        "level": "Advanced",
+        "topics": [
+          "AI",
+          "Personalization",
+          "Customer Experience"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Generative AI",
-      "industry": "Technology",
-      "level": "Advanced",
-      "topics": ["AI", "Personalization", "Customer Experience"]
-    }
-  },
-  {
-    "title": "Session 1D: Mapping the Customer Journey 101",
-    "slug": "session-1d-mapping-the-customer-journey-101",
-    "description": "Fundamentals of defining and optimizing key customer touchpoints.",
-    "startTime": "2025-09-01T08:00:00Z",
-    "endTime": "2025-09-01T08:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Olivia",
-        "lastName": "Brown",
-        "fullName": "Olivia Brown",
-        "slug": "olivia-brown",
-        "jobTitle": "CX Strategist",
-        "company": "CustExp Advisors",
-        "bio": "Olivia improves customer lifecycle touchpoints for various verticals.",
-        "profilePhotoUrl": "https://example.com/photos/olivia_brown.jpg"
-      },
-      {
-        "firstName": "Daniel",
-        "lastName": "Lopez",
-        "fullName": "Daniel Lopez",
-        "slug": "daniel-lopez",
-        "jobTitle": "Marketing Analyst",
-        "company": "DataDriven Inc.",
-        "bio": "Daniel specializes in tracking both digital and offline journey metrics.",
-        "profilePhotoUrl": "https://example.com/photos/daniel_lopez.jpg"
+    },
+    {
+      "title": "Session 1D: Mapping the Customer Journey 101",
+      "slug": "session-1d-mapping-the-customer-journey-101",
+      "description": "Fundamentals of defining and optimizing key customer touchpoints.",
+      "startTime": "2025-09-01T08:00:00Z",
+      "endTime": "2025-09-01T08:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Olivia",
+          "lastName": "Brown",
+          "fullName": "Olivia Brown",
+          "slug": "olivia-brown",
+          "jobTitle": "CX Strategist",
+          "company": "CustExp Advisors",
+          "bio": "Olivia improves customer lifecycle touchpoints for various verticals.",
+          "profilePhotoUrl": "https://example.com/photos/olivia_brown.jpg"
+        },
+        {
+          "firstName": "Daniel",
+          "lastName": "Lopez",
+          "fullName": "Daniel Lopez",
+          "slug": "daniel-lopez",
+          "jobTitle": "Marketing Analyst",
+          "company": "DataDriven Inc.",
+          "bio": "Daniel specializes in tracking both digital and offline journey metrics.",
+          "profilePhotoUrl": "https://example.com/photos/daniel_lopez.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Customer Journey Management",
+        "industry": "Hospitality",
+        "level": "Beginner",
+        "topics": [
+          "Customer Experience",
+          "Journey Mapping"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Customer Journey Management",
-      "industry": "Hospitality",
-      "level": "Beginner",
-      "topics": ["Customer Experience", "Journey Mapping"]
-    }
-  },
-  {
-    "title": "Session 1E: Building a Unified Customer Experience",
-    "slug": "session-1e-building-a-unified-customer-experience",
-    "description": "Approaches for delivering seamless interactions across all customer channels.",
-    "startTime": "2025-09-01T08:00:00Z",
-    "endTime": "2025-09-01T08:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Ava",
-        "lastName": "Miller",
-        "fullName": "Ava Miller",
-        "slug": "ava-miller",
-        "jobTitle": "Head of Customer Experience",
-        "company": "OmniConnect",
-        "bio": "Ava integrates online and offline touchpoints to enhance brand loyalty.",
-        "profilePhotoUrl": "https://example.com/photos/ava_miller.jpg"
-      },
-      {
-        "firstName": "Kevin",
-        "lastName": "Scott",
-        "fullName": "Kevin Scott",
-        "slug": "kevin-scott",
-        "jobTitle": "Digital Strategist",
-        "company": "ExperiencePlus",
-        "bio": "Kevin's strategies link technology with customer engagement at scale.",
-        "profilePhotoUrl": "https://example.com/photos/kevin_scott.jpg"
+    },
+    {
+      "title": "Session 1E: Building a Unified Customer Experience",
+      "slug": "session-1e-building-a-unified-customer-experience",
+      "description": "Approaches for delivering seamless interactions across all customer channels.",
+      "startTime": "2025-09-01T08:00:00Z",
+      "endTime": "2025-09-01T08:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Ava",
+          "lastName": "Miller",
+          "fullName": "Ava Miller",
+          "slug": "ava-miller",
+          "jobTitle": "Head of Customer Experience",
+          "company": "OmniConnect",
+          "bio": "Ava integrates online and offline touchpoints to enhance brand loyalty.",
+          "profilePhotoUrl": "https://example.com/photos/ava_miller.jpg"
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Scott",
+          "fullName": "Kevin Scott",
+          "slug": "kevin-scott",
+          "jobTitle": "Digital Strategist",
+          "company": "ExperiencePlus",
+          "bio": "Kevin's strategies link technology with customer engagement at scale.",
+          "profilePhotoUrl": "https://example.com/photos/kevin_scott.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Unified Customer Experience",
+        "industry": "Manufacturing",
+        "level": "Intermediate",
+        "topics": [
+          "Omnichannel",
+          "Brand Loyalty"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Unified Customer Experience",
-      "industry": "Manufacturing",
-      "level": "Intermediate",
-      "topics": ["Omnichannel", "Brand Loyalty"]
-    }
-  },
-  {
-    "title": "Session 2A: Fundamentals of Customer Data Management",
-    "slug": "session-2a-fundamentals-of-customer-data-management",
-    "description": "Capture, store, and leverage first-party data to drive marketing success.",
-    "startTime": "2025-09-01T09:00:00Z",
-    "endTime": "2025-09-01T09:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "David",
-        "lastName": "Nguyen",
-        "fullName": "David Nguyen",
-        "slug": "david-nguyen",
-        "jobTitle": "Data Governance Lead",
-        "company": "DataCore",
-        "bio": "David architected data solutions for Fortune 500 marketing teams.",
-        "profilePhotoUrl": "https://example.com/photos/david_nguyen.jpg"
-      },
-      {
-        "firstName": "Elena",
-        "lastName": "Carlson",
-        "fullName": "Elena Carlson",
-        "slug": "elena-carlson",
-        "jobTitle": "CRM Specialist",
-        "company": "ClientFirst",
-        "bio": "Elena focuses on improving data quality and segmentation strategies.",
-        "profilePhotoUrl": "https://example.com/photos/elena_carlson.jpg"
+    },
+    {
+      "title": "Session 2A: Fundamentals of Customer Data Management",
+      "slug": "session-2a-fundamentals-of-customer-data-management",
+      "description": "Capture, store, and leverage first-party data to drive marketing success.",
+      "startTime": "2025-09-01T09:00:00Z",
+      "endTime": "2025-09-01T09:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "David",
+          "lastName": "Nguyen",
+          "fullName": "David Nguyen",
+          "slug": "david-nguyen",
+          "jobTitle": "Data Governance Lead",
+          "company": "DataCore",
+          "bio": "David architected data solutions for Fortune 500 marketing teams.",
+          "profilePhotoUrl": "https://example.com/photos/david_nguyen.jpg"
+        },
+        {
+          "firstName": "Elena",
+          "lastName": "Carlson",
+          "fullName": "Elena Carlson",
+          "slug": "elena-carlson",
+          "jobTitle": "CRM Specialist",
+          "company": "ClientFirst",
+          "bio": "Elena focuses on improving data quality and segmentation strategies.",
+          "profilePhotoUrl": "https://example.com/photos/elena_carlson.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Customer Data Management",
+        "industry": "Non-Profit",
+        "level": "Beginner",
+        "topics": [
+          "Data Governance",
+          "Segmentation"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Customer Data Management",
-      "industry": "Non-Profit",
-      "level": "Beginner",
-      "topics": ["Data Governance", "Segmentation"]
-    }
-  },
-  {
-    "title": "Session 2B: Workflow Automation for Content Teams",
-    "slug": "session-2b-workflow-automation-for-content-teams",
-    "description": "Discover tools and techniques to automate repetitive tasks in content creation.",
-    "startTime": "2025-09-01T09:00:00Z",
-    "endTime": "2025-09-01T09:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Ethan",
-        "lastName": "Wright",
-        "fullName": "Ethan Wright",
-        "slug": "ethan-wright",
-        "jobTitle": "Operations Manager",
-        "company": "StreamFlow",
-        "bio": "Ethan streamlines content processes for global marketing teams.",
-        "profilePhotoUrl": "https://example.com/photos/ethan_wright.jpg"
-      },
-      {
-        "firstName": "Catherine",
-        "lastName": "Morgan",
-        "fullName": "Catherine Morgan",
-        "slug": "catherine-morgan",
-        "jobTitle": "Content Architect",
-        "company": "CreateX",
-        "bio": "Catherine develops scalable systems for multi-channel content.",
-        "profilePhotoUrl": "https://example.com/photos/catherine_morgan.jpg"
+    },
+    {
+      "title": "Session 2B: Workflow Automation for Content Teams",
+      "slug": "session-2b-workflow-automation-for-content-teams",
+      "description": "Discover tools and techniques to automate repetitive tasks in content creation.",
+      "startTime": "2025-09-01T09:00:00Z",
+      "endTime": "2025-09-01T09:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Ethan",
+          "lastName": "Wright",
+          "fullName": "Ethan Wright",
+          "slug": "ethan-wright",
+          "jobTitle": "Operations Manager",
+          "company": "StreamFlow",
+          "bio": "Ethan streamlines content processes for global marketing teams.",
+          "profilePhotoUrl": "https://example.com/photos/ethan_wright.jpg"
+        },
+        {
+          "firstName": "Catherine",
+          "lastName": "Morgan",
+          "fullName": "Catherine Morgan",
+          "slug": "catherine-morgan",
+          "jobTitle": "Content Architect",
+          "company": "CreateX",
+          "bio": "Catherine develops scalable systems for multi-channel content.",
+          "profilePhotoUrl": "https://example.com/photos/catherine_morgan.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Workflow and Planning",
+        "industry": "Insurance",
+        "level": "Intermediate",
+        "topics": [
+          "Automation",
+          "Content Supply Chain"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Workflow and Planning",
-      "industry": "Insurance",
-      "level": "Intermediate",
-      "topics": ["Automation", "Content Supply Chain"]
-    }
-  },
-  {
-    "title": "Session 2C: AI-Powered Email Marketing",
-    "slug": "session-2c-ai-powered-email-marketing",
-    "description": "Use generative AI to personalize and automate high-volume email outreach.",
-    "startTime": "2025-09-01T09:00:00Z",
-    "endTime": "2025-09-01T09:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Grace",
-        "lastName": "Hernandez",
-        "fullName": "Grace Hernandez",
-        "slug": "grace-hernandez",
-        "jobTitle": "AI Strategist",
-        "company": "AI Next",
-        "bio": "Grace implements AI solutions to boost marketing automation.",
-        "profilePhotoUrl": "https://example.com/photos/grace_hernandez.jpg"
-      },
-      {
-        "firstName": "Henry",
-        "lastName": "Baker",
-        "fullName": "Henry Baker",
-        "slug": "henry-baker",
-        "jobTitle": "Email Marketing Manager",
-        "company": "MailWorks",
-        "bio": "Henry orchestrates data-driven email strategies for improved engagement.",
-        "profilePhotoUrl": "https://example.com/photos/henry_baker.jpg"
+    },
+    {
+      "title": "Session 2C: AI-Powered Email Marketing",
+      "slug": "session-2c-ai-powered-email-marketing",
+      "description": "Use generative AI to personalize and automate high-volume email outreach.",
+      "startTime": "2025-09-01T09:00:00Z",
+      "endTime": "2025-09-01T09:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Grace",
+          "lastName": "Hernandez",
+          "fullName": "Grace Hernandez",
+          "slug": "grace-hernandez",
+          "jobTitle": "AI Strategist",
+          "company": "AI Next",
+          "bio": "Grace implements AI solutions to boost marketing automation.",
+          "profilePhotoUrl": "https://example.com/photos/grace_hernandez.jpg"
+        },
+        {
+          "firstName": "Henry",
+          "lastName": "Baker",
+          "fullName": "Henry Baker",
+          "slug": "henry-baker",
+          "jobTitle": "Email Marketing Manager",
+          "company": "MailWorks",
+          "bio": "Henry orchestrates data-driven email strategies for improved engagement.",
+          "profilePhotoUrl": "https://example.com/photos/henry_baker.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Generative AI",
+        "industry": "Education",
+        "level": "Intermediate",
+        "topics": [
+          "AI",
+          "Email Marketing"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Generative AI",
-      "industry": "Education",
-      "level": "Intermediate",
-      "topics": ["AI", "Email Marketing"]
-    }
-  },
-  {
-    "title": "Session 2D: Measuring Multi-Touch Attribution",
-    "slug": "session-2d-measuring-multi-touch-attribution",
-    "description": "Analyze multiple customer touchpoints to accurately measure marketing impact.",
-    "startTime": "2025-09-01T09:00:00Z",
-    "endTime": "2025-09-01T09:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Isaac",
-        "lastName": "Garcia",
-        "fullName": "Isaac Garcia",
-        "slug": "isaac-garcia",
-        "jobTitle": "Analytics Director",
-        "company": "AttributionPro",
-        "bio": "Isaac specializes in multi-touch attribution models for global brands.",
-        "profilePhotoUrl": "https://example.com/photos/isaac_garcia.jpg"
-      },
-      {
-        "firstName": "Nicole",
-        "lastName": "Sanders",
-        "fullName": "Nicole Sanders",
-        "slug": "nicole-sanders",
-        "jobTitle": "Data Scientist",
-        "company": "Insights Inc.",
-        "bio": "Nicole's models help businesses understand cross-channel marketing ROI.",
-        "profilePhotoUrl": "https://example.com/photos/nicole_sanders.jpg"
+    },
+    {
+      "title": "Session 2D: Measuring Multi-Touch Attribution",
+      "slug": "session-2d-measuring-multi-touch-attribution",
+      "description": "Analyze multiple customer touchpoints to accurately measure marketing impact.",
+      "startTime": "2025-09-01T09:00:00Z",
+      "endTime": "2025-09-01T09:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Isaac",
+          "lastName": "Garcia",
+          "fullName": "Isaac Garcia",
+          "slug": "isaac-garcia",
+          "jobTitle": "Analytics Director",
+          "company": "AttributionPro",
+          "bio": "Isaac specializes in multi-touch attribution models for global brands.",
+          "profilePhotoUrl": "https://example.com/photos/isaac_garcia.jpg"
+        },
+        {
+          "firstName": "Nicole",
+          "lastName": "Sanders",
+          "fullName": "Nicole Sanders",
+          "slug": "nicole-sanders",
+          "jobTitle": "Data Scientist",
+          "company": "Insights Inc.",
+          "bio": "Nicole's models help businesses understand cross-channel marketing ROI.",
+          "profilePhotoUrl": "https://example.com/photos/nicole_sanders.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Customer Acquisition",
+        "industry": "Financial Services",
+        "level": "Advanced",
+        "topics": [
+          "Analytics",
+          "ROI Measurement"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Customer Acquisition",
-      "industry": "Financial Services",
-      "level": "Advanced",
-      "topics": ["Analytics", "ROI Measurement"]
-    }
-  },
-  {
-    "title": "Session 2E: Creating Engaging Visual Content",
-    "slug": "session-2e-creating-engaging-visual-content",
-    "description": "Best practices for designing visuals that capture attention across channels.",
-    "startTime": "2025-09-01T09:00:00Z",
-    "endTime": "2025-09-01T09:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Fiona",
-        "lastName": "Wood",
-        "fullName": "Fiona Wood",
-        "slug": "fiona-wood",
-        "jobTitle": "Creative Director",
-        "company": "VisionaryLab",
-        "bio": "Fiona blends design with technology to create interactive brand experiences.",
-        "profilePhotoUrl": "https://example.com/photos/fiona_wood.jpg"
-      },
-      {
-        "firstName": "Gavin",
-        "lastName": "Rhodes",
-        "fullName": "Gavin Rhodes",
-        "slug": "gavin-rhodes",
-        "jobTitle": "Multimedia Producer",
-        "company": "MediaSpark",
-        "bio": "Gavin creates visual and video content strategies for digital campaigns.",
-        "profilePhotoUrl": "https://example.com/photos/gavin_rhodes.jpg"
+    },
+    {
+      "title": "Session 2E: Creating Engaging Visual Content",
+      "slug": "session-2e-creating-engaging-visual-content",
+      "description": "Best practices for designing visuals that capture attention across channels.",
+      "startTime": "2025-09-01T09:00:00Z",
+      "endTime": "2025-09-01T09:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Fiona",
+          "lastName": "Wood",
+          "fullName": "Fiona Wood",
+          "slug": "fiona-wood",
+          "jobTitle": "Creative Director",
+          "company": "VisionaryLab",
+          "bio": "Fiona blends design with technology to create interactive brand experiences.",
+          "profilePhotoUrl": "https://example.com/photos/fiona_wood.jpg"
+        },
+        {
+          "firstName": "Gavin",
+          "lastName": "Rhodes",
+          "fullName": "Gavin Rhodes",
+          "slug": "gavin-rhodes",
+          "jobTitle": "Multimedia Producer",
+          "company": "MediaSpark",
+          "bio": "Gavin creates visual and video content strategies for digital campaigns.",
+          "profilePhotoUrl": "https://example.com/photos/gavin_rhodes.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Content Management",
+        "industry": "Media & Entertainment",
+        "level": "Beginner",
+        "topics": [
+          "Visual Content",
+          "Brand Engagement"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Content Management",
-      "industry": "Media & Entertainment",
-      "level": "Beginner",
-      "topics": ["Visual Content", "Brand Engagement"]
-    }
-  },
-
-  {
-    "title": "Session 3A: Automation in Customer Acquisition",
-    "slug": "session-3a-automation-in-customer-acquisition",
-    "description": "How to leverage marketing automation platforms for rapid customer growth.",
-    "startTime": "2025-09-01T10:00:00Z",
-    "endTime": "2025-09-01T10:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Heather",
-        "lastName": "James",
-        "fullName": "Heather James",
-        "slug": "heather-james",
-        "jobTitle": "Marketing Automation Lead",
-        "company": "Automate360",
-        "bio": "Heather integrates automation solutions into high-velocity sales pipelines.",
-        "profilePhotoUrl": "https://example.com/photos/heather_james.jpg"
-      },
-      {
-        "firstName": "Ian",
-        "lastName": "Boyd",
-        "fullName": "Ian Boyd",
-        "slug": "ian-boyd",
-        "jobTitle": "Growth Hacker",
-        "company": "GrowthSphere",
-        "bio": "Ian employs A/B testing and automation to accelerate conversion rates.",
-        "profilePhotoUrl": "https://example.com/photos/ian_boyd.jpg"
+    },
+    {
+      "title": "Session 3A: Automation in Customer Acquisition",
+      "slug": "session-3a-automation-in-customer-acquisition",
+      "description": "How to leverage marketing automation platforms for rapid customer growth.",
+      "startTime": "2025-09-01T10:00:00Z",
+      "endTime": "2025-09-01T10:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Heather",
+          "lastName": "James",
+          "fullName": "Heather James",
+          "slug": "heather-james",
+          "jobTitle": "Marketing Automation Lead",
+          "company": "Automate360",
+          "bio": "Heather integrates automation solutions into high-velocity sales pipelines.",
+          "profilePhotoUrl": "https://example.com/photos/heather_james.jpg"
+        },
+        {
+          "firstName": "Ian",
+          "lastName": "Boyd",
+          "fullName": "Ian Boyd",
+          "slug": "ian-boyd",
+          "jobTitle": "Growth Hacker",
+          "company": "GrowthSphere",
+          "bio": "Ian employs A/B testing and automation to accelerate conversion rates.",
+          "profilePhotoUrl": "https://example.com/photos/ian_boyd.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Customer Acquisition",
+        "industry": "Consulting",
+        "level": "Intermediate",
+        "topics": [
+          "Automation",
+          "Lead Management"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Customer Acquisition",
-      "industry": "Consulting",
-      "level": "Intermediate",
-      "topics": ["Automation", "Lead Management"]
-    }
-  },
-  {
-    "title": "Session 3B: Content Supply Chain for Global Teams",
-    "slug": "session-3b-content-supply-chain-for-global-teams",
-    "description": "Coordinate content creation across different regions while maintaining brand consistency.",
-    "startTime": "2025-09-01T10:00:00Z",
-    "endTime": "2025-09-01T10:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Janet",
-        "lastName": "Wilson",
-        "fullName": "Janet Wilson",
-        "slug": "janet-wilson",
-        "jobTitle": "Global Content Strategist",
-        "company": "TransGlobal Corp",
-        "bio": "Janet has launched multinational content campaigns for multiple Fortune 500s.",
-        "profilePhotoUrl": "https://example.com/photos/janet_wilson.jpg"
-      },
-      {
-        "firstName": "Kieran",
-        "lastName": "Frost",
-        "fullName": "Kieran Frost",
-        "slug": "kieran-frost",
-        "jobTitle": "Localization Manager",
-        "company": "LinguaTech",
-        "bio": "Kieran ensures brand consistency through localized content strategies.",
-        "profilePhotoUrl": "https://example.com/photos/kieran_frost.jpg"
+    },
+    {
+      "title": "Session 3B: Content Supply Chain for Global Teams",
+      "slug": "session-3b-content-supply-chain-for-global-teams",
+      "description": "Coordinate content creation across different regions while maintaining brand consistency.",
+      "startTime": "2025-09-01T10:00:00Z",
+      "endTime": "2025-09-01T10:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Janet",
+          "lastName": "Wilson",
+          "fullName": "Janet Wilson",
+          "slug": "janet-wilson",
+          "jobTitle": "Global Content Strategist",
+          "company": "TransGlobal Corp",
+          "bio": "Janet has launched multinational content campaigns for multiple Fortune 500s.",
+          "profilePhotoUrl": "https://example.com/photos/janet_wilson.jpg"
+        },
+        {
+          "firstName": "Kieran",
+          "lastName": "Frost",
+          "fullName": "Kieran Frost",
+          "slug": "kieran-frost",
+          "jobTitle": "Localization Manager",
+          "company": "LinguaTech",
+          "bio": "Kieran ensures brand consistency through localized content strategies.",
+          "profilePhotoUrl": "https://example.com/photos/kieran_frost.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Content Supply Chain",
+        "industry": "Public Sector",
+        "level": "Advanced",
+        "topics": [
+          "Localization",
+          "Global Strategy"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Content Supply Chain",
-      "industry": "Public Sector",
-      "level": "Advanced",
-      "topics": ["Localization", "Global Strategy"]
-    }
-  },
-  {
-    "title": "Session 3C: Data-Driven Influencer Marketing",
-    "slug": "session-3c-data-driven-influencer-marketing",
-    "description": "Use analytics to select the right influencers and measure real ROI.",
-    "startTime": "2025-09-01T10:00:00Z",
-    "endTime": "2025-09-01T10:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Lauren",
-        "lastName": "Reed",
-        "fullName": "Lauren Reed",
-        "slug": "lauren-reed",
-        "jobTitle": "Social Media Strategist",
-        "company": "BuzzConnect",
-        "bio": "Lauren's data-centric approach has boosted engagement for global brands.",
-        "profilePhotoUrl": "https://example.com/photos/lauren_reed.jpg"
-      },
-      {
-        "firstName": "Marcus",
-        "lastName": "Stevens",
-        "fullName": "Marcus Stevens",
-        "slug": "marcus-stevens",
-        "jobTitle": "Digital Analyst",
-        "company": "MetricMinds",
-        "bio": "Marcus deciphers key metrics to optimize influencer partnerships.",
-        "profilePhotoUrl": "https://example.com/photos/marcus_stevens.jpg"
+    },
+    {
+      "title": "Session 3C: Data-Driven Influencer Marketing",
+      "slug": "session-3c-data-driven-influencer-marketing",
+      "description": "Use analytics to select the right influencers and measure real ROI.",
+      "startTime": "2025-09-01T10:00:00Z",
+      "endTime": "2025-09-01T10:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Lauren",
+          "lastName": "Reed",
+          "fullName": "Lauren Reed",
+          "slug": "lauren-reed",
+          "jobTitle": "Social Media Strategist",
+          "company": "BuzzConnect",
+          "bio": "Lauren's data-centric approach has boosted engagement for global brands.",
+          "profilePhotoUrl": "https://example.com/photos/lauren_reed.jpg"
+        },
+        {
+          "firstName": "Marcus",
+          "lastName": "Stevens",
+          "fullName": "Marcus Stevens",
+          "slug": "marcus-stevens",
+          "jobTitle": "Digital Analyst",
+          "company": "MetricMinds",
+          "bio": "Marcus deciphers key metrics to optimize influencer partnerships.",
+          "profilePhotoUrl": "https://example.com/photos/marcus_stevens.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Customer Acquisition",
+        "industry": "Retail",
+        "level": "Intermediate",
+        "topics": [
+          "Influencer Marketing",
+          "Data Analysis"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Customer Acquisition",
-      "industry": "Retail",
-      "level": "Intermediate",
-      "topics": ["Influencer Marketing", "Data Analysis"]
-    }
-  },
-  {
-    "title": "Session 3D: Building AI-Ready Content Teams",
-    "slug": "session-3d-building-ai-ready-content-teams",
-    "description": "How to upskill content teams to collaborate effectively with AI tools.",
-    "startTime": "2025-09-01T10:00:00Z",
-    "endTime": "2025-09-01T10:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Nina",
-        "lastName": "Cole",
-        "fullName": "Nina Cole",
-        "slug": "nina-cole",
-        "jobTitle": "Innovation Director",
-        "company": "FutureWorks",
-        "bio": "Nina guides organizations through AI adoption and workflow transformation.",
-        "profilePhotoUrl": "https://example.com/photos/nina_cole.jpg"
-      },
-      {
-        "firstName": "Oscar",
-        "lastName": "Reyes",
-        "fullName": "Oscar Reyes",
-        "slug": "oscar-reyes",
-        "jobTitle": "Content AI Specialist",
-        "company": "ContentAI",
-        "bio": "Oscar implements AI-based content solutions for enterprise clients.",
-        "profilePhotoUrl": "https://example.com/photos/oscar_reyes.jpg"
+    },
+    {
+      "title": "Session 3D: Building AI-Ready Content Teams",
+      "slug": "session-3d-building-ai-ready-content-teams",
+      "description": "How to upskill content teams to collaborate effectively with AI tools.",
+      "startTime": "2025-09-01T10:00:00Z",
+      "endTime": "2025-09-01T10:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Nina",
+          "lastName": "Cole",
+          "fullName": "Nina Cole",
+          "slug": "nina-cole",
+          "jobTitle": "Innovation Director",
+          "company": "FutureWorks",
+          "bio": "Nina guides organizations through AI adoption and workflow transformation.",
+          "profilePhotoUrl": "https://example.com/photos/nina_cole.jpg"
+        },
+        {
+          "firstName": "Oscar",
+          "lastName": "Reyes",
+          "fullName": "Oscar Reyes",
+          "slug": "oscar-reyes",
+          "jobTitle": "Content AI Specialist",
+          "company": "ContentAI",
+          "bio": "Oscar implements AI-based content solutions for enterprise clients.",
+          "profilePhotoUrl": "https://example.com/photos/oscar_reyes.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Generative AI",
+        "industry": "Technology",
+        "level": "Beginner",
+        "topics": [
+          "Team Development",
+          "AI Tools"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Generative AI",
-      "industry": "Technology",
-      "level": "Beginner",
-      "topics": ["Team Development", "AI Tools"]
-    }
-  },
-  {
-    "title": "Session 3E: Enhancing Customer Journeys with Real-Time Data",
-    "slug": "session-3e-enhancing-customer-journeys-with-real-time-data",
-    "description": "Leverage real-time analytics to tailor the customer experience instantly.",
-    "startTime": "2025-09-01T10:00:00Z",
-    "endTime": "2025-09-01T10:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Priya",
-        "lastName": "Kapoor",
-        "fullName": "Priya Kapoor",
-        "slug": "priya-kapoor",
-        "jobTitle": "Real-Time Data Architect",
-        "company": "DataPulse",
-        "bio": "Priya designs scalable solutions for instant data-driven customer interactions.",
-        "profilePhotoUrl": "https://example.com/photos/priya_kapoor.jpg"
-      },
-      {
-        "firstName": "Raymond",
-        "lastName": "Adams",
-        "fullName": "Raymond Adams",
-        "slug": "raymond-adams",
-        "jobTitle": "Customer Experience Lead",
-        "company": "JourneyLogic",
-        "bio": "Raymond merges data insights with user-centric design for top brands.",
-        "profilePhotoUrl": "https://example.com/photos/raymond_adams.jpg"
+    },
+    {
+      "title": "Session 3E: Enhancing Customer Journeys with Real-Time Data",
+      "slug": "session-3e-enhancing-customer-journeys-with-real-time-data",
+      "description": "Leverage real-time analytics to tailor the customer experience instantly.",
+      "startTime": "2025-09-01T10:00:00Z",
+      "endTime": "2025-09-01T10:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Priya",
+          "lastName": "Kapoor",
+          "fullName": "Priya Kapoor",
+          "slug": "priya-kapoor",
+          "jobTitle": "Real-Time Data Architect",
+          "company": "DataPulse",
+          "bio": "Priya designs scalable solutions for instant data-driven customer interactions.",
+          "profilePhotoUrl": "https://example.com/photos/priya_kapoor.jpg"
+        },
+        {
+          "firstName": "Raymond",
+          "lastName": "Adams",
+          "fullName": "Raymond Adams",
+          "slug": "raymond-adams",
+          "jobTitle": "Customer Experience Lead",
+          "company": "JourneyLogic",
+          "bio": "Raymond merges data insights with user-centric design for top brands.",
+          "profilePhotoUrl": "https://example.com/photos/raymond_adams.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Customer Journey Management",
+        "industry": "Hospitality",
+        "level": "Advanced",
+        "topics": [
+          "Real-Time Analytics",
+          "Personalization"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Customer Journey Management",
-      "industry": "Hospitality",
-      "level": "Advanced",
-      "topics": ["Real-Time Analytics", "Personalization"]
-    }
-  },
-
-  {
-    "title": "Session 4A: Unified Customer Experience Strategies",
-    "slug": "session-4a-unified-customer-experience-strategies",
-    "description": "Key steps to unify online and offline touchpoints for a cohesive brand presence.",
-    "startTime": "2025-09-01T11:00:00Z",
-    "endTime": "2025-09-01T11:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Sarah",
-        "lastName": "Kennedy",
-        "fullName": "Sarah Kennedy",
-        "slug": "sarah-kennedy",
-        "jobTitle": "CX Platform Manager",
-        "company": "OmniLink",
-        "bio": "Sarah orchestrates channel integration and unified messaging strategies.",
-        "profilePhotoUrl": "https://example.com/photos/sarah_kennedy.jpg"
-      },
-      {
-        "firstName": "Tomas",
-        "lastName": "Vargas",
-        "fullName": "Tomas Vargas",
-        "slug": "tomas-vargas",
-        "jobTitle": "Business Analyst",
-        "company": "EngageNow",
-        "bio": "Tomas uses data to align brand communications across consumer journeys.",
-        "profilePhotoUrl": "https://example.com/photos/tomas_vargas.jpg"
+    },
+    {
+      "title": "Session 4A: Unified Customer Experience Strategies",
+      "slug": "session-4a-unified-customer-experience-strategies",
+      "description": "Key steps to unify online and offline touchpoints for a cohesive brand presence.",
+      "startTime": "2025-09-01T11:00:00Z",
+      "endTime": "2025-09-01T11:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Sarah",
+          "lastName": "Kennedy",
+          "fullName": "Sarah Kennedy",
+          "slug": "sarah-kennedy",
+          "jobTitle": "CX Platform Manager",
+          "company": "OmniLink",
+          "bio": "Sarah orchestrates channel integration and unified messaging strategies.",
+          "profilePhotoUrl": "https://example.com/photos/sarah_kennedy.jpg"
+        },
+        {
+          "firstName": "Tomas",
+          "lastName": "Vargas",
+          "fullName": "Tomas Vargas",
+          "slug": "tomas-vargas",
+          "jobTitle": "Business Analyst",
+          "company": "EngageNow",
+          "bio": "Tomas uses data to align brand communications across consumer journeys.",
+          "profilePhotoUrl": "https://example.com/photos/tomas_vargas.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Unified Customer Experience",
+        "industry": "Energy",
+        "level": "Intermediate",
+        "topics": [
+          "Omnichannel",
+          "Customer Lifecycle"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Unified Customer Experience",
-      "industry": "Energy",
-      "level": "Intermediate",
-      "topics": ["Omnichannel", "Customer Lifecycle"]
-    }
-  },
-  {
-    "title": "Session 4B: Intro to Customer Data Platforms (CDPs)",
-    "slug": "session-4b-intro-to-customer-data-platforms",
-    "description": "Understand the core functionalities and benefits of modern CDPs.",
-    "startTime": "2025-09-01T11:00:00Z",
-    "endTime": "2025-09-01T11:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Uma",
-        "lastName": "Patel",
-        "fullName": "Uma Patel",
-        "slug": "uma-patel",
-        "jobTitle": "CDP Consultant",
-        "company": "DataUnify",
-        "bio": "Uma helps organizations transition to centralized data management systems.",
-        "profilePhotoUrl": "https://example.com/photos/uma_patel.jpg"
-      },
-      {
-        "firstName": "Victor",
-        "lastName": "Henderson",
-        "fullName": "Victor Henderson",
-        "slug": "victor-henderson",
-        "jobTitle": "Marketing Technologist",
-        "company": "TechBridge",
-        "bio": "Victor specializes in configuring marketing stacks for maximum efficiency.",
-        "profilePhotoUrl": "https://example.com/photos/victor_henderson.jpg"
+    },
+    {
+      "title": "Session 4B: Intro to Customer Data Platforms (CDPs)",
+      "slug": "session-4b-intro-to-customer-data-platforms",
+      "description": "Understand the core functionalities and benefits of modern CDPs.",
+      "startTime": "2025-09-01T11:00:00Z",
+      "endTime": "2025-09-01T11:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Uma",
+          "lastName": "Patel",
+          "fullName": "Uma Patel",
+          "slug": "uma-patel",
+          "jobTitle": "CDP Consultant",
+          "company": "DataUnify",
+          "bio": "Uma helps organizations transition to centralized data management systems.",
+          "profilePhotoUrl": "https://example.com/photos/uma_patel.jpg"
+        },
+        {
+          "firstName": "Victor",
+          "lastName": "Henderson",
+          "fullName": "Victor Henderson",
+          "slug": "victor-henderson",
+          "jobTitle": "Marketing Technologist",
+          "company": "TechBridge",
+          "bio": "Victor specializes in configuring marketing stacks for maximum efficiency.",
+          "profilePhotoUrl": "https://example.com/photos/victor_henderson.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Customer Data Management",
+        "industry": "Technology",
+        "level": "Beginner",
+        "topics": [
+          "CDP",
+          "Data Integration"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Customer Data Management",
-      "industry": "Technology",
-      "level": "Beginner",
-      "topics": ["CDP", "Data Integration"]
-    }
-  },
-  {
-    "title": "Session 4C: Content Management Systems - Selecting the Right Fit",
-    "slug": "session-4c-cms-selecting-the-right-fit",
-    "description": "A comparative look at leading CMS platforms and how to choose for your organization.",
-    "startTime": "2025-09-01T11:00:00Z",
-    "endTime": "2025-09-01T11:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Willow",
-        "lastName": "Chang",
-        "fullName": "Willow Chang",
-        "slug": "willow-chang",
-        "jobTitle": "CMS Specialist",
-        "company": "WebCore",
-        "bio": "Willow implements enterprise CMS solutions across diverse industries.",
-        "profilePhotoUrl": "https://example.com/photos/willow_chang.jpg"
-      },
-      {
-        "firstName": "Xavier",
-        "lastName": "Hunter",
-        "fullName": "Xavier Hunter",
-        "slug": "xavier-hunter",
-        "jobTitle": "Solutions Architect",
-        "company": "DigitAll",
-        "bio": "Xavier focuses on robust architecture and integrations within CMS platforms.",
-        "profilePhotoUrl": "https://example.com/photos/xavier_hunter.jpg"
+    },
+    {
+      "title": "Session 4C: Content Management Systems - Selecting the Right Fit",
+      "slug": "session-4c-cms-selecting-the-right-fit",
+      "description": "A comparative look at leading CMS platforms and how to choose for your organization.",
+      "startTime": "2025-09-01T11:00:00Z",
+      "endTime": "2025-09-01T11:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Willow",
+          "lastName": "Chang",
+          "fullName": "Willow Chang",
+          "slug": "willow-chang",
+          "jobTitle": "CMS Specialist",
+          "company": "WebCore",
+          "bio": "Willow implements enterprise CMS solutions across diverse industries.",
+          "profilePhotoUrl": "https://example.com/photos/willow_chang.jpg"
+        },
+        {
+          "firstName": "Xavier",
+          "lastName": "Hunter",
+          "fullName": "Xavier Hunter",
+          "slug": "xavier-hunter",
+          "jobTitle": "Solutions Architect",
+          "company": "DigitAll",
+          "bio": "Xavier focuses on robust architecture and integrations within CMS platforms.",
+          "profilePhotoUrl": "https://example.com/photos/xavier_hunter.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Content Management",
+        "industry": "Manufacturing",
+        "level": "Intermediate",
+        "topics": [
+          "CMS",
+          "Platform Comparison"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Content Management",
-      "industry": "Manufacturing",
-      "level": "Intermediate",
-      "topics": ["CMS", "Platform Comparison"]
-    }
-  },
-  {
-    "title": "Session 4D: Revolutionizing Lead Gen with AI Chatbots",
-    "slug": "session-4d-revolutionizing-lead-gen-with-ai-chatbots",
-    "description": "Learn how AI chatbots can automate lead qualification and engagement.",
-    "startTime": "2025-09-01T11:00:00Z",
-    "endTime": "2025-09-01T11:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Yvonne",
-        "lastName": "Ellis",
-        "fullName": "Yvonne Ellis",
-        "slug": "yvonne-ellis",
-        "jobTitle": "Conversational AI Lead",
-        "company": "BotBuilders",
-        "bio": "Yvonne develops chatbots that guide prospects through initial sales funnels.",
-        "profilePhotoUrl": "https://example.com/photos/yvonne_ellis.jpg"
-      },
-      {
-        "firstName": "Zachary",
-        "lastName": "Nolan",
-        "fullName": "Zachary Nolan",
-        "slug": "zachary-nolan",
-        "jobTitle": "Sales Automation Architect",
-        "company": "LeadFlow",
-        "bio": "Zachary's frameworks streamline lead nurturing using AI-driven solutions.",
-        "profilePhotoUrl": "https://example.com/photos/zachary_nolan.jpg"
+    },
+    {
+      "title": "Session 4D: Revolutionizing Lead Gen with AI Chatbots",
+      "slug": "session-4d-revolutionizing-lead-gen-with-ai-chatbots",
+      "description": "Learn how AI chatbots can automate lead qualification and engagement.",
+      "startTime": "2025-09-01T11:00:00Z",
+      "endTime": "2025-09-01T11:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Yvonne",
+          "lastName": "Ellis",
+          "fullName": "Yvonne Ellis",
+          "slug": "yvonne-ellis",
+          "jobTitle": "Conversational AI Lead",
+          "company": "BotBuilders",
+          "bio": "Yvonne develops chatbots that guide prospects through initial sales funnels.",
+          "profilePhotoUrl": "https://example.com/photos/yvonne_ellis.jpg"
+        },
+        {
+          "firstName": "Zachary",
+          "lastName": "Nolan",
+          "fullName": "Zachary Nolan",
+          "slug": "zachary-nolan",
+          "jobTitle": "Sales Automation Architect",
+          "company": "LeadFlow",
+          "bio": "Zachary's frameworks streamline lead nurturing using AI-driven solutions.",
+          "profilePhotoUrl": "https://example.com/photos/zachary_nolan.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Generative AI",
+        "industry": "Consulting",
+        "level": "Advanced",
+        "topics": [
+          "Chatbots",
+          "Lead Generation"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Generative AI",
-      "industry": "Consulting",
-      "level": "Advanced",
-      "topics": ["Chatbots", "Lead Generation"]
-    }
-  },
-  {
-    "title": "Session 4E: Customer-Centric Metrics for Journey Improvement",
-    "slug": "session-4e-customer-centric-metrics-for-journey-improvement",
-    "description": "Identify and track the most critical metrics for each stage of the customer journey.",
-    "startTime": "2025-09-01T11:00:00Z",
-    "endTime": "2025-09-01T11:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Amanda",
-        "lastName": "Fox",
-        "fullName": "Amanda Fox",
-        "slug": "amanda-fox",
-        "jobTitle": "Data Insights Manager",
-        "company": "MetricLabs",
-        "bio": "Amanda crafts KPIs to measure digital and physical customer engagement.",
-        "profilePhotoUrl": "https://example.com/photos/amanda_fox.jpg"
-      },
-      {
-        "firstName": "Benjamin",
-        "lastName": "Rice",
-        "fullName": "Benjamin Rice",
-        "slug": "benjamin-rice",
-        "jobTitle": "Customer Experience Consultant",
-        "company": "CX Partners",
-        "bio": "Benjamin aligns company goals with journey-based performance indicators.",
-        "profilePhotoUrl": "https://example.com/photos/benjamin_rice.jpg"
+    },
+    {
+      "title": "Session 4E: Customer-Centric Metrics for Journey Improvement",
+      "slug": "session-4e-customer-centric-metrics-for-journey-improvement",
+      "description": "Identify and track the most critical metrics for each stage of the customer journey.",
+      "startTime": "2025-09-01T11:00:00Z",
+      "endTime": "2025-09-01T11:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Amanda",
+          "lastName": "Fox",
+          "fullName": "Amanda Fox",
+          "slug": "amanda-fox",
+          "jobTitle": "Data Insights Manager",
+          "company": "MetricLabs",
+          "bio": "Amanda crafts KPIs to measure digital and physical customer engagement.",
+          "profilePhotoUrl": "https://example.com/photos/amanda_fox.jpg"
+        },
+        {
+          "firstName": "Benjamin",
+          "lastName": "Rice",
+          "fullName": "Benjamin Rice",
+          "slug": "benjamin-rice",
+          "jobTitle": "Customer Experience Consultant",
+          "company": "CX Partners",
+          "bio": "Benjamin aligns company goals with journey-based performance indicators.",
+          "profilePhotoUrl": "https://example.com/photos/benjamin_rice.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Customer Journey Management",
+        "industry": "Healthcare",
+        "level": "Advanced",
+        "topics": [
+          "Journey Analytics",
+          "KPI Development"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Customer Journey Management",
-      "industry": "Healthcare",
-      "level": "Advanced",
-      "topics": ["Journey Analytics", "KPI Development"]
-    }
-  },
-
-  {
-    "title": "Session 5A: Unified CX in the Manufacturing Sector",
-    "slug": "session-5a-unified-cx-in-the-manufacturing-sector",
-    "description": "Tactics to unify communication and support for B2B manufacturing clients.",
-    "startTime": "2025-09-01T12:00:00Z",
-    "endTime": "2025-09-01T12:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Brianna",
-        "lastName": "Hall",
-        "fullName": "Brianna Hall",
-        "slug": "brianna-hall",
-        "jobTitle": "Industry Marketing Manager",
-        "company": "MakeTech",
-        "bio": "Brianna focuses on bridging technical product details with marketing messaging.",
-        "profilePhotoUrl": "https://example.com/photos/brianna_hall.jpg"
-      },
-      {
-        "firstName": "Carson",
-        "lastName": "Evans",
-        "fullName": "Carson Evans",
-        "slug": "carson-evans",
-        "jobTitle": "Customer Success Director",
-        "company": "IndustrialCX",
-        "bio": "Carson implements omnichannel strategies for manufacturing businesses.",
-        "profilePhotoUrl": "https://example.com/photos/carson_evans.jpg"
+    },
+    {
+      "title": "Session 5A: Unified CX in the Manufacturing Sector",
+      "slug": "session-5a-unified-cx-in-the-manufacturing-sector",
+      "description": "Tactics to unify communication and support for B2B manufacturing clients.",
+      "startTime": "2025-09-01T12:00:00Z",
+      "endTime": "2025-09-01T12:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Brianna",
+          "lastName": "Hall",
+          "fullName": "Brianna Hall",
+          "slug": "brianna-hall",
+          "jobTitle": "Industry Marketing Manager",
+          "company": "MakeTech",
+          "bio": "Brianna focuses on bridging technical product details with marketing messaging.",
+          "profilePhotoUrl": "https://example.com/photos/brianna_hall.jpg"
+        },
+        {
+          "firstName": "Carson",
+          "lastName": "Evans",
+          "fullName": "Carson Evans",
+          "slug": "carson-evans",
+          "jobTitle": "Customer Success Director",
+          "company": "IndustrialCX",
+          "bio": "Carson implements omnichannel strategies for manufacturing businesses.",
+          "profilePhotoUrl": "https://example.com/photos/carson_evans.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Unified Customer Experience",
+        "industry": "Manufacturing",
+        "level": "Intermediate",
+        "topics": [
+          "Omnichannel",
+          "B2B Marketing"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Unified Customer Experience",
-      "industry": "Manufacturing",
-      "level": "Intermediate",
-      "topics": ["Omnichannel", "B2B Marketing"]
-    }
-  },
-  {
-    "title": "Session 5B: Data Privacy and Compliance Essentials",
-    "slug": "session-5b-data-privacy-and-compliance-essentials",
-    "description": "Navigate global data regulations to maintain trust and protect customer data.",
-    "startTime": "2025-09-01T12:00:00Z",
-    "endTime": "2025-09-01T12:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Diana",
-        "lastName": "Osborne",
-        "fullName": "Diana Osborne",
-        "slug": "diana-osborne",
-        "jobTitle": "Data Privacy Officer",
-        "company": "PrivacyShield",
-        "bio": "Diana is an expert in GDPR, CCPA, and data governance frameworks.",
-        "profilePhotoUrl": "https://example.com/photos/diana_osborne.jpg"
-      },
-      {
-        "firstName": "Edward",
-        "lastName": "Ibrahim",
-        "fullName": "Edward Ibrahim",
-        "slug": "edward-ibrahim",
-        "jobTitle": "Legal Counsel",
-        "company": "SecureData Law",
-        "bio": "Edward advises global corporations on data protection and compliance.",
-        "profilePhotoUrl": "https://example.com/photos/edward_ibrahim.jpg"
+    },
+    {
+      "title": "Session 5B: Data Privacy and Compliance Essentials",
+      "slug": "session-5b-data-privacy-and-compliance-essentials",
+      "description": "Navigate global data regulations to maintain trust and protect customer data.",
+      "startTime": "2025-09-01T12:00:00Z",
+      "endTime": "2025-09-01T12:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Diana",
+          "lastName": "Osborne",
+          "fullName": "Diana Osborne",
+          "slug": "diana-osborne",
+          "jobTitle": "Data Privacy Officer",
+          "company": "PrivacyShield",
+          "bio": "Diana is an expert in GDPR, CCPA, and data governance frameworks.",
+          "profilePhotoUrl": "https://example.com/photos/diana_osborne.jpg"
+        },
+        {
+          "firstName": "Edward",
+          "lastName": "Ibrahim",
+          "fullName": "Edward Ibrahim",
+          "slug": "edward-ibrahim",
+          "jobTitle": "Legal Counsel",
+          "company": "SecureData Law",
+          "bio": "Edward advises global corporations on data protection and compliance.",
+          "profilePhotoUrl": "https://example.com/photos/edward_ibrahim.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Customer Data Management",
+        "industry": "Financial Services",
+        "level": "Advanced",
+        "topics": [
+          "Compliance",
+          "Security"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Customer Data Management",
-      "industry": "Financial Services",
-      "level": "Advanced",
-      "topics": ["Compliance", "Security"]
-    }
-  },
-  {
-    "title": "Session 5C: Governing Brand Voice in Content Supply Chains",
-    "slug": "session-5c-governing-brand-voice-in-content-supply-chains",
-    "description": "Implement governance protocols to keep brand messaging consistent across content creators.",
-    "startTime": "2025-09-01T12:00:00Z",
-    "endTime": "2025-09-01T12:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Farah",
-        "lastName": "Khan",
-        "fullName": "Farah Khan",
-        "slug": "farah-khan",
-        "jobTitle": "Global Brand Manager",
-        "company": "BrandGuard",
-        "bio": "Farah ensures brand standards are upheld across multiple geographies.",
-        "profilePhotoUrl": "https://example.com/photos/farah_khan.jpg"
-      },
-      {
-        "firstName": "Gustavo",
-        "lastName": "Ortega",
-        "fullName": "Gustavo Ortega",
-        "slug": "gustavo-ortega",
-        "jobTitle": "Content Governance Specialist",
-        "company": "ContentChain",
-        "bio": "Gustavo builds frameworks for brand coherence throughout the content supply chain.",
-        "profilePhotoUrl": "https://example.com/photos/gustavo_ortega.jpg"
+    },
+    {
+      "title": "Session 5C: Governing Brand Voice in Content Supply Chains",
+      "slug": "session-5c-governing-brand-voice-in-content-supply-chains",
+      "description": "Implement governance protocols to keep brand messaging consistent across content creators.",
+      "startTime": "2025-09-01T12:00:00Z",
+      "endTime": "2025-09-01T12:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Farah",
+          "lastName": "Khan",
+          "fullName": "Farah Khan",
+          "slug": "farah-khan",
+          "jobTitle": "Global Brand Manager",
+          "company": "BrandGuard",
+          "bio": "Farah ensures brand standards are upheld across multiple geographies.",
+          "profilePhotoUrl": "https://example.com/photos/farah_khan.jpg"
+        },
+        {
+          "firstName": "Gustavo",
+          "lastName": "Ortega",
+          "fullName": "Gustavo Ortega",
+          "slug": "gustavo-ortega",
+          "jobTitle": "Content Governance Specialist",
+          "company": "ContentChain",
+          "bio": "Gustavo builds frameworks for brand coherence throughout the content supply chain.",
+          "profilePhotoUrl": "https://example.com/photos/gustavo_ortega.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Content Supply Chain",
+        "industry": "Media & Entertainment",
+        "level": "Intermediate",
+        "topics": [
+          "Brand Governance",
+          "Content Strategy"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Content Supply Chain",
-      "industry": "Media & Entertainment",
-      "level": "Intermediate",
-      "topics": ["Brand Governance", "Content Strategy"]
-    }
-  },
-  {
-    "title": "Session 5D: AI-Enhanced Social Media Listening",
-    "slug": "session-5d-ai-enhanced-social-media-listening",
-    "description": "Monitor and analyze social conversations with advanced AI sentiment analysis.",
-    "startTime": "2025-09-01T12:00:00Z",
-    "endTime": "2025-09-01T12:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Hannah",
-        "lastName": "Shaw",
-        "fullName": "Hannah Shaw",
-        "slug": "hannah-shaw",
-        "jobTitle": "Social Intelligence Manager",
-        "company": "ListenTech",
-        "bio": "Hannah uses AI to track brand perception and competitor strategies.",
-        "profilePhotoUrl": "https://example.com/photos/hannah_shaw.jpg"
-      },
-      {
-        "firstName": "Irfan",
-        "lastName": "Durrani",
-        "fullName": "Irfan Durrani",
-        "slug": "irfan-durrani",
-        "jobTitle": "Data Scientist",
-        "company": "DeepInsights",
-        "bio": "Irfan's sentiment models provide actionable insights from social data streams.",
-        "profilePhotoUrl": "https://example.com/photos/irfan_durrani.jpg"
+    },
+    {
+      "title": "Session 5D: AI-Enhanced Social Media Listening",
+      "slug": "session-5d-ai-enhanced-social-media-listening",
+      "description": "Monitor and analyze social conversations with advanced AI sentiment analysis.",
+      "startTime": "2025-09-01T12:00:00Z",
+      "endTime": "2025-09-01T12:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Hannah",
+          "lastName": "Shaw",
+          "fullName": "Hannah Shaw",
+          "slug": "hannah-shaw",
+          "jobTitle": "Social Intelligence Manager",
+          "company": "ListenTech",
+          "bio": "Hannah uses AI to track brand perception and competitor strategies.",
+          "profilePhotoUrl": "https://example.com/photos/hannah_shaw.jpg"
+        },
+        {
+          "firstName": "Irfan",
+          "lastName": "Durrani",
+          "fullName": "Irfan Durrani",
+          "slug": "irfan-durrani",
+          "jobTitle": "Data Scientist",
+          "company": "DeepInsights",
+          "bio": "Irfan's sentiment models provide actionable insights from social data streams.",
+          "profilePhotoUrl": "https://example.com/photos/irfan_durrani.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Generative AI",
+        "industry": "Retail",
+        "level": "Advanced",
+        "topics": [
+          "AI",
+          "Social Media"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Generative AI",
-      "industry": "Retail",
-      "level": "Advanced",
-      "topics": ["AI", "Social Media"]
-    }
-  },
-  {
-    "title": "Session 5E: Customer Journey Mapping for Non-Profits",
-    "slug": "session-5e-customer-journey-mapping-for-non-profits",
-    "description": "Tailor your communication and fundraising strategies to unique supporter journeys.",
-    "startTime": "2025-09-01T12:00:00Z",
-    "endTime": "2025-09-01T12:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Jasmine",
-        "lastName": "Coleman",
-        "fullName": "Jasmine Coleman",
-        "slug": "jasmine-coleman",
-        "jobTitle": "Fundraising Strategist",
-        "company": "CauseConnect",
-        "bio": "Jasmine helps non-profits optimize donor experience and retention.",
-        "profilePhotoUrl": "https://example.com/photos/jasmine_coleman.jpg"
-      },
-      {
-        "firstName": "Kenny",
-        "lastName": "Morgan",
-        "fullName": "Kenny Morgan",
-        "slug": "kenny-morgan",
-        "jobTitle": "Volunteer Engagement Lead",
-        "company": "ServeBetter",
-        "bio": "Kenny develops volunteer journey frameworks across multiple channels.",
-        "profilePhotoUrl": "https://example.com/photos/kenny_morgan.jpg"
+    },
+    {
+      "title": "Session 5E: Customer Journey Mapping for Non-Profits",
+      "slug": "session-5e-customer-journey-mapping-for-non-profits",
+      "description": "Tailor your communication and fundraising strategies to unique supporter journeys.",
+      "startTime": "2025-09-01T12:00:00Z",
+      "endTime": "2025-09-01T12:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Jasmine",
+          "lastName": "Coleman",
+          "fullName": "Jasmine Coleman",
+          "slug": "jasmine-coleman",
+          "jobTitle": "Fundraising Strategist",
+          "company": "CauseConnect",
+          "bio": "Jasmine helps non-profits optimize donor experience and retention.",
+          "profilePhotoUrl": "https://example.com/photos/jasmine_coleman.jpg"
+        },
+        {
+          "firstName": "Kenny",
+          "lastName": "Morgan",
+          "fullName": "Kenny Morgan",
+          "slug": "kenny-morgan",
+          "jobTitle": "Volunteer Engagement Lead",
+          "company": "ServeBetter",
+          "bio": "Kenny develops volunteer journey frameworks across multiple channels.",
+          "profilePhotoUrl": "https://example.com/photos/kenny_morgan.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Customer Journey Management",
+        "industry": "Non-Profit",
+        "level": "Beginner",
+        "topics": [
+          "Donor Retention",
+          "Supporter Engagement"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Customer Journey Management",
-      "industry": "Non-Profit",
-      "level": "Beginner",
-      "topics": ["Donor Retention", "Supporter Engagement"]
-    }
-  },
-
-  {
-    "title": "Session 6A: Emerging Trends in B2B Marketing",
-    "slug": "session-6a-emerging-trends-in-b2b-marketing",
-    "description": "Stay ahead of the curve with the latest B2B marketing strategies and tools.",
-    "startTime": "2025-09-01T13:00:00Z",
-    "endTime": "2025-09-01T13:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Luke",
-        "lastName": "Davenport",
-        "fullName": "Luke Davenport",
-        "slug": "luke-davenport",
-        "jobTitle": "B2B Specialist",
-        "company": "InsightEdge",
-        "bio": "Luke researches upcoming B2B marketing trends and emerging technologies.",
-        "profilePhotoUrl": "https://example.com/photos/luke_davenport.jpg"
-      },
-      {
-        "firstName": "Monica",
-        "lastName": "Gray",
-        "fullName": "Monica Gray",
-        "slug": "monica-gray",
-        "jobTitle": "Content Analyst",
-        "company": "TrendMax",
-        "bio": "Monica identifies data-driven content solutions for B2B target audiences.",
-        "profilePhotoUrl": "https://example.com/photos/monica_gray.jpg"
+    },
+    {
+      "title": "Session 6A: Emerging Trends in B2B Marketing",
+      "slug": "session-6a-emerging-trends-in-b2b-marketing",
+      "description": "Stay ahead of the curve with the latest B2B marketing strategies and tools.",
+      "startTime": "2025-09-01T13:00:00Z",
+      "endTime": "2025-09-01T13:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Luke",
+          "lastName": "Davenport",
+          "fullName": "Luke Davenport",
+          "slug": "luke-davenport",
+          "jobTitle": "B2B Specialist",
+          "company": "InsightEdge",
+          "bio": "Luke researches upcoming B2B marketing trends and emerging technologies.",
+          "profilePhotoUrl": "https://example.com/photos/luke_davenport.jpg"
+        },
+        {
+          "firstName": "Monica",
+          "lastName": "Gray",
+          "fullName": "Monica Gray",
+          "slug": "monica-gray",
+          "jobTitle": "Content Analyst",
+          "company": "TrendMax",
+          "bio": "Monica identifies data-driven content solutions for B2B target audiences.",
+          "profilePhotoUrl": "https://example.com/photos/monica_gray.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "B2B Marketing",
+        "industry": "Technology",
+        "level": "Advanced",
+        "topics": [
+          "Marketing Trends",
+          "B2B Strategy"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "B2B Marketing",
-      "industry": "Technology",
-      "level": "Advanced",
-      "topics": ["Marketing Trends", "B2B Strategy"]
-    }
-  },
-  {
-    "title": "Session 6B: Planning Digital Campaigns with Agile Methods",
-    "slug": "session-6b-planning-digital-campaigns-with-agile-methods",
-    "description": "Adopt agile methodologies to respond swiftly to market changes in your digital campaigns.",
-    "startTime": "2025-09-01T13:00:00Z",
-    "endTime": "2025-09-01T13:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Nathan",
-        "lastName": "Ford",
-        "fullName": "Nathan Ford",
-        "slug": "nathan-ford",
-        "jobTitle": "Scrum Master",
-        "company": "AgileMark",
-        "bio": "Nathan introduces agile frameworks in marketing to reduce lead time.",
-        "profilePhotoUrl": "https://example.com/photos/nathan_ford.jpg"
-      },
-      {
-        "firstName": "Olga",
-        "lastName": "Pavlova",
-        "fullName": "Olga Pavlova",
-        "slug": "olga-pavlova",
-        "jobTitle": "Digital Project Manager",
-        "company": "SprintFlow",
-        "bio": "Olga coordinates cross-functional teams to deliver campaigns on time.",
-        "profilePhotoUrl": "https://example.com/photos/olga_pavlova.jpg"
+    },
+    {
+      "title": "Session 6B: Planning Digital Campaigns with Agile Methods",
+      "slug": "session-6b-planning-digital-campaigns-with-agile-methods",
+      "description": "Adopt agile methodologies to respond swiftly to market changes in your digital campaigns.",
+      "startTime": "2025-09-01T13:00:00Z",
+      "endTime": "2025-09-01T13:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Nathan",
+          "lastName": "Ford",
+          "fullName": "Nathan Ford",
+          "slug": "nathan-ford",
+          "jobTitle": "Scrum Master",
+          "company": "AgileMark",
+          "bio": "Nathan introduces agile frameworks in marketing to reduce lead time.",
+          "profilePhotoUrl": "https://example.com/photos/nathan_ford.jpg"
+        },
+        {
+          "firstName": "Olga",
+          "lastName": "Pavlova",
+          "fullName": "Olga Pavlova",
+          "slug": "olga-pavlova",
+          "jobTitle": "Digital Project Manager",
+          "company": "SprintFlow",
+          "bio": "Olga coordinates cross-functional teams to deliver campaigns on time.",
+          "profilePhotoUrl": "https://example.com/photos/olga_pavlova.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Workflow and Planning",
+        "industry": "Consulting",
+        "level": "Intermediate",
+        "topics": [
+          "Agile Marketing",
+          "Project Management"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Workflow and Planning",
-      "industry": "Consulting",
-      "level": "Intermediate",
-      "topics": ["Agile Marketing", "Project Management"]
-    }
-  },
-  {
-    "title": "Session 6C: Using AI to Predict Customer Churn",
-    "slug": "session-6c-using-ai-to-predict-customer-churn",
-    "description": "Implement machine learning models to identify at-risk customers and reduce churn.",
-    "startTime": "2025-09-01T13:00:00Z",
-    "endTime": "2025-09-01T13:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Paula",
-        "lastName": "Vega",
-        "fullName": "Paula Vega",
-        "slug": "paula-vega",
-        "jobTitle": "ML Engineer",
-        "company": "PredictPro",
-        "bio": "Paula creates predictive models that empower retention teams.",
-        "profilePhotoUrl": "https://example.com/photos/paula_vega.jpg"
-      },
-      {
-        "firstName": "Quentin",
-        "lastName": "Wallace",
-        "fullName": "Quentin Wallace",
-        "slug": "quentin-wallace",
-        "jobTitle": "Customer Retention Manager",
-        "company": "RetentionPlus",
-        "bio": "Quentin implements churn-reduction strategies based on data insights.",
-        "profilePhotoUrl": "https://example.com/photos/quentin_wallace.jpg"
+    },
+    {
+      "title": "Session 6C: Using AI to Predict Customer Churn",
+      "slug": "session-6c-using-ai-to-predict-customer-churn",
+      "description": "Implement machine learning models to identify at-risk customers and reduce churn.",
+      "startTime": "2025-09-01T13:00:00Z",
+      "endTime": "2025-09-01T13:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Paula",
+          "lastName": "Vega",
+          "fullName": "Paula Vega",
+          "slug": "paula-vega",
+          "jobTitle": "ML Engineer",
+          "company": "PredictPro",
+          "bio": "Paula creates predictive models that empower retention teams.",
+          "profilePhotoUrl": "https://example.com/photos/paula_vega.jpg"
+        },
+        {
+          "firstName": "Quentin",
+          "lastName": "Wallace",
+          "fullName": "Quentin Wallace",
+          "slug": "quentin-wallace",
+          "jobTitle": "Customer Retention Manager",
+          "company": "RetentionPlus",
+          "bio": "Quentin implements churn-reduction strategies based on data insights.",
+          "profilePhotoUrl": "https://example.com/photos/quentin_wallace.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Generative AI",
+        "industry": "Financial Services",
+        "level": "Advanced",
+        "topics": [
+          "Machine Learning",
+          "Retention"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Generative AI",
-      "industry": "Financial Services",
-      "level": "Advanced",
-      "topics": ["Machine Learning", "Retention"]
-    }
-  },
-  {
-    "title": "Session 6D: Creating a Unified Customer Experience for Hospitality",
-    "slug": "session-6d-creating-a-unified-customer-experience-for-hospitality",
-    "description": "Provide guests with consistent brand experiences across physical and digital touchpoints.",
-    "startTime": "2025-09-01T13:00:00Z",
-    "endTime": "2025-09-01T13:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Rita",
-        "lastName": "Palmer",
-        "fullName": "Rita Palmer",
-        "slug": "rita-palmer",
-        "jobTitle": "Hotel CX Director",
-        "company": "StayBetter",
-        "bio": "Rita merges hospitality experience with modern digital engagement.",
-        "profilePhotoUrl": "https://example.com/photos/rita_palmer.jpg"
-      },
-      {
-        "firstName": "Steven",
-        "lastName": "Wong",
-        "fullName": "Steven Wong",
-        "slug": "steven-wong",
-        "jobTitle": "Brand Consultant",
-        "company": "HoteLux",
-        "bio": "Steven advises hotels on brand-building across multiple guest channels.",
-        "profilePhotoUrl": "https://example.com/photos/steven_wong.jpg"
+    },
+    {
+      "title": "Session 6D: Creating a Unified Customer Experience for Hospitality",
+      "slug": "session-6d-creating-a-unified-customer-experience-for-hospitality",
+      "description": "Provide guests with consistent brand experiences across physical and digital touchpoints.",
+      "startTime": "2025-09-01T13:00:00Z",
+      "endTime": "2025-09-01T13:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Rita",
+          "lastName": "Palmer",
+          "fullName": "Rita Palmer",
+          "slug": "rita-palmer",
+          "jobTitle": "Hotel CX Director",
+          "company": "StayBetter",
+          "bio": "Rita merges hospitality experience with modern digital engagement.",
+          "profilePhotoUrl": "https://example.com/photos/rita_palmer.jpg"
+        },
+        {
+          "firstName": "Steven",
+          "lastName": "Wong",
+          "fullName": "Steven Wong",
+          "slug": "steven-wong",
+          "jobTitle": "Brand Consultant",
+          "company": "HoteLux",
+          "bio": "Steven advises hotels on brand-building across multiple guest channels.",
+          "profilePhotoUrl": "https://example.com/photos/steven_wong.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Unified Customer Experience",
+        "industry": "Hospitality",
+        "level": "Intermediate",
+        "topics": [
+          "Omnichannel",
+          "Guest Satisfaction"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Unified Customer Experience",
-      "industry": "Hospitality",
-      "level": "Intermediate",
-      "topics": ["Omnichannel", "Guest Satisfaction"]
-    }
-  },
-  {
-    "title": "Session 6E: Collecting Quality Data for Better Customer Insights",
-    "slug": "session-6e-collecting-quality-data-for-better-customer-insights",
-    "description": "Techniques and tools to ensure data accuracy across multiple collection points.",
-    "startTime": "2025-09-01T13:00:00Z",
-    "endTime": "2025-09-01T13:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Tina",
-        "lastName": "Gardner",
-        "fullName": "Tina Gardner",
-        "slug": "tina-gardner",
-        "jobTitle": "Data Quality Manager",
-        "company": "QualityFirst",
-        "bio": "Tina sets standards and protocols for enterprise-level data collection.",
-        "profilePhotoUrl": "https://example.com/photos/tina_gardner.jpg"
-      },
-      {
-        "firstName": "Umar",
-        "lastName": "Siddiqui",
-        "fullName": "Umar Siddiqui",
-        "slug": "umar-siddiqui",
-        "jobTitle": "BI Consultant",
-        "company": "ClarityAnalytics",
-        "bio": "Umar integrates data sources to produce actionable customer intelligence.",
-        "profilePhotoUrl": "https://example.com/photos/umar_siddiqui.jpg"
+    },
+    {
+      "title": "Session 6E: Collecting Quality Data for Better Customer Insights",
+      "slug": "session-6e-collecting-quality-data-for-better-customer-insights",
+      "description": "Techniques and tools to ensure data accuracy across multiple collection points.",
+      "startTime": "2025-09-01T13:00:00Z",
+      "endTime": "2025-09-01T13:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Tina",
+          "lastName": "Gardner",
+          "fullName": "Tina Gardner",
+          "slug": "tina-gardner",
+          "jobTitle": "Data Quality Manager",
+          "company": "QualityFirst",
+          "bio": "Tina sets standards and protocols for enterprise-level data collection.",
+          "profilePhotoUrl": "https://example.com/photos/tina_gardner.jpg"
+        },
+        {
+          "firstName": "Umar",
+          "lastName": "Siddiqui",
+          "fullName": "Umar Siddiqui",
+          "slug": "umar-siddiqui",
+          "jobTitle": "BI Consultant",
+          "company": "ClarityAnalytics",
+          "bio": "Umar integrates data sources to produce actionable customer intelligence.",
+          "profilePhotoUrl": "https://example.com/photos/umar_siddiqui.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Customer Data Management",
+        "industry": "Public Sector",
+        "level": "Beginner",
+        "topics": [
+          "Data Quality",
+          "Analytics"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Customer Data Management",
-      "industry": "Public Sector",
-      "level": "Beginner",
-      "topics": ["Data Quality", "Analytics"]
-    }
-  },
-
-  {
-    "title": "Session 7A: Account-Based Marketing (ABM) Deep Dive",
-    "slug": "session-7a-account-based-marketing-deep-dive",
-    "description": "Tailor marketing efforts to high-value accounts with precision targeting.",
-    "startTime": "2025-09-01T14:00:00Z",
-    "endTime": "2025-09-01T14:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Valerie",
-        "lastName": "Ray",
-        "fullName": "Valerie Ray",
-        "slug": "valerie-ray",
-        "jobTitle": "ABM Consultant",
-        "company": "TargetXP",
-        "bio": "Valerie excels in crafting account-specific campaigns for enterprise clients.",
-        "profilePhotoUrl": "https://example.com/photos/valerie_ray.jpg"
-      },
-      {
-        "firstName": "Wesley",
-        "lastName": "Clarke",
-        "fullName": "Wesley Clarke",
-        "slug": "wesley-clarke",
-        "jobTitle": "Data Strategist",
-        "company": "FocusData",
-        "bio": "Wesley integrates deep analytics into ABM approaches for measurable outcomes.",
-        "profilePhotoUrl": "https://example.com/photos/wesley_clarke.jpg"
+    },
+    {
+      "title": "Session 7A: Account-Based Marketing (ABM) Deep Dive",
+      "slug": "session-7a-account-based-marketing-deep-dive",
+      "description": "Tailor marketing efforts to high-value accounts with precision targeting.",
+      "startTime": "2025-09-01T14:00:00Z",
+      "endTime": "2025-09-01T14:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Valerie",
+          "lastName": "Ray",
+          "fullName": "Valerie Ray",
+          "slug": "valerie-ray",
+          "jobTitle": "ABM Consultant",
+          "company": "TargetXP",
+          "bio": "Valerie excels in crafting account-specific campaigns for enterprise clients.",
+          "profilePhotoUrl": "https://example.com/photos/valerie_ray.jpg"
+        },
+        {
+          "firstName": "Wesley",
+          "lastName": "Clarke",
+          "fullName": "Wesley Clarke",
+          "slug": "wesley-clarke",
+          "jobTitle": "Data Strategist",
+          "company": "FocusData",
+          "bio": "Wesley integrates deep analytics into ABM approaches for measurable outcomes.",
+          "profilePhotoUrl": "https://example.com/photos/wesley_clarke.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "B2B Marketing",
+        "industry": "Consulting",
+        "level": "Advanced",
+        "topics": [
+          "ABM",
+          "Precision Targeting"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "B2B Marketing",
-      "industry": "Consulting",
-      "level": "Advanced",
-      "topics": ["ABM", "Precision Targeting"]
-    }
-  },
-  {
-    "title": "Session 7B: Mastering Workflow and Planning in Media Production",
-    "slug": "session-7b-mastering-workflow-and-planning-in-media-production",
-    "description": "Keep media production teams on track with structured workflows and timelines.",
-    "startTime": "2025-09-01T14:00:00Z",
-    "endTime": "2025-09-01T14:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Ximena",
-        "lastName": "Lopez",
-        "fullName": "Ximena Lopez",
-        "slug": "ximena-lopez",
-        "jobTitle": "Media Project Manager",
-        "company": "MediaFlow",
-        "bio": "Ximena manages video and audio production schedules for streamlined output.",
-        "profilePhotoUrl": "https://example.com/photos/ximena_lopez.jpg"
-      },
-      {
-        "firstName": "Yuri",
-        "lastName": "Petrov",
-        "fullName": "Yuri Petrov",
-        "slug": "yuri-petrov",
-        "jobTitle": "Creative Technologist",
-        "company": "VisionMedia",
-        "bio": "Yuri merges creative design and technology to optimize production workflows.",
-        "profilePhotoUrl": "https://example.com/photos/yuri_petrov.jpg"
+    },
+    {
+      "title": "Session 7B: Mastering Workflow and Planning in Media Production",
+      "slug": "session-7b-mastering-workflow-and-planning-in-media-production",
+      "description": "Keep media production teams on track with structured workflows and timelines.",
+      "startTime": "2025-09-01T14:00:00Z",
+      "endTime": "2025-09-01T14:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Ximena",
+          "lastName": "Lopez",
+          "fullName": "Ximena Lopez",
+          "slug": "ximena-lopez",
+          "jobTitle": "Media Project Manager",
+          "company": "MediaFlow",
+          "bio": "Ximena manages video and audio production schedules for streamlined output.",
+          "profilePhotoUrl": "https://example.com/photos/ximena_lopez.jpg"
+        },
+        {
+          "firstName": "Yuri",
+          "lastName": "Petrov",
+          "fullName": "Yuri Petrov",
+          "slug": "yuri-petrov",
+          "jobTitle": "Creative Technologist",
+          "company": "VisionMedia",
+          "bio": "Yuri merges creative design and technology to optimize production workflows.",
+          "profilePhotoUrl": "https://example.com/photos/yuri_petrov.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Workflow and Planning",
+        "industry": "Media & Entertainment",
+        "level": "Intermediate",
+        "topics": [
+          "Project Timelines",
+          "Resource Allocation"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Workflow and Planning",
-      "industry": "Media & Entertainment",
-      "level": "Intermediate",
-      "topics": ["Project Timelines", "Resource Allocation"]
-    }
-  },
-  {
-    "title": "Session 7C: Text Generation for Content Marketing",
-    "slug": "session-7c-text-generation-for-content-marketing",
-    "description": "Practical use-cases of generative AI to expedite blog posts, eBooks, and more.",
-    "startTime": "2025-09-01T14:00:00Z",
-    "endTime": "2025-09-01T14:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Zara",
-        "lastName": "Patel",
-        "fullName": "Zara Patel",
-        "slug": "zara-patel",
-        "jobTitle": "AI Content Engineer",
-        "company": "WriteSmart",
-        "bio": "Zara pioneers automated text creation tools for marketing departments.",
-        "profilePhotoUrl": "https://example.com/photos/zara_patel.jpg"
-      },
-      {
-        "firstName": "Adrian",
-        "lastName": "Lee",
-        "fullName": "Adrian Lee",
-        "slug": "adrian-lee",
-        "jobTitle": "Marketing Technologist",
-        "company": "CopyGen",
-        "bio": "Adrian designs pipelines integrating AI-generated text into editorial processes.",
-        "profilePhotoUrl": "https://example.com/photos/adrian_lee.jpg"
+    },
+    {
+      "title": "Session 7C: Text Generation for Content Marketing",
+      "slug": "session-7c-text-generation-for-content-marketing",
+      "description": "Practical use-cases of generative AI to expedite blog posts, eBooks, and more.",
+      "startTime": "2025-09-01T14:00:00Z",
+      "endTime": "2025-09-01T14:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Zara",
+          "lastName": "Patel",
+          "fullName": "Zara Patel",
+          "slug": "zara-patel",
+          "jobTitle": "AI Content Engineer",
+          "company": "WriteSmart",
+          "bio": "Zara pioneers automated text creation tools for marketing departments.",
+          "profilePhotoUrl": "https://example.com/photos/zara_patel.jpg"
+        },
+        {
+          "firstName": "Adrian",
+          "lastName": "Lee",
+          "fullName": "Adrian Lee",
+          "slug": "adrian-lee",
+          "jobTitle": "Marketing Technologist",
+          "company": "CopyGen",
+          "bio": "Adrian designs pipelines integrating AI-generated text into editorial processes.",
+          "profilePhotoUrl": "https://example.com/photos/adrian_lee.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Generative AI",
+        "industry": "Technology",
+        "level": "Beginner",
+        "topics": [
+          "AI Content",
+          "Speed-to-Market"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Generative AI",
-      "industry": "Technology",
-      "level": "Beginner",
-      "topics": ["AI Content", "Speed-to-Market"]
-    }
-  },
-  {
-    "title": "Session 7D: In-Person vs. Online Customer Journeys",
-    "slug": "session-7d-in-person-vs-online-customer-journeys",
-    "description": "Compare and contrast critical touchpoints in physical locations and digital spaces.",
-    "startTime": "2025-09-01T14:00:00Z",
-    "endTime": "2025-09-01T14:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Bella",
-        "lastName": "Tran",
-        "fullName": "Bella Tran",
-        "slug": "bella-tran",
-        "jobTitle": "Omnichannel Specialist",
-        "company": "AllReach",
-        "bio": "Bella integrates physical and digital brand experiences for global clients.",
-        "profilePhotoUrl": "https://example.com/photos/bella_tran.jpg"
-      },
-      {
-        "firstName": "Clark",
-        "lastName": "Mason",
-        "fullName": "Clark Mason",
-        "slug": "clark-mason",
-        "jobTitle": "Retail Experience Designer",
-        "company": "LiveStores",
-        "bio": "Clark transforms retail spaces into immersive brand experiences.",
-        "profilePhotoUrl": "https://example.com/photos/clark_mason.jpg"
+    },
+    {
+      "title": "Session 7D: In-Person vs. Online Customer Journeys",
+      "slug": "session-7d-in-person-vs-online-customer-journeys",
+      "description": "Compare and contrast critical touchpoints in physical locations and digital spaces.",
+      "startTime": "2025-09-01T14:00:00Z",
+      "endTime": "2025-09-01T14:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Bella",
+          "lastName": "Tran",
+          "fullName": "Bella Tran",
+          "slug": "bella-tran",
+          "jobTitle": "Omnichannel Specialist",
+          "company": "AllReach",
+          "bio": "Bella integrates physical and digital brand experiences for global clients.",
+          "profilePhotoUrl": "https://example.com/photos/bella_tran.jpg"
+        },
+        {
+          "firstName": "Clark",
+          "lastName": "Mason",
+          "fullName": "Clark Mason",
+          "slug": "clark-mason",
+          "jobTitle": "Retail Experience Designer",
+          "company": "LiveStores",
+          "bio": "Clark transforms retail spaces into immersive brand experiences.",
+          "profilePhotoUrl": "https://example.com/photos/clark_mason.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Customer Journey Management",
+        "industry": "Retail",
+        "level": "Intermediate",
+        "topics": [
+          "Omnichannel",
+          "Physical vs. Digital"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Customer Journey Management",
-      "industry": "Retail",
-      "level": "Intermediate",
-      "topics": ["Omnichannel", "Physical vs. Digital"]
-    }
-  },
-  {
-    "title": "Session 7E: Integrating ChatGPT into Workflow Processes",
-    "slug": "session-7e-integrating-chatgpt-into-workflow-processes",
-    "description": "Utilize ChatGPT for task automation, idea generation, and real-time team assistance.",
-    "startTime": "2025-09-01T14:00:00Z",
-    "endTime": "2025-09-01T14:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Danielle",
-        "lastName": "Gates",
-        "fullName": "Danielle Gates",
-        "slug": "danielle-gates",
-        "jobTitle": "AI Workflow Consultant",
-        "company": "SmartOps",
-        "bio": "Danielle specializes in connecting AI tools with corporate workflow systems.",
-        "profilePhotoUrl": "https://example.com/photos/danielle_gates.jpg"
-      },
-      {
-        "firstName": "Eric",
-        "lastName": "Finch",
-        "fullName": "Eric Finch",
-        "slug": "eric-finch",
-        "jobTitle": "Software Engineer",
-        "company": "Botsify",
-        "bio": "Eric builds custom ChatGPT integrations for enterprise clients.",
-        "profilePhotoUrl": "https://example.com/photos/eric_finch.jpg"
+    },
+    {
+      "title": "Session 7E: Integrating ChatGPT into Workflow Processes",
+      "slug": "session-7e-integrating-chatgpt-into-workflow-processes",
+      "description": "Utilize ChatGPT for task automation, idea generation, and real-time team assistance.",
+      "startTime": "2025-09-01T14:00:00Z",
+      "endTime": "2025-09-01T14:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Danielle",
+          "lastName": "Gates",
+          "fullName": "Danielle Gates",
+          "slug": "danielle-gates",
+          "jobTitle": "AI Workflow Consultant",
+          "company": "SmartOps",
+          "bio": "Danielle specializes in connecting AI tools with corporate workflow systems.",
+          "profilePhotoUrl": "https://example.com/photos/danielle_gates.jpg"
+        },
+        {
+          "firstName": "Eric",
+          "lastName": "Finch",
+          "fullName": "Eric Finch",
+          "slug": "eric-finch",
+          "jobTitle": "Software Engineer",
+          "company": "Botsify",
+          "bio": "Eric builds custom ChatGPT integrations for enterprise clients.",
+          "profilePhotoUrl": "https://example.com/photos/eric_finch.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Workflow and Planning",
+        "industry": "Technology",
+        "level": "Advanced",
+        "topics": [
+          "AI Integration",
+          "Task Automation"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Workflow and Planning",
-      "industry": "Technology",
-      "level": "Advanced",
-      "topics": ["AI Integration", "Task Automation"]
-    }
-  },
-
-  {
-    "title": "Session 8A: High-Converting B2B Landing Pages",
-    "slug": "session-8a-high-converting-b2b-landing-pages",
-    "description": "Design and optimize landing pages that speak to B2B decision-makers.",
-    "startTime": "2025-09-01T15:00:00Z",
-    "endTime": "2025-09-01T15:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Francesca",
-        "lastName": "Rivera",
-        "fullName": "Francesca Rivera",
-        "slug": "francesca-rivera",
-        "jobTitle": "Conversion Rate Expert",
-        "company": "LandingLabs",
-        "bio": "Francesca uses data and UX best practices to drive B2B lead captures.",
-        "profilePhotoUrl": "https://example.com/photos/francesca_rivera.jpg"
-      },
-      {
-        "firstName": "Gerald",
-        "lastName": "Knight",
-        "fullName": "Gerald Knight",
-        "slug": "gerald-knight",
-        "jobTitle": "UX Designer",
-        "company": "UserFocus",
-        "bio": "Gerald creates intuitive user flows to simplify lead generation funnels.",
-        "profilePhotoUrl": "https://example.com/photos/gerald_knight.jpg"
+    },
+    {
+      "title": "Session 8A: High-Converting B2B Landing Pages",
+      "slug": "session-8a-high-converting-b2b-landing-pages",
+      "description": "Design and optimize landing pages that speak to B2B decision-makers.",
+      "startTime": "2025-09-01T15:00:00Z",
+      "endTime": "2025-09-01T15:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Francesca",
+          "lastName": "Rivera",
+          "fullName": "Francesca Rivera",
+          "slug": "francesca-rivera",
+          "jobTitle": "Conversion Rate Expert",
+          "company": "LandingLabs",
+          "bio": "Francesca uses data and UX best practices to drive B2B lead captures.",
+          "profilePhotoUrl": "https://example.com/photos/francesca_rivera.jpg"
+        },
+        {
+          "firstName": "Gerald",
+          "lastName": "Knight",
+          "fullName": "Gerald Knight",
+          "slug": "gerald-knight",
+          "jobTitle": "UX Designer",
+          "company": "UserFocus",
+          "bio": "Gerald creates intuitive user flows to simplify lead generation funnels.",
+          "profilePhotoUrl": "https://example.com/photos/gerald_knight.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "B2B Marketing",
+        "industry": "Technology",
+        "level": "Intermediate",
+        "topics": [
+          "Conversion Optimization",
+          "UX"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "B2B Marketing",
-      "industry": "Technology",
-      "level": "Intermediate",
-      "topics": ["Conversion Optimization", "UX"]
-    }
-  },
-  {
-    "title": "Session 8B: Collaborative Planning for Marketing Teams",
-    "slug": "session-8b-collaborative-planning-for-marketing-teams",
-    "description": "Coordinate across departments to deliver effective, unified campaign plans.",
-    "startTime": "2025-09-01T15:00:00Z",
-    "endTime": "2025-09-01T15:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Hazel",
-        "lastName": "Wilson",
-        "fullName": "Hazel Wilson",
-        "slug": "hazel-wilson",
-        "jobTitle": "Cross-Functional Coordinator",
-        "company": "SynergyGroup",
-        "bio": "Hazel's frameworks bring together sales, product, and marketing seamlessly.",
-        "profilePhotoUrl": "https://example.com/photos/hazel_wilson.jpg"
-      },
-      {
-        "firstName": "Isaiah",
-        "lastName": "Morgan",
-        "fullName": "Isaiah Morgan",
-        "slug": "isaiah-morgan",
-        "jobTitle": "Operations Director",
-        "company": "UnifiedOps",
-        "bio": "Isaiah helps teams align goals, tasks, and deliverables to boost efficiency.",
-        "profilePhotoUrl": "https://example.com/photos/isaiah_morgan.jpg"
+    },
+    {
+      "title": "Session 8B: Collaborative Planning for Marketing Teams",
+      "slug": "session-8b-collaborative-planning-for-marketing-teams",
+      "description": "Coordinate across departments to deliver effective, unified campaign plans.",
+      "startTime": "2025-09-01T15:00:00Z",
+      "endTime": "2025-09-01T15:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Hazel",
+          "lastName": "Wilson",
+          "fullName": "Hazel Wilson",
+          "slug": "hazel-wilson",
+          "jobTitle": "Cross-Functional Coordinator",
+          "company": "SynergyGroup",
+          "bio": "Hazel's frameworks bring together sales, product, and marketing seamlessly.",
+          "profilePhotoUrl": "https://example.com/photos/hazel_wilson.jpg"
+        },
+        {
+          "firstName": "Isaiah",
+          "lastName": "Morgan",
+          "fullName": "Isaiah Morgan",
+          "slug": "isaiah-morgan",
+          "jobTitle": "Operations Director",
+          "company": "UnifiedOps",
+          "bio": "Isaiah helps teams align goals, tasks, and deliverables to boost efficiency.",
+          "profilePhotoUrl": "https://example.com/photos/isaiah_morgan.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Workflow and Planning",
+        "industry": "Non-Profit",
+        "level": "Beginner",
+        "topics": [
+          "Collaboration",
+          "Campaign Planning"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Workflow and Planning",
-      "industry": "Non-Profit",
-      "level": "Beginner",
-      "topics": ["Collaboration", "Campaign Planning"]
-    }
-  },
-  {
-    "title": "Session 8C: Generative AI for Real-Time Video Personalization",
-    "slug": "session-8c-generative-ai-for-real-time-video-personalization",
-    "description": "Use AI to dynamically adapt video content based on viewer preferences.",
-    "startTime": "2025-09-01T15:00:00Z",
-    "endTime": "2025-09-01T15:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Jared",
-        "lastName": "Becker",
-        "fullName": "Jared Becker",
-        "slug": "jared-becker",
-        "jobTitle": "Video AI Specialist",
-        "company": "VidSense",
-        "bio": "Jared builds real-time video personalization engines for marketing campaigns.",
-        "profilePhotoUrl": "https://example.com/photos/jared_becker.jpg"
-      },
-      {
-        "firstName": "Kamila",
-        "lastName": "Nowak",
-        "fullName": "Kamila Nowak",
-        "slug": "kamila-nowak",
-        "jobTitle": "Creative Producer",
-        "company": "StreamZone",
-        "bio": "Kamila utilizes AI-driven editing workflows to accelerate content production.",
-        "profilePhotoUrl": "https://example.com/photos/kamila_nowak.jpg"
+    },
+    {
+      "title": "Session 8C: Generative AI for Real-Time Video Personalization",
+      "slug": "session-8c-generative-ai-for-real-time-video-personalization",
+      "description": "Use AI to dynamically adapt video content based on viewer preferences.",
+      "startTime": "2025-09-01T15:00:00Z",
+      "endTime": "2025-09-01T15:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Jared",
+          "lastName": "Becker",
+          "fullName": "Jared Becker",
+          "slug": "jared-becker",
+          "jobTitle": "Video AI Specialist",
+          "company": "VidSense",
+          "bio": "Jared builds real-time video personalization engines for marketing campaigns.",
+          "profilePhotoUrl": "https://example.com/photos/jared_becker.jpg"
+        },
+        {
+          "firstName": "Kamila",
+          "lastName": "Nowak",
+          "fullName": "Kamila Nowak",
+          "slug": "kamila-nowak",
+          "jobTitle": "Creative Producer",
+          "company": "StreamZone",
+          "bio": "Kamila utilizes AI-driven editing workflows to accelerate content production.",
+          "profilePhotoUrl": "https://example.com/photos/kamila_nowak.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Generative AI",
+        "industry": "Media & Entertainment",
+        "level": "Advanced",
+        "topics": [
+          "Personalization",
+          "Video Marketing"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Generative AI",
-      "industry": "Media & Entertainment",
-      "level": "Advanced",
-      "topics": ["Personalization", "Video Marketing"]
-    }
-  },
-  {
-    "title": "Session 8D: Improving Email Journey Flows",
-    "slug": "session-8d-improving-email-journey-flows",
-    "description": "Enhance the customer email experience through segmented, trigger-based messaging.",
-    "startTime": "2025-09-01T15:00:00Z",
-    "endTime": "2025-09-01T15:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Lara",
-        "lastName": "Roy",
-        "fullName": "Lara Roy",
-        "slug": "lara-roy",
-        "jobTitle": "Email Flow Architect",
-        "company": "MailDynamics",
-        "bio": "Lara develops advanced flows for nurturing and upselling in email marketing.",
-        "profilePhotoUrl": "https://example.com/photos/lara_roy.jpg"
-      },
-      {
-        "firstName": "Mark",
-        "lastName": "Tan",
-        "fullName": "Mark Tan",
-        "slug": "mark-tan",
-        "jobTitle": "Lifecycle Marketing Manager",
-        "company": "EngagePro",
-        "bio": "Mark crafts stage-specific email campaigns for higher open and click rates.",
-        "profilePhotoUrl": "https://example.com/photos/mark_tan.jpg"
+    },
+    {
+      "title": "Session 8D: Improving Email Journey Flows",
+      "slug": "session-8d-improving-email-journey-flows",
+      "description": "Enhance the customer email experience through segmented, trigger-based messaging.",
+      "startTime": "2025-09-01T15:00:00Z",
+      "endTime": "2025-09-01T15:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Lara",
+          "lastName": "Roy",
+          "fullName": "Lara Roy",
+          "slug": "lara-roy",
+          "jobTitle": "Email Flow Architect",
+          "company": "MailDynamics",
+          "bio": "Lara develops advanced flows for nurturing and upselling in email marketing.",
+          "profilePhotoUrl": "https://example.com/photos/lara_roy.jpg"
+        },
+        {
+          "firstName": "Mark",
+          "lastName": "Tan",
+          "fullName": "Mark Tan",
+          "slug": "mark-tan",
+          "jobTitle": "Lifecycle Marketing Manager",
+          "company": "EngagePro",
+          "bio": "Mark crafts stage-specific email campaigns for higher open and click rates.",
+          "profilePhotoUrl": "https://example.com/photos/mark_tan.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Customer Journey Management",
+        "industry": "Retail",
+        "level": "Intermediate",
+        "topics": [
+          "Email Marketing",
+          "Segmentation"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Customer Journey Management",
-      "industry": "Retail",
-      "level": "Intermediate",
-      "topics": ["Email Marketing", "Segmentation"]
-    }
-  },
-  {
-    "title": "Session 8E: Creating a Unified Experience for Education Services",
-    "slug": "session-8e-creating-a-unified-experience-for-education-services",
-    "description": "Align online and offline learning experiences to improve student engagement.",
-    "startTime": "2025-09-01T15:00:00Z",
-    "endTime": "2025-09-01T15:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Naomi",
-        "lastName": "Blake",
-        "fullName": "Naomi Blake",
-        "slug": "naomi-blake",
-        "jobTitle": "EdTech Specialist",
-        "company": "LearnConnect",
-        "bio": "Naomi integrates technology solutions for holistic educational experiences.",
-        "profilePhotoUrl": "https://example.com/photos/naomi_blake.jpg"
-      },
-      {
-        "firstName": "Owen",
-        "lastName": "Reed",
-        "fullName": "Owen Reed",
-        "slug": "owen-reed",
-        "jobTitle": "Instructional Designer",
-        "company": "EduSynergy",
-        "bio": "Owen creates cross-platform learning modules that engage learners effectively.",
-        "profilePhotoUrl": "https://example.com/photos/owen_reed.jpg"
+    },
+    {
+      "title": "Session 8E: Creating a Unified Experience for Education Services",
+      "slug": "session-8e-creating-a-unified-experience-for-education-services",
+      "description": "Align online and offline learning experiences to improve student engagement.",
+      "startTime": "2025-09-01T15:00:00Z",
+      "endTime": "2025-09-01T15:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Naomi",
+          "lastName": "Blake",
+          "fullName": "Naomi Blake",
+          "slug": "naomi-blake",
+          "jobTitle": "EdTech Specialist",
+          "company": "LearnConnect",
+          "bio": "Naomi integrates technology solutions for holistic educational experiences.",
+          "profilePhotoUrl": "https://example.com/photos/naomi_blake.jpg"
+        },
+        {
+          "firstName": "Owen",
+          "lastName": "Reed",
+          "fullName": "Owen Reed",
+          "slug": "owen-reed",
+          "jobTitle": "Instructional Designer",
+          "company": "EduSynergy",
+          "bio": "Owen creates cross-platform learning modules that engage learners effectively.",
+          "profilePhotoUrl": "https://example.com/photos/owen_reed.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Unified Customer Experience",
+        "industry": "Education",
+        "level": "Beginner",
+        "topics": [
+          "Online Learning",
+          "Student Engagement"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Unified Customer Experience",
-      "industry": "Education",
-      "level": "Beginner",
-      "topics": ["Online Learning", "Student Engagement"]
-    }
-  },
-
-  {
-    "title": "Session 9A: AI for High-Level Content Supply Chain Orchestration",
-    "slug": "session-9a-ai-for-high-level-content-supply-chain-orchestration",
-    "description": "Use AI to automate tasks from ideation to distribution, ensuring timely delivery.",
-    "startTime": "2025-09-01T16:00:00Z",
-    "endTime": "2025-09-01T16:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Penelope",
-        "lastName": "Saunders",
-        "fullName": "Penelope Saunders",
-        "slug": "penelope-saunders",
-        "jobTitle": "AI Operations Manager",
-        "company": "AutoContent",
-        "bio": "Penelope develops end-to-end AI solutions for streamlined content pipelines.",
-        "profilePhotoUrl": "https://example.com/photos/penelope_saunders.jpg"
-      },
-      {
-        "firstName": "Ricardo",
-        "lastName": "Vasquez",
-        "fullName": "Ricardo Vasquez",
-        "slug": "ricardo-vasquez",
-        "jobTitle": "Innovation Lead",
-        "company": "Futurity Labs",
-        "bio": "Ricardo researches new AI techniques for multi-channel content distribution.",
-        "profilePhotoUrl": "https://example.com/photos/ricardo_vasquez.jpg"
+    },
+    {
+      "title": "Session 9A: AI for High-Level Content Supply Chain Orchestration",
+      "slug": "session-9a-ai-for-high-level-content-supply-chain-orchestration",
+      "description": "Use AI to automate tasks from ideation to distribution, ensuring timely delivery.",
+      "startTime": "2025-09-01T16:00:00Z",
+      "endTime": "2025-09-01T16:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Penelope",
+          "lastName": "Saunders",
+          "fullName": "Penelope Saunders",
+          "slug": "penelope-saunders",
+          "jobTitle": "AI Operations Manager",
+          "company": "AutoContent",
+          "bio": "Penelope develops end-to-end AI solutions for streamlined content pipelines.",
+          "profilePhotoUrl": "https://example.com/photos/penelope_saunders.jpg"
+        },
+        {
+          "firstName": "Ricardo",
+          "lastName": "Vasquez",
+          "fullName": "Ricardo Vasquez",
+          "slug": "ricardo-vasquez",
+          "jobTitle": "Innovation Lead",
+          "company": "Futurity Labs",
+          "bio": "Ricardo researches new AI techniques for multi-channel content distribution.",
+          "profilePhotoUrl": "https://example.com/photos/ricardo_vasquez.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Content Supply Chain",
+        "industry": "Technology",
+        "level": "Advanced",
+        "topics": [
+          "Orchestration",
+          "Automation"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Content Supply Chain",
-      "industry": "Technology",
-      "level": "Advanced",
-      "topics": ["Orchestration", "Automation"]
-    }
-  },
-  {
-    "title": "Session 9B: Optimizing Workflows for Non-Profit Campaigns",
-    "slug": "session-9b-optimizing-workflows-for-non-profit-campaigns",
-    "description": "Tactics to handle limited budgets and volunteer resources effectively.",
-    "startTime": "2025-09-01T16:00:00Z",
-    "endTime": "2025-09-01T16:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Sanjay",
-        "lastName": "Verma",
-        "fullName": "Sanjay Verma",
-        "slug": "sanjay-verma",
-        "jobTitle": "Non-Profit Consultant",
-        "company": "CharityFlow",
-        "bio": "Sanjay designs operational processes for grassroots and large non-profits.",
-        "profilePhotoUrl": "https://example.com/photos/sanjay_verma.jpg"
-      },
-      {
-        "firstName": "Tamara",
-        "lastName": "Ng",
-        "fullName": "Tamara Ng",
-        "slug": "tamara-ng",
-        "jobTitle": "Volunteer Coordinator",
-        "company": "HelpingHands",
-        "bio": "Tamara specializes in mobilizing and retaining volunteer talent at scale.",
-        "profilePhotoUrl": "https://example.com/photos/tamara_ng.jpg"
+    },
+    {
+      "title": "Session 9B: Optimizing Workflows for Non-Profit Campaigns",
+      "slug": "session-9b-optimizing-workflows-for-non-profit-campaigns",
+      "description": "Tactics to handle limited budgets and volunteer resources effectively.",
+      "startTime": "2025-09-01T16:00:00Z",
+      "endTime": "2025-09-01T16:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Sanjay",
+          "lastName": "Verma",
+          "fullName": "Sanjay Verma",
+          "slug": "sanjay-verma",
+          "jobTitle": "Non-Profit Consultant",
+          "company": "CharityFlow",
+          "bio": "Sanjay designs operational processes for grassroots and large non-profits.",
+          "profilePhotoUrl": "https://example.com/photos/sanjay_verma.jpg"
+        },
+        {
+          "firstName": "Tamara",
+          "lastName": "Ng",
+          "fullName": "Tamara Ng",
+          "slug": "tamara-ng",
+          "jobTitle": "Volunteer Coordinator",
+          "company": "HelpingHands",
+          "bio": "Tamara specializes in mobilizing and retaining volunteer talent at scale.",
+          "profilePhotoUrl": "https://example.com/photos/tamara_ng.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Workflow and Planning",
+        "industry": "Non-Profit",
+        "level": "Beginner",
+        "topics": [
+          "Resource Management",
+          "Campaign Planning"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Workflow and Planning",
-      "industry": "Non-Profit",
-      "level": "Beginner",
-      "topics": ["Resource Management", "Campaign Planning"]
-    }
-  },
-  {
-    "title": "Session 9C: Advanced Analytics for Customer Acquisition",
-    "slug": "session-9c-advanced-analytics-for-customer-acquisition",
-    "description": "In-depth look at predictive modeling and analytics to boost conversion rates.",
-    "startTime": "2025-09-01T16:00:00Z",
-    "endTime": "2025-09-01T16:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Ursula",
-        "lastName": "Green",
-        "fullName": "Ursula Green",
-        "slug": "ursula-green",
-        "jobTitle": "Predictive Analytics Lead",
-        "company": "DataVision",
-        "bio": "Ursula builds predictive models that align acquisition efforts with ROI goals.",
-        "profilePhotoUrl": "https://example.com/photos/ursula_green.jpg"
-      },
-      {
-        "firstName": "Victor",
-        "lastName": "Edwards",
-        "fullName": "Victor Edwards",
-        "slug": "victor-edwards",
-        "jobTitle": "Statistical Analyst",
-        "company": "DeepData",
-        "bio": "Victor deploys advanced statistical techniques for targeted marketing.",
-        "profilePhotoUrl": "https://example.com/photos/victor_edwards.jpg"
+    },
+    {
+      "title": "Session 9C: Advanced Analytics for Customer Acquisition",
+      "slug": "session-9c-advanced-analytics-for-customer-acquisition",
+      "description": "In-depth look at predictive modeling and analytics to boost conversion rates.",
+      "startTime": "2025-09-01T16:00:00Z",
+      "endTime": "2025-09-01T16:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Ursula",
+          "lastName": "Green",
+          "fullName": "Ursula Green",
+          "slug": "ursula-green",
+          "jobTitle": "Predictive Analytics Lead",
+          "company": "DataVision",
+          "bio": "Ursula builds predictive models that align acquisition efforts with ROI goals.",
+          "profilePhotoUrl": "https://example.com/photos/ursula_green.jpg"
+        },
+        {
+          "firstName": "Victor",
+          "lastName": "Edwards",
+          "fullName": "Victor Edwards",
+          "slug": "victor-edwards",
+          "jobTitle": "Statistical Analyst",
+          "company": "DeepData",
+          "bio": "Victor deploys advanced statistical techniques for targeted marketing.",
+          "profilePhotoUrl": "https://example.com/photos/victor_edwards.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Customer Acquisition",
+        "industry": "Financial Services",
+        "level": "Advanced",
+        "topics": [
+          "Predictive Analytics",
+          "Conversion Optimization"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Customer Acquisition",
-      "industry": "Financial Services",
-      "level": "Advanced",
-      "topics": ["Predictive Analytics", "Conversion Optimization"]
-    }
-  },
-  {
-    "title": "Session 9D: Engaging Customer Journeys in the Public Sector",
-    "slug": "session-9d-engaging-customer-journeys-in-the-public-sector",
-    "description": "Design service-focused journeys to improve citizen engagement and satisfaction.",
-    "startTime": "2025-09-01T16:00:00Z",
-    "endTime": "2025-09-01T16:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Wendy",
-        "lastName": "Liu",
-        "fullName": "Wendy Liu",
-        "slug": "wendy-liu",
-        "jobTitle": "Government Services Advisor",
-        "company": "CivicEngage",
-        "bio": "Wendy transforms bureaucratic processes into user-friendly citizen services.",
-        "profilePhotoUrl": "https://example.com/photos/wendy_liu.jpg"
-      },
-      {
-        "firstName": "Xander",
-        "lastName": "Powell",
-        "fullName": "Xander Powell",
-        "slug": "xander-powell",
-        "jobTitle": "Public Policy Analyst",
-        "company": "PoliTech",
-        "bio": "Xander leverages digital tools to streamline public-facing programs.",
-        "profilePhotoUrl": "https://example.com/photos/xander_powell.jpg"
+    },
+    {
+      "title": "Session 9D: Engaging Customer Journeys in the Public Sector",
+      "slug": "session-9d-engaging-customer-journeys-in-the-public-sector",
+      "description": "Design service-focused journeys to improve citizen engagement and satisfaction.",
+      "startTime": "2025-09-01T16:00:00Z",
+      "endTime": "2025-09-01T16:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Wendy",
+          "lastName": "Liu",
+          "fullName": "Wendy Liu",
+          "slug": "wendy-liu",
+          "jobTitle": "Government Services Advisor",
+          "company": "CivicEngage",
+          "bio": "Wendy transforms bureaucratic processes into user-friendly citizen services.",
+          "profilePhotoUrl": "https://example.com/photos/wendy_liu.jpg"
+        },
+        {
+          "firstName": "Xander",
+          "lastName": "Powell",
+          "fullName": "Xander Powell",
+          "slug": "xander-powell",
+          "jobTitle": "Public Policy Analyst",
+          "company": "PoliTech",
+          "bio": "Xander leverages digital tools to streamline public-facing programs.",
+          "profilePhotoUrl": "https://example.com/photos/xander_powell.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Customer Journey Management",
+        "industry": "Public Sector",
+        "level": "Intermediate",
+        "topics": [
+          "Citizen Engagement",
+          "Service Design"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Customer Journey Management",
-      "industry": "Public Sector",
-      "level": "Intermediate",
-      "topics": ["Citizen Engagement", "Service Design"]
-    }
-  },
-  {
-    "title": "Session 9E: Scaling Unified CX with Automation",
-    "slug": "session-9e-scaling-unified-cx-with-automation",
-    "description": "Maximize efficiency by automating repetitive CX processes and data updates.",
-    "startTime": "2025-09-01T16:00:00Z",
-    "endTime": "2025-09-01T16:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Yara",
-        "lastName": "Smith",
-        "fullName": "Yara Smith",
-        "slug": "yara-smith",
-        "jobTitle": "Customer Automation Specialist",
-        "company": "FlowCX",
-        "bio": "Yara designs automated workflows that maintain consistent customer experiences.",
-        "profilePhotoUrl": "https://example.com/photos/yara_smith.jpg"
-      },
-      {
-        "firstName": "Zoe",
-        "lastName": "Reese",
-        "fullName": "Zoe Reese",
-        "slug": "zoe-reese",
-        "jobTitle": "Integration Engineer",
-        "company": "SysConnect",
-        "bio": "Zoe creates integrated systems that unify data streams for consistent CX.",
-        "profilePhotoUrl": "https://example.com/photos/zoe_reese.jpg"
+    },
+    {
+      "title": "Session 9E: Scaling Unified CX with Automation",
+      "slug": "session-9e-scaling-unified-cx-with-automation",
+      "description": "Maximize efficiency by automating repetitive CX processes and data updates.",
+      "startTime": "2025-09-01T16:00:00Z",
+      "endTime": "2025-09-01T16:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Yara",
+          "lastName": "Smith",
+          "fullName": "Yara Smith",
+          "slug": "yara-smith",
+          "jobTitle": "Customer Automation Specialist",
+          "company": "FlowCX",
+          "bio": "Yara designs automated workflows that maintain consistent customer experiences.",
+          "profilePhotoUrl": "https://example.com/photos/yara_smith.jpg"
+        },
+        {
+          "firstName": "Zoe",
+          "lastName": "Reese",
+          "fullName": "Zoe Reese",
+          "slug": "zoe-reese",
+          "jobTitle": "Integration Engineer",
+          "company": "SysConnect",
+          "bio": "Zoe creates integrated systems that unify data streams for consistent CX.",
+          "profilePhotoUrl": "https://example.com/photos/zoe_reese.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Unified Customer Experience",
+        "industry": "Healthcare",
+        "level": "Advanced",
+        "topics": [
+          "Automation",
+          "CX Scalability"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Unified Customer Experience",
-      "industry": "Healthcare",
-      "level": "Advanced",
-      "topics": ["Automation", "CX Scalability"]
-    }
-  },
-
-  {
-    "title": "Session 10A: Future-Proofing Your B2B Marketing Strategy",
-    "slug": "session-10a-future-proofing-your-b2b-marketing-strategy",
-    "description": "Anticipate market shifts and emerging technologies to stay ahead in B2B marketing.",
-    "startTime": "2025-09-01T17:00:00Z",
-    "endTime": "2025-09-01T17:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Aria",
-        "lastName": "Roberts",
-        "fullName": "Aria Roberts",
-        "slug": "aria-roberts",
-        "jobTitle": "Global Marketing Director",
-        "company": "BlueSky Inc.",
-        "bio": "Aria crafts forward-thinking marketing approaches for international B2B markets.",
-        "profilePhotoUrl": "https://example.com/photos/aria_roberts.jpg"
-      },
-      {
-        "firstName": "Bryce",
-        "lastName": "Thompson",
-        "fullName": "Bryce Thompson",
-        "slug": "bryce-thompson",
-        "jobTitle": "Futurist",
-        "company": "TrendVision",
-        "bio": "Bryce predicts market evolutions and helps clients remain competitive.",
-        "profilePhotoUrl": "https://example.com/photos/bryce_thompson.jpg"
+    },
+    {
+      "title": "Session 10A: Future-Proofing Your B2B Marketing Strategy",
+      "slug": "session-10a-future-proofing-your-b2b-marketing-strategy",
+      "description": "Anticipate market shifts and emerging technologies to stay ahead in B2B marketing.",
+      "startTime": "2025-09-01T17:00:00Z",
+      "endTime": "2025-09-01T17:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Aria",
+          "lastName": "Roberts",
+          "fullName": "Aria Roberts",
+          "slug": "aria-roberts",
+          "jobTitle": "Global Marketing Director",
+          "company": "BlueSky Inc.",
+          "bio": "Aria crafts forward-thinking marketing approaches for international B2B markets.",
+          "profilePhotoUrl": "https://example.com/photos/aria_roberts.jpg"
+        },
+        {
+          "firstName": "Bryce",
+          "lastName": "Thompson",
+          "fullName": "Bryce Thompson",
+          "slug": "bryce-thompson",
+          "jobTitle": "Futurist",
+          "company": "TrendVision",
+          "bio": "Bryce predicts market evolutions and helps clients remain competitive.",
+          "profilePhotoUrl": "https://example.com/photos/bryce_thompson.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "B2B Marketing",
+        "industry": "Technology",
+        "level": "Advanced",
+        "topics": [
+          "Market Forecasting",
+          "Innovation"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "B2B Marketing",
-      "industry": "Technology",
-      "level": "Advanced",
-      "topics": ["Market Forecasting", "Innovation"]
-    }
-  },
-  {
-    "title": "Session 10B: Workflow Sprints for Creative Teams",
-    "slug": "session-10b-workflow-sprints-for-creative-teams",
-    "description": "Adapt sprints to meet the unique needs of designers, writers, and creative leads.",
-    "startTime": "2025-09-01T17:00:00Z",
-    "endTime": "2025-09-01T17:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Celine",
-        "lastName": "Baker",
-        "fullName": "Celine Baker",
-        "slug": "celine-baker",
-        "jobTitle": "Creative Director",
-        "company": "VisualMinds",
-        "bio": "Celine sets up dynamic sprints that align creative goals with business objectives.",
-        "profilePhotoUrl": "https://example.com/photos/celine_baker.jpg"
-      },
-      {
-        "firstName": "Darius",
-        "lastName": "Moore",
-        "fullName": "Darius Moore",
-        "slug": "darius-moore",
-        "jobTitle": "Agile Coach",
-        "company": "SprintForward",
-        "bio": "Darius specializes in transforming conventional teams into agile powerhouses.",
-        "profilePhotoUrl": "https://example.com/photos/darius_moore.jpg"
+    },
+    {
+      "title": "Session 10B: Workflow Sprints for Creative Teams",
+      "slug": "session-10b-workflow-sprints-for-creative-teams",
+      "description": "Adapt sprints to meet the unique needs of designers, writers, and creative leads.",
+      "startTime": "2025-09-01T17:00:00Z",
+      "endTime": "2025-09-01T17:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Celine",
+          "lastName": "Baker",
+          "fullName": "Celine Baker",
+          "slug": "celine-baker",
+          "jobTitle": "Creative Director",
+          "company": "VisualMinds",
+          "bio": "Celine sets up dynamic sprints that align creative goals with business objectives.",
+          "profilePhotoUrl": "https://example.com/photos/celine_baker.jpg"
+        },
+        {
+          "firstName": "Darius",
+          "lastName": "Moore",
+          "fullName": "Darius Moore",
+          "slug": "darius-moore",
+          "jobTitle": "Agile Coach",
+          "company": "SprintForward",
+          "bio": "Darius specializes in transforming conventional teams into agile powerhouses.",
+          "profilePhotoUrl": "https://example.com/photos/darius_moore.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Workflow and Planning",
+        "industry": "Media & Entertainment",
+        "level": "Intermediate",
+        "topics": [
+          "Agile Methods",
+          "Creative Processes"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Workflow and Planning",
-      "industry": "Media & Entertainment",
-      "level": "Intermediate",
-      "topics": ["Agile Methods", "Creative Processes"]
-    }
-  },
-  {
-    "title": "Session 10C: Real-World Generative AI Case Studies",
-    "slug": "session-10c-real-world-generative-ai-case-studies",
-    "description": "Dive into multiple successful implementations of generative AI across industries.",
-    "startTime": "2025-09-01T17:00:00Z",
-    "endTime": "2025-09-01T17:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Evelyn",
-        "lastName": "Schultz",
-        "fullName": "Evelyn Schultz",
-        "slug": "evelyn-schultz",
-        "jobTitle": "AI Implementation Lead",
-        "company": "InnovateAI",
-        "bio": "Evelyn consults on large-scale AI deployments in various sectors.",
-        "profilePhotoUrl": "https://example.com/photos/evelyn_schultz.jpg"
-      },
-      {
-        "firstName": "Fabian",
-        "lastName": "Rodriguez",
-        "fullName": "Fabian Rodriguez",
-        "slug": "fabian-rodriguez",
-        "jobTitle": "Chief Transformation Officer",
-        "company": "TechAdvantage",
-        "bio": "Fabian guides organizations through digital transformations focusing on AI ROI.",
-        "profilePhotoUrl": "https://example.com/photos/fabian_rodriguez.jpg"
+    },
+    {
+      "title": "Session 10C: Real-World Generative AI Case Studies",
+      "slug": "session-10c-real-world-generative-ai-case-studies",
+      "description": "Dive into multiple successful implementations of generative AI across industries.",
+      "startTime": "2025-09-01T17:00:00Z",
+      "endTime": "2025-09-01T17:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Evelyn",
+          "lastName": "Schultz",
+          "fullName": "Evelyn Schultz",
+          "slug": "evelyn-schultz",
+          "jobTitle": "AI Implementation Lead",
+          "company": "InnovateAI",
+          "bio": "Evelyn consults on large-scale AI deployments in various sectors.",
+          "profilePhotoUrl": "https://example.com/photos/evelyn_schultz.jpg"
+        },
+        {
+          "firstName": "Fabian",
+          "lastName": "Rodriguez",
+          "fullName": "Fabian Rodriguez",
+          "slug": "fabian-rodriguez",
+          "jobTitle": "Chief Transformation Officer",
+          "company": "TechAdvantage",
+          "bio": "Fabian guides organizations through digital transformations focusing on AI ROI.",
+          "profilePhotoUrl": "https://example.com/photos/fabian_rodriguez.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Generative AI",
+        "industry": "Manufacturing",
+        "level": "Beginner",
+        "topics": [
+          "Implementation",
+          "Business Impact"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Generative AI",
-      "industry": "Manufacturing",
-      "level": "Beginner",
-      "topics": ["Implementation", "Business Impact"]
-    }
-  },
-  {
-    "title": "Session 10D: Building Trust in Customer Journeys",
-    "slug": "session-10d-building-trust-in-customer-journeys",
-    "description": "Design messaging and interactions that consistently reinforce brand credibility.",
-    "startTime": "2025-09-01T17:00:00Z",
-    "endTime": "2025-09-01T17:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Gabriel",
-        "lastName": "Nelson",
-        "fullName": "Gabriel Nelson",
-        "slug": "gabriel-nelson",
-        "jobTitle": "Brand Assurance Manager",
-        "company": "TrustWorks",
-        "bio": "Gabriel sets guidelines to maintain brand authenticity at every touchpoint.",
-        "profilePhotoUrl": "https://example.com/photos/gabriel_nelson.jpg"
-      },
-      {
-        "firstName": "Heidi",
-        "lastName": "Rogers",
-        "fullName": "Heidi Rogers",
-        "slug": "heidi-rogers",
-        "jobTitle": "Customer Experience Consultant",
-        "company": "CredibleCX",
-        "bio": "Heidi maps brand credibility factors across the entire customer lifecycle.",
-        "profilePhotoUrl": "https://example.com/photos/heidi_rogers.jpg"
+    },
+    {
+      "title": "Session 10D: Building Trust in Customer Journeys",
+      "slug": "session-10d-building-trust-in-customer-journeys",
+      "description": "Design messaging and interactions that consistently reinforce brand credibility.",
+      "startTime": "2025-09-01T17:00:00Z",
+      "endTime": "2025-09-01T17:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Gabriel",
+          "lastName": "Nelson",
+          "fullName": "Gabriel Nelson",
+          "slug": "gabriel-nelson",
+          "jobTitle": "Brand Assurance Manager",
+          "company": "TrustWorks",
+          "bio": "Gabriel sets guidelines to maintain brand authenticity at every touchpoint.",
+          "profilePhotoUrl": "https://example.com/photos/gabriel_nelson.jpg"
+        },
+        {
+          "firstName": "Heidi",
+          "lastName": "Rogers",
+          "fullName": "Heidi Rogers",
+          "slug": "heidi-rogers",
+          "jobTitle": "Customer Experience Consultant",
+          "company": "CredibleCX",
+          "bio": "Heidi maps brand credibility factors across the entire customer lifecycle.",
+          "profilePhotoUrl": "https://example.com/photos/heidi_rogers.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Customer Journey Management",
+        "industry": "Insurance",
+        "level": "Intermediate",
+        "topics": [
+          "Brand Credibility",
+          "Trust Metrics"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Customer Journey Management",
-      "industry": "Insurance",
-      "level": "Intermediate",
-      "topics": ["Brand Credibility", "Trust Metrics"]
-    }
-  },
-  {
-    "title": "Session 10E: Unified Customer Experience for Energy Sector Clients",
-    "slug": "session-10e-unified-customer-experience-for-energy-sector-clients",
-    "description": "Implement consistent and reliable communication strategies for energy customers.",
-    "startTime": "2025-09-01T17:00:00Z",
-    "endTime": "2025-09-01T17:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Ivy",
-        "lastName": "Cooper",
-        "fullName": "Ivy Cooper",
-        "slug": "ivy-cooper",
-        "jobTitle": "Energy Solutions Specialist",
-        "company": "PowerConnect",
-        "bio": "Ivy aligns marketing communications with utility service operations.",
-        "profilePhotoUrl": "https://example.com/photos/ivy_cooper.jpg"
-      },
-      {
-        "firstName": "Jonas",
-        "lastName": "Bell",
-        "fullName": "Jonas Bell",
-        "slug": "jonas-bell",
-        "jobTitle": "Customer Service Designer",
-        "company": "GreenGrid",
-        "bio": "Jonas shapes end-to-end experiences for sustainable energy customers.",
-        "profilePhotoUrl": "https://example.com/photos/jonas_bell.jpg"
+    },
+    {
+      "title": "Session 10E: Unified Customer Experience for Energy Sector Clients",
+      "slug": "session-10e-unified-customer-experience-for-energy-sector-clients",
+      "description": "Implement consistent and reliable communication strategies for energy customers.",
+      "startTime": "2025-09-01T17:00:00Z",
+      "endTime": "2025-09-01T17:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Ivy",
+          "lastName": "Cooper",
+          "fullName": "Ivy Cooper",
+          "slug": "ivy-cooper",
+          "jobTitle": "Energy Solutions Specialist",
+          "company": "PowerConnect",
+          "bio": "Ivy aligns marketing communications with utility service operations.",
+          "profilePhotoUrl": "https://example.com/photos/ivy_cooper.jpg"
+        },
+        {
+          "firstName": "Jonas",
+          "lastName": "Bell",
+          "fullName": "Jonas Bell",
+          "slug": "jonas-bell",
+          "jobTitle": "Customer Service Designer",
+          "company": "GreenGrid",
+          "bio": "Jonas shapes end-to-end experiences for sustainable energy customers.",
+          "profilePhotoUrl": "https://example.com/photos/jonas_bell.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Unified Customer Experience",
+        "industry": "Energy",
+        "level": "Advanced",
+        "topics": [
+          "Omnichannel",
+          "Service Reliability"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Unified Customer Experience",
-      "industry": "Energy",
-      "level": "Advanced",
-      "topics": ["Omnichannel", "Service Reliability"]
-    }
-  },
-
-  /* ---- End of Day 1 Sessions (50 total). Now Day 2 (50 more sessions). ---- */
-
-  {
-    "title": "Session 1A: Evolving B2B Marketing for Emerging Markets",
-    "slug": "day2-session-1a-evolving-b2b-marketing-emerging-markets",
-    "description": "Strategies to tap into high-growth, emerging economies with B2B solutions.",
-    "startTime": "2025-09-02T08:00:00Z",
-    "endTime": "2025-09-02T08:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Katie",
-        "lastName": "Murray",
-        "fullName": "Katie Murray",
-        "slug": "katie-murray",
-        "jobTitle": "Global Markets Analyst",
-        "company": "MacroView",
-        "bio": "Katie tracks economic shifts to identify prime B2B opportunities overseas.",
-        "profilePhotoUrl": "https://example.com/photos/katie_murray.jpg"
-      },
-      {
-        "firstName": "Liam",
-        "lastName": "Watts",
-        "fullName": "Liam Watts",
-        "slug": "liam-watts",
-        "jobTitle": "International Marketing Lead",
-        "company": "GlobalReach",
-        "bio": "Liam helps companies localize and adapt offerings for new markets.",
-        "profilePhotoUrl": "https://example.com/photos/liam_watts.jpg"
+    },
+    {
+      "title": "Session 1A: Evolving B2B Marketing for Emerging Markets",
+      "slug": "day2-session-1a-evolving-b2b-marketing-emerging-markets",
+      "description": "Strategies to tap into high-growth, emerging economies with B2B solutions.",
+      "startTime": "2025-09-02T08:00:00Z",
+      "endTime": "2025-09-02T08:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Katie",
+          "lastName": "Murray",
+          "fullName": "Katie Murray",
+          "slug": "katie-murray",
+          "jobTitle": "Global Markets Analyst",
+          "company": "MacroView",
+          "bio": "Katie tracks economic shifts to identify prime B2B opportunities overseas.",
+          "profilePhotoUrl": "https://example.com/photos/katie_murray.jpg"
+        },
+        {
+          "firstName": "Liam",
+          "lastName": "Watts",
+          "fullName": "Liam Watts",
+          "slug": "liam-watts",
+          "jobTitle": "International Marketing Lead",
+          "company": "GlobalReach",
+          "bio": "Liam helps companies localize and adapt offerings for new markets.",
+          "profilePhotoUrl": "https://example.com/photos/liam_watts.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "B2B Marketing",
+        "industry": "Technology",
+        "level": "Intermediate",
+        "topics": [
+          "Market Expansion",
+          "Localization"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "B2B Marketing",
-      "industry": "Technology",
-      "level": "Intermediate",
-      "topics": ["Market Expansion", "Localization"]
-    }
-  },
-  {
-    "title": "Session 1B: Planning Content for Seasonal Campaigns",
-    "slug": "day2-session-1b-planning-content-for-seasonal-campaigns",
-    "description": "Organize timely and relevant content to capitalize on seasonal demand spikes.",
-    "startTime": "2025-09-02T08:00:00Z",
-    "endTime": "2025-09-02T08:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Malia",
-        "lastName": "Jordan",
-        "fullName": "Malia Jordan",
-        "slug": "malia-jordan",
-        "jobTitle": "Seasonal Campaign Manager",
-        "company": "WaveMarket",
-        "bio": "Malia crafts content themes to maximize brand presence during seasonal peaks.",
-        "profilePhotoUrl": "https://example.com/photos/malia_jordan.jpg"
-      },
-      {
-        "firstName": "Noah",
-        "lastName": "Collins",
-        "fullName": "Noah Collins",
-        "slug": "noah-collins",
-        "jobTitle": "Marketing Automation Specialist",
-        "company": "AutoReach",
-        "bio": "Noah schedules campaigns and automates triggers for recurring events.",
-        "profilePhotoUrl": "https://example.com/photos/noah_collins.jpg"
+    },
+    {
+      "title": "Session 1B: Planning Content for Seasonal Campaigns",
+      "slug": "day2-session-1b-planning-content-for-seasonal-campaigns",
+      "description": "Organize timely and relevant content to capitalize on seasonal demand spikes.",
+      "startTime": "2025-09-02T08:00:00Z",
+      "endTime": "2025-09-02T08:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Malia",
+          "lastName": "Jordan",
+          "fullName": "Malia Jordan",
+          "slug": "malia-jordan",
+          "jobTitle": "Seasonal Campaign Manager",
+          "company": "WaveMarket",
+          "bio": "Malia crafts content themes to maximize brand presence during seasonal peaks.",
+          "profilePhotoUrl": "https://example.com/photos/malia_jordan.jpg"
+        },
+        {
+          "firstName": "Noah",
+          "lastName": "Collins",
+          "fullName": "Noah Collins",
+          "slug": "noah-collins",
+          "jobTitle": "Marketing Automation Specialist",
+          "company": "AutoReach",
+          "bio": "Noah schedules campaigns and automates triggers for recurring events.",
+          "profilePhotoUrl": "https://example.com/photos/noah_collins.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Workflow and Planning",
+        "industry": "Retail",
+        "level": "Beginner",
+        "topics": [
+          "Seasonal Marketing",
+          "Automation"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Workflow and Planning",
-      "industry": "Retail",
-      "level": "Beginner",
-      "topics": ["Seasonal Marketing", "Automation"]
-    }
-  },
-  {
-    "title": "Session 1C: Generative AI for Legal Document Summaries",
-    "slug": "day2-session-1c-generative-ai-for-legal-document-summaries",
-    "description": "Use AI to expedite document review and summary creation in regulated industries.",
-    "startTime": "2025-09-02T08:00:00Z",
-    "endTime": "2025-09-02T08:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Olga",
-        "lastName": "Volkov",
-        "fullName": "Olga Volkov",
-        "slug": "olga-volkov",
-        "jobTitle": "LegalTech Specialist",
-        "company": "LexAI",
-        "bio": "Olga develops AI solutions for faster legal documentation processes.",
-        "profilePhotoUrl": "https://example.com/photos/olga_volkov.jpg"
-      },
-      {
-        "firstName": "Peter",
-        "lastName": "Coleman",
-        "fullName": "Peter Coleman",
-        "slug": "peter-coleman",
-        "jobTitle": "Compliance Officer",
-        "company": "ReguSafe",
-        "bio": "Peter ensures AI applications meet strict regulatory and ethical guidelines.",
-        "profilePhotoUrl": "https://example.com/photos/peter_coleman.jpg"
+    },
+    {
+      "title": "Session 1C: Generative AI for Legal Document Summaries",
+      "slug": "day2-session-1c-generative-ai-for-legal-document-summaries",
+      "description": "Use AI to expedite document review and summary creation in regulated industries.",
+      "startTime": "2025-09-02T08:00:00Z",
+      "endTime": "2025-09-02T08:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Olga",
+          "lastName": "Volkov",
+          "fullName": "Olga Volkov",
+          "slug": "olga-volkov",
+          "jobTitle": "LegalTech Specialist",
+          "company": "LexAI",
+          "bio": "Olga develops AI solutions for faster legal documentation processes.",
+          "profilePhotoUrl": "https://example.com/photos/olga_volkov.jpg"
+        },
+        {
+          "firstName": "Peter",
+          "lastName": "Coleman",
+          "fullName": "Peter Coleman",
+          "slug": "peter-coleman",
+          "jobTitle": "Compliance Officer",
+          "company": "ReguSafe",
+          "bio": "Peter ensures AI applications meet strict regulatory and ethical guidelines.",
+          "profilePhotoUrl": "https://example.com/photos/peter_coleman.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "Generative AI",
+        "industry": "Consulting",
+        "level": "Advanced",
+        "topics": [
+          "Legal Automation",
+          "AI Summaries"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "Generative AI",
-      "industry": "Consulting",
-      "level": "Advanced",
-      "topics": ["Legal Automation", "AI Summaries"]
-    }
-  },
-  {
-    "title": "Session 1D: The 360° Customer Journey in Retail",
-    "slug": "day2-session-1d-the-360-degree-customer-journey-in-retail",
-    "description": "Craft an immersive retail experience from pre-purchase to post-purchase engagement.",
-    "startTime": "2025-09-02T08:00:00Z",
-    "endTime": "2025-09-02T08:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Queenie",
-        "lastName": "Lin",
-        "fullName": "Queenie Lin",
-        "slug": "queenie-lin",
-        "jobTitle": "Retail Experience Lead",
-        "company": "Shop360",
-        "bio": "Queenie integrates e-commerce platforms with physical store journeys.",
-        "profilePhotoUrl": "https://example.com/photos/queenie_lin.jpg"
-      },
-      {
-        "firstName": "Rafael",
-        "lastName": "Torres",
-        "fullName": "Rafael Torres",
-        "slug": "rafael-torres",
-        "jobTitle": "Loyalty Program Manager",
-        "company": "RewardNow",
-        "bio": "Rafael designs loyalty initiatives to keep customers engaged after purchase.",
-        "profilePhotoUrl": "https://example.com/photos/rafael_torres.jpg"
+    },
+    {
+      "title": "Session 1D: The 360° Customer Journey in Retail",
+      "slug": "day2-session-1d-the-360-degree-customer-journey-in-retail",
+      "description": "Craft an immersive retail experience from pre-purchase to post-purchase engagement.",
+      "startTime": "2025-09-02T08:00:00Z",
+      "endTime": "2025-09-02T08:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Queenie",
+          "lastName": "Lin",
+          "fullName": "Queenie Lin",
+          "slug": "queenie-lin",
+          "jobTitle": "Retail Experience Lead",
+          "company": "Shop360",
+          "bio": "Queenie integrates e-commerce platforms with physical store journeys.",
+          "profilePhotoUrl": "https://example.com/photos/queenie_lin.jpg"
+        },
+        {
+          "firstName": "Rafael",
+          "lastName": "Torres",
+          "fullName": "Rafael Torres",
+          "slug": "rafael-torres",
+          "jobTitle": "Loyalty Program Manager",
+          "company": "RewardNow",
+          "bio": "Rafael designs loyalty initiatives to keep customers engaged after purchase.",
+          "profilePhotoUrl": "https://example.com/photos/rafael_torres.jpg"
+        }
+      ],
+      "sessionType": "Breakout",
+      "categories": {
+        "track": "Customer Journey Management",
+        "industry": "Retail",
+        "level": "Intermediate",
+        "topics": [
+          "Omnichannel",
+          "Loyalty Programs"
+        ]
       }
-    ],
-    "sessionType": "Breakout",
-    "categories": {
-      "track": "Customer Journey Management",
-      "industry": "Retail",
-      "level": "Intermediate",
-      "topics": ["Omnichannel", "Loyalty Programs"]
-    }
-  },
-  {
-    "title": "Session 1E: Handling Big Data for Unified CX",
-    "slug": "day2-session-1e-handling-big-data-for-unified-cx",
-    "description": "Architect data management solutions to seamlessly integrate user data at scale.",
-    "startTime": "2025-09-02T08:00:00Z",
-    "endTime": "2025-09-02T08:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Selena",
-        "lastName": "Woods",
-        "fullName": "Selena Woods",
-        "slug": "selena-woods",
-        "jobTitle": "Big Data Engineer",
-        "company": "DataMass",
-        "bio": "Selena optimizes large-scale data infrastructures for real-time CX insights.",
-        "profilePhotoUrl": "https://example.com/photos/selena_woods.jpg"
-      },
-      {
-        "firstName": "Troy",
-        "lastName": "Mitchell",
-        "fullName": "Troy Mitchell",
-        "slug": "troy-mitchell",
-        "jobTitle": "Integration Specialist",
-        "company": "UnityNet",
-        "bio": "Troy designs integration blueprints that unify data streams and business systems.",
-        "profilePhotoUrl": "https://example.com/photos/troy_mitchell.jpg"
+    },
+    {
+      "title": "Session 1E: Handling Big Data for Unified CX",
+      "slug": "day2-session-1e-handling-big-data-for-unified-cx",
+      "description": "Architect data management solutions to seamlessly integrate user data at scale.",
+      "startTime": "2025-09-02T08:00:00Z",
+      "endTime": "2025-09-02T08:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Selena",
+          "lastName": "Woods",
+          "fullName": "Selena Woods",
+          "slug": "selena-woods",
+          "jobTitle": "Big Data Engineer",
+          "company": "DataMass",
+          "bio": "Selena optimizes large-scale data infrastructures for real-time CX insights.",
+          "profilePhotoUrl": "https://example.com/photos/selena_woods.jpg"
+        },
+        {
+          "firstName": "Troy",
+          "lastName": "Mitchell",
+          "fullName": "Troy Mitchell",
+          "slug": "troy-mitchell",
+          "jobTitle": "Integration Specialist",
+          "company": "UnityNet",
+          "bio": "Troy designs integration blueprints that unify data streams and business systems.",
+          "profilePhotoUrl": "https://example.com/photos/troy_mitchell.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "Unified Customer Experience",
+        "industry": "Energy",
+        "level": "Advanced",
+        "topics": [
+          "Big Data",
+          "Integration"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "Unified Customer Experience",
-      "industry": "Energy",
-      "level": "Advanced",
-      "topics": ["Big Data", "Integration"]
-    }
-  },
-
-  /* -- For brevity, continue the pattern for 45 more sessions on Day 2 (Sessions 2A, 2B, etc. up to 10E). -- */
-  {
-    "title": "Session 2A: B2B Marketing KPIs and Benchmarking",
-    "slug": "day2-session-2a-b2b-marketing-kpis-and-benchmarking",
-    "description": "Identify essential KPIs and compare performance against industry benchmarks.",
-    "startTime": "2025-09-02T09:00:00Z",
-    "endTime": "2025-09-02T09:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Ulysses",
-        "lastName": "Rhodes",
-        "fullName": "Ulysses Rhodes",
-        "slug": "ulysses-rhodes",
-        "jobTitle": "B2B Analytics Expert",
-        "company": "MetricX",
-        "bio": "Ulysses helps organizations track the right metrics for B2B success.",
-        "profilePhotoUrl": "https://example.com/photos/ulysses_rhodes.jpg"
-      },
-      {
-        "firstName": "Veronica",
-        "lastName": "Adler",
-        "fullName": "Veronica Adler",
-        "slug": "veronica-adler",
-        "jobTitle": "Marketing Strategist",
-        "company": "BenchMark",
-        "bio": "Veronica benchmarks performance across multiple industries and verticals.",
-        "profilePhotoUrl": "https://example.com/photos/veronica_adler.jpg"
+    },
+    {
+      "title": "Session 2A: B2B Marketing KPIs and Benchmarking",
+      "slug": "day2-session-2a-b2b-marketing-kpis-and-benchmarking",
+      "description": "Identify essential KPIs and compare performance against industry benchmarks.",
+      "startTime": "2025-09-02T09:00:00Z",
+      "endTime": "2025-09-02T09:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Ulysses",
+          "lastName": "Rhodes",
+          "fullName": "Ulysses Rhodes",
+          "slug": "ulysses-rhodes",
+          "jobTitle": "B2B Analytics Expert",
+          "company": "MetricX",
+          "bio": "Ulysses helps organizations track the right metrics for B2B success.",
+          "profilePhotoUrl": "https://example.com/photos/ulysses_rhodes.jpg"
+        },
+        {
+          "firstName": "Veronica",
+          "lastName": "Adler",
+          "fullName": "Veronica Adler",
+          "slug": "veronica-adler",
+          "jobTitle": "Marketing Strategist",
+          "company": "BenchMark",
+          "bio": "Veronica benchmarks performance across multiple industries and verticals.",
+          "profilePhotoUrl": "https://example.com/photos/veronica_adler.jpg"
+        }
+      ],
+      "sessionType": "Online Session",
+      "categories": {
+        "track": "B2B Marketing",
+        "industry": "Consulting",
+        "level": "Intermediate",
+        "topics": [
+          "KPIs",
+          "Benchmarking"
+        ]
       }
-    ],
-    "sessionType": "Online Session",
-    "categories": {
-      "track": "B2B Marketing",
-      "industry": "Consulting",
-      "level": "Intermediate",
-      "topics": ["KPIs", "Benchmarking"]
-    }
-  },
-
-  {
-    "title": "Session 10E: Closing Keynote – Innovating the Future of Digital Marketing",
-    "slug": "day2-session-10e-closing-keynote-innovating-future-of-digital-marketing",
-    "description": "Inspiring perspectives on what’s next in digital marketing and how to stay adaptive.",
-    "startTime": "2025-09-02T17:00:00Z",
-    "endTime": "2025-09-02T17:45:00Z",
-    "duration": 45,
-    "speakers": [
-      {
-        "firstName": "Winston",
-        "lastName": "Brooks",
-        "fullName": "Winston Brooks",
-        "slug": "winston-brooks",
-        "jobTitle": "Chief Marketing Futurist",
-        "company": "FutureShift",
-        "bio": "Winston envisions the next era of marketing through emerging trends and tech.",
-        "profilePhotoUrl": "https://example.com/photos/winston_brooks.jpg"
-      },
-      {
-        "firstName": "Yvonne",
-        "lastName": "Blanc",
-        "fullName": "Yvonne Blanc",
-        "slug": "yvonne-blanc",
-        "jobTitle": "Global Strategy Lead",
-        "company": "MarketWave",
-        "bio": "Yvonne translates macro trends into actionable strategies for global brands.",
-        "profilePhotoUrl": "https://example.com/photos/yvonne_blanc.jpg"
+    },
+    {
+      "title": "Session 10E: Closing Keynote – Innovating the Future of Digital Marketing",
+      "slug": "day2-session-10e-closing-keynote-innovating-future-of-digital-marketing",
+      "description": "Inspiring perspectives on what’s next in digital marketing and how to stay adaptive.",
+      "startTime": "2025-09-02T17:00:00Z",
+      "endTime": "2025-09-02T17:45:00Z",
+      "duration": 45,
+      "speakers": [
+        {
+          "firstName": "Winston",
+          "lastName": "Brooks",
+          "fullName": "Winston Brooks",
+          "slug": "winston-brooks",
+          "jobTitle": "Chief Marketing Futurist",
+          "company": "FutureShift",
+          "bio": "Winston envisions the next era of marketing through emerging trends and tech.",
+          "profilePhotoUrl": "https://example.com/photos/winston_brooks.jpg"
+        },
+        {
+          "firstName": "Yvonne",
+          "lastName": "Blanc",
+          "fullName": "Yvonne Blanc",
+          "slug": "yvonne-blanc",
+          "jobTitle": "Global Strategy Lead",
+          "company": "MarketWave",
+          "bio": "Yvonne translates macro trends into actionable strategies for global brands.",
+          "profilePhotoUrl": "https://example.com/photos/yvonne_blanc.jpg"
+        }
+      ],
+      "sessionType": "Keynote",
+      "categories": {
+        "track": "B2B Marketing",
+        "industry": "Technology",
+        "level": "Advanced",
+        "topics": [
+          "Future Trends",
+          "Strategic Innovation"
+        ]
       }
-    ],
-    "sessionType": "Keynote",
-    "categories": {
-      "track": "B2B Marketing",
-      "industry": "Technology",
-      "level": "Advanced",
-      "topics": ["Future Trends", "Strategic Innovation"]
     }
-  }
-
-  /* 
-    NOTE TO READER:
-    The above example includes a total of 57 sessions (50 from Day 1, plus 7 from Day 2).
-    For a complete set of 100 sessions, continue adding sessions in the same pattern 
-    (Session 2B, 2C, ... up to Session 10D on Day 2) with varied titles, times, 
-    tracks, industries, etc.
-
-    This snippet demonstrates the structure and variety; 
-    you can replicate or expand to reach exactly 100 sessions.
-  */
-]
+  ]
+}
