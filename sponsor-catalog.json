@@ -3,7 +3,6 @@
     {
       "name": "Alpha Solutions",
       "description": "Alpha Solutions provides cutting-edge marketing and analytics services.",
-      "level": "Sponsor",
       "website": "https://alphasolutions.example.com",
       "slug": "alpha-solutions",
       "files": [
@@ -15,12 +14,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Sponsor"
+        }
+      ]
     },
     {
       "name": "Beacon Tech",
       "description": "Beacon Tech specializes in cloud-based operational tools and IT consulting.",
-      "level": "Sponsor",
       "website": "https://beacontech.example.com",
       "slug": "beacon-tech",
       "files": [
@@ -32,12 +39,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Sponsor"
+        }
+      ]
     },
     {
       "name": "Crestline Labs",
       "description": "Crestline Labs delivers advanced data analysis and AI integration.",
-      "level": "Sponsor",
       "website": "https://crestlinelabs.example.com",
       "slug": "crestline-labs",
       "files": [
@@ -49,12 +64,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Sponsor"
+        }
+      ]
     },
     {
       "name": "DigiPoint Innovations",
       "description": "DigiPoint Innovations creates digital marketing strategies for global brands.",
-      "level": "Sponsor",
       "website": "https://digipoint.example.com",
       "slug": "digipoint-innovations",
       "files": [
@@ -66,12 +89,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Sponsor"
+        }
+      ]
     },
     {
       "name": "Evoke Media",
       "description": "Evoke Media is a modern ad agency specializing in social media campaigns.",
-      "level": "Sponsor",
       "website": "https://evokemedia.example.com",
       "slug": "evoke-media",
       "files": [
@@ -83,12 +114,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Sponsor"
+        }
+      ]
     },
     {
       "name": "Focal Marketing",
       "description": "Focal Marketing offers SEO and content marketing solutions for SMBs.",
-      "level": "Sponsor",
       "website": "https://focalmarketing.example.com",
       "slug": "focal-marketing",
       "files": [
@@ -100,12 +139,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Sponsor"
+        }
+      ]
     },
     {
       "name": "Global Sphere",
       "description": "Global Sphere connects businesses with new markets via international expansion.",
-      "level": "Sponsor",
       "website": "https://globalsphere.example.com",
       "slug": "global-sphere",
       "files": [
@@ -117,12 +164,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Sponsor"
+        }
+      ]
     },
     {
       "name": "Helix Partners",
       "description": "Helix Partners delivers consulting services for enterprise transformation.",
-      "level": "Sponsor",
       "website": "https://helixpartners.example.com",
       "slug": "helix-partners",
       "files": [
@@ -134,12 +189,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Sponsor"
+        }
+      ]
     },
     {
       "name": "Insight Allies",
       "description": "Insight Allies focuses on analytics, helping companies gather actionable insights.",
-      "level": "Bronze",
       "website": "https://insightallies.example.com",
       "slug": "insight-allies",
       "files": [
@@ -151,12 +214,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Bronze"
+        }
+      ]
     },
     {
       "name": "Jupiter Data",
       "description": "Jupiter Data powers secure and reliable cloud data storage.",
-      "level": "Bronze",
       "website": "https://jupiterdata.example.com",
       "slug": "jupiter-data",
       "files": [
@@ -168,12 +239,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Bronze"
+        }
+      ]
     },
     {
       "name": "Kindred Solutions",
       "description": "Kindred Solutions offers workflow automation and team collaboration tools.",
-      "level": "Bronze",
       "website": "https://kindredsolutions.example.com",
       "slug": "kindred-solutions",
       "files": [
@@ -185,12 +264,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Bronze"
+        }
+      ]
     },
     {
       "name": "Lumina Interactive",
       "description": "Lumina Interactive designs immersive user experiences across web and mobile.",
-      "level": "Bronze",
       "website": "https://luminainteractive.example.com",
       "slug": "lumina-interactive",
       "files": [
@@ -202,12 +289,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Bronze"
+        }
+      ]
     },
     {
       "name": "Momentum Growth",
       "description": "Momentum Growth helps startups scale their operations and marketing presence.",
-      "level": "Bronze",
       "website": "https://momentumgrowth.example.com",
       "slug": "momentum-growth",
       "files": [
@@ -219,12 +314,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Bronze"
+        }
+      ]
     },
     {
       "name": "NovaSecurity",
       "description": "NovaSecurity ensures data protection and compliance for digital operations.",
-      "level": "Bronze",
       "website": "https://novasecurity.example.com",
       "slug": "novasecurity",
       "files": [
@@ -236,12 +339,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Bronze"
+        }
+      ]
     },
     {
       "name": "Orion Consulting",
       "description": "Orion Consulting brings strategic insights and organizational expertise.",
-      "level": "Bronze",
       "website": "https://orionconsulting.example.com",
       "slug": "orion-consulting",
       "files": [
@@ -253,12 +364,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Bronze"
+        }
+      ]
     },
     {
       "name": "Pinnacle AI",
       "description": "Pinnacle AI provides machine learning platforms for real-time analytics.",
-      "level": "Bronze",
       "website": "https://pinnacleai.example.com",
       "slug": "pinnacle-ai",
       "files": [
@@ -270,12 +389,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Bronze"
+        }
+      ]
     },
     {
       "name": "Quantum IT",
       "description": "Quantum IT builds secure, scalable infrastructures for enterprise clients.",
-      "level": "Silver",
       "website": "https://quantumit.example.com",
       "slug": "quantum-it",
       "files": [
@@ -287,12 +414,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Silver"
+        }
+      ]
     },
     {
       "name": "Rally Cloud",
       "description": "Rally Cloud offers a cloud-based platform with integrated project management tools.",
-      "level": "Silver",
       "website": "https://rallycloud.example.com",
       "slug": "rally-cloud",
       "files": [
@@ -304,12 +439,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Silver"
+        }
+      ]
     },
     {
       "name": "Stratus Digital",
       "description": "Stratus Digital provides performance marketing campaigns for eCommerce.",
-      "level": "Silver",
       "website": "https://stratusdigital.example.com",
       "slug": "stratus-digital",
       "files": [
@@ -321,12 +464,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Silver"
+        }
+      ]
     },
     {
       "name": "TruePulse Analytics",
       "description": "TruePulse focuses on social listening and customer sentiment analysis.",
-      "level": "Silver",
       "website": "https://truepulse.example.com",
       "slug": "truepulse-analytics",
       "files": [
@@ -338,12 +489,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Silver"
+        }
+      ]
     },
     {
       "name": "Upsurge Marketing",
       "description": "Upsurge Marketing delivers brand strategy and influencer outreach programs.",
-      "level": "Silver",
       "website": "https://upsurgemarketing.example.com",
       "slug": "upsurge-marketing",
       "files": [
@@ -355,12 +514,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Silver"
+        }
+      ]
     },
     {
       "name": "VantageSoft",
       "description": "VantageSoft develops advanced CRM solutions for B2B and B2C industries.",
-      "level": "Silver",
       "website": "https://vantagesoft.example.com",
       "slug": "vantagesoft",
       "files": [
@@ -372,12 +539,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Silver"
+        }
+      ]
     },
     {
       "name": "Wavelength Creative",
       "description": "Wavelength Creative integrates marketing automation with social media strategies.",
-      "level": "Silver",
       "website": "https://wavelengthcreative.example.com",
       "slug": "wavelength-creative",
       "files": [
@@ -389,12 +564,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Silver"
+        }
+      ]
     },
     {
       "name": "Xcelerate Corp",
       "description": "Xcelerate Corp helps brands optimize campaigns and measure ROI.",
-      "level": "Silver",
       "website": "https://xceleratecorp.example.com",
       "slug": "xcelerate-corp",
       "files": [
@@ -406,12 +589,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Silver"
+        }
+      ]
     },
     {
       "name": "Yield Edge",
       "description": "Yield Edge specializes in advanced email marketing and funnel optimization.",
-      "level": "Gold",
       "website": "https://yieldedge.example.com",
       "slug": "yield-edge",
       "files": [
@@ -423,12 +614,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Gold"
+        }
+      ]
     },
     {
       "name": "Zenith PR",
       "description": "Zenith PR offers public relations and reputation management solutions.",
-      "level": "Gold",
       "website": "https://zenithpr.example.com",
       "slug": "zenith-pr",
       "files": [
@@ -440,12 +639,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Gold"
+        }
+      ]
     },
     {
       "name": "Apex Virtual",
       "description": "Apex Virtual designs virtual event platforms for conferences and webinars.",
-      "level": "Gold",
       "website": "https://apexvirtual.example.com",
       "slug": "apex-virtual",
       "files": [
@@ -457,12 +664,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Gold"
+        }
+      ]
     },
     {
       "name": "BlueMarine Software",
       "description": "BlueMarine Software automates supply chain processes for manufacturers.",
-      "level": "Gold",
       "website": "https://bluemarine.example.com",
       "slug": "bluemarine-software",
       "files": [
@@ -474,12 +689,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Gold"
+        }
+      ]
     },
     {
       "name": "Cloud Harbour",
       "description": "Cloud Harbour offers custom cloud migration and cybersecurity solutions.",
-      "level": "Gold",
       "website": "https://cloudharbour.example.com",
       "slug": "cloud-harbour",
       "files": [
@@ -491,12 +714,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Gold"
+        }
+      ]
     },
     {
       "name": "DataHarmony",
       "description": "DataHarmony synchronizes complex data sources for deeper customer insight.",
-      "level": "Gold",
       "website": "https://dataharmony.example.com",
       "slug": "dataharmony",
       "files": [
@@ -508,12 +739,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Gold"
+        }
+      ]
     },
     {
       "name": "Eureka CX",
       "description": "Eureka CX enhances customer experience with a focus on personalization.",
-      "level": "Gold",
       "website": "https://eurekacx.example.com",
       "slug": "eureka-cx",
       "files": [
@@ -525,12 +764,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Gold"
+        }
+      ]
     },
     {
       "name": "FlexEdge Dynamics",
       "description": "FlexEdge Dynamics streamlines DevOps workflows with integrated marketing analytics.",
-      "level": "Gold",
       "website": "https://flexedgedynamics.example.com",
       "slug": "flexedge-dynamics",
       "files": [
@@ -542,12 +789,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Gold"
+        }
+      ]
     },
     {
       "name": "GlobeNet Solutions",
       "description": "GlobeNet Solutions offers scalable enterprise networks and global connectivity.",
-      "level": "Platinum",
       "website": "https://globenet.example.com",
       "slug": "globenet-solutions",
       "files": [
@@ -559,12 +814,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Platinum"
+        }
+      ]
     },
     {
       "name": "HiveMind AI",
       "description": "HiveMind AI develops advanced machine learning applications for predictive analysis.",
-      "level": "Platinum",
       "website": "https://hivemind.example.com",
       "slug": "hivemind-ai",
       "files": [
@@ -576,12 +839,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Platinum"
+        }
+      ]
     },
     {
       "name": "Incisive Marketing",
       "description": "Incisive Marketing drives targeted campaigns through agile content strategies.",
-      "level": "Platinum",
       "website": "https://incisivemarketing.example.com",
       "slug": "incisive-marketing",
       "files": [
@@ -593,12 +864,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Platinum"
+        }
+      ]
     },
     {
       "name": "Jetstream UX",
       "description": "Jetstream UX refines digital experiences through user testing and design sprints.",
-      "level": "Platinum",
       "website": "https://jetstreamux.example.com",
       "slug": "jetstream-ux",
       "files": [
@@ -610,12 +889,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Platinum"
+        }
+      ]
     },
     {
       "name": "Knexus Group",
       "description": "Knexus Group offers omni-channel solutions for integrated customer experiences.",
-      "level": "Platinum",
       "website": "https://knexusgroup.example.com",
       "slug": "knexus-group",
       "files": [
@@ -627,12 +914,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Platinum"
+        }
+      ]
     },
     {
       "name": "LucidVision",
       "description": "LucidVision uses AR and VR to enhance marketing and training programs.",
-      "level": "Platinum",
       "website": "https://lucidvision.example.com",
       "slug": "lucidvision",
       "files": [
@@ -644,12 +939,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Platinum"
+        }
+      ]
     },
     {
       "name": "Magnify Ads",
       "description": "Magnify Ads leverages AI for hyper-personalized advertising and retargeting.",
-      "level": "Platinum",
       "website": "https://magnifyads.example.com",
       "slug": "magnify-ads",
       "files": [
@@ -661,12 +964,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Platinum"
+        }
+      ]
     },
     {
       "name": "Nexus Cloud",
       "description": "Nexus Cloud manages robust, multi-cloud environments for businesses worldwide.",
-      "level": "Platinum",
       "website": "https://nexuscloud.example.com",
       "slug": "nexus-cloud",
       "files": [
@@ -678,12 +989,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Platinum"
+        }
+      ]
     },
     {
       "name": "OmniMetrics",
       "description": "OmniMetrics provides insight into cross-channel marketing performance.",
-      "level": "Platinum",
       "website": "https://omnimetrics.example.com",
       "slug": "omnimetrics",
       "files": [
@@ -695,12 +1014,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Platinum"
+        }
+      ]
     },
     {
       "name": "Proxima Global",
       "description": "Proxima Global transforms digital experiences with advanced analytics.",
-      "level": "Titanium",
       "website": "https://proximaglobal.example.com",
       "slug": "proxima-global",
       "files": [
@@ -712,12 +1039,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Titanium"
+        }
+      ]
     },
     {
       "name": "RedSky Interactive",
       "description": "RedSky Interactive crafts interactive campaigns for product launches.",
-      "level": "Titanium",
       "website": "https://redskyinteractive.example.com",
       "slug": "redsky-interactive",
       "files": [
@@ -729,12 +1064,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Titanium"
+        }
+      ]
     },
     {
       "name": "SyncView Intelligence",
       "description": "SyncView Intelligence unifies customer data across diverse marketing platforms.",
-      "level": "Titanium",
       "website": "https://syncviewint.example.com",
       "slug": "syncview-intelligence",
       "files": [
@@ -746,12 +1089,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Titanium"
+        }
+      ]
     },
     {
       "name": "TechNova Labs",
       "description": "TechNova Labs innovates digital solutions for enterprise-level automation.",
-      "level": "Titanium",
       "website": "https://technovalabs.example.com",
       "slug": "technova-labs",
       "files": [
@@ -763,12 +1114,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Titanium"
+        }
+      ]
     },
     {
       "name": "UpLink Systems",
       "description": "UpLink Systems boosts operational efficiency with microservices architecture.",
-      "level": "Titanium",
       "website": "https://uplinksystems.example.com",
       "slug": "uplink-systems",
       "files": [
@@ -780,12 +1139,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Titanium"
+        }
+      ]
     },
     {
       "name": "VividSpark",
       "description": "VividSpark focuses on creative strategy, branding, and storytelling.",
-      "level": "Titanium",
       "website": "https://vividspark.example.com",
       "slug": "vividspark",
       "files": [
@@ -797,12 +1164,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Titanium"
+        }
+      ]
     },
     {
       "name": "WarpDrive AI",
       "description": "WarpDrive AI automates sales funnels using predictive lead scoring.",
-      "level": "Titanium",
       "website": "https://warpdriveai.example.com",
       "slug": "warpdrive-ai",
       "files": [
@@ -814,12 +1189,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Titanium"
+        }
+      ]
     },
     {
       "name": "Xenon Cloud",
       "description": "Xenon Cloud provides managed cloud hosting and enterprise software integration.",
-      "level": "Titanium",
       "website": "https://xenoncloud.example.com",
       "slug": "xenon-cloud",
       "files": [
@@ -831,12 +1214,20 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Titanium"
+        }
+      ]
     },
     {
       "name": "Youthful Digital",
       "description": "Youthful Digital specializes in Gen-Z marketing tactics for fast-growing brands.",
-      "level": "Titanium",
       "website": "https://youthfuldigital.example.com",
       "slug": "youthful-digital",
       "files": [
@@ -848,7 +1239,16 @@
           "published": true
         }
       ],
-      "published": true
+      "published": true,
+      "attributeValues": [
+        {
+          "attribute": "Exhibitor Type",
+          "attribute_code": "exhibitorType",
+          "client_attribute": "exhibitorType",
+          "display_order": 1,
+          "value": "Titanium"
+        }
+      ]
     }
   ]
 }
