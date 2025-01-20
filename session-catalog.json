@@ -44,8 +44,15 @@
         "topics": [
           "Lead Generation",
           "Funnel Optimization"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "KB001",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 1B: Streamlining Digital Asset Workflows",
@@ -91,8 +98,15 @@
         "topics": [
           "Project Management",
           "Content Supply Chain"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BO002",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 1C: Personalization at Scale with AI",
@@ -140,8 +154,15 @@
           "AI",
           "Personalization",
           "Customer Experience"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "OA003",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 1D: Mapping the Customer Journey 101",
@@ -189,8 +210,15 @@
         "topics": [
           "Customer Experience",
           "Journey Mapping"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BC004",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 1E: Building a Unified Customer Experience",
@@ -238,8 +266,15 @@
         "topics": [
           "Omnichannel",
           "Brand Loyalty"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "KC005",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 2A: Fundamentals of Customer Data Management",
@@ -285,8 +320,15 @@
         "topics": [
           "Data Governance",
           "Segmentation"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "OC006",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 2B: Workflow Automation for Content Teams",
@@ -332,8 +374,15 @@
         "topics": [
           "Automation",
           "Content Supply Chain"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "BO007",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 2C: AI-Powered Email Marketing",
@@ -380,8 +429,15 @@
         "topics": [
           "AI",
           "Email Marketing"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KA008",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 2D: Measuring Multi-Touch Attribution",
@@ -426,8 +482,15 @@
         "topics": [
           "Analytics",
           "ROI Measurement"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "OC009",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 2E: Creating Engaging Visual Content",
@@ -472,8 +535,15 @@
         "topics": [
           "Visual Content",
           "Brand Engagement"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BC010",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 3A: Automation in Customer Acquisition",
@@ -519,8 +589,15 @@
         "topics": [
           "Automation",
           "Lead Management"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KC011",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 3B: Content Supply Chain for Global Teams",
@@ -567,8 +644,15 @@
         "topics": [
           "Localization",
           "Global Strategy"
+        ],
+        "viewingOption": [
+          "On Demand"
         ]
-      }
+      },
+      "sessionCode": "OA012",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 3C: Data-Driven Influencer Marketing",
@@ -613,8 +697,15 @@
         "topics": [
           "Influencer Marketing",
           "Data Analysis"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "BC013",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 3D: Building AI-Ready Content Teams",
@@ -660,8 +751,15 @@
         "topics": [
           "Team Development",
           "AI Tools"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KA014",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 3E: Enhancing Customer Journeys with Real-Time Data",
@@ -708,8 +806,15 @@
         "topics": [
           "Real-Time Analytics",
           "Personalization"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "OC015",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 4A: Unified Customer Experience Strategies",
@@ -755,8 +860,15 @@
         "topics": [
           "Omnichannel",
           "Customer Lifecycle"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BC016",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 4B: Intro to Customer Data Platforms (CDPs)",
@@ -802,8 +914,15 @@
         "topics": [
           "CDP",
           "Data Integration"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "OC017",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 4C: Content Management Systems - Selecting the Right Fit",
@@ -848,8 +967,15 @@
         "topics": [
           "CMS",
           "Platform Comparison"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KC018",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 4D: Revolutionizing Lead Gen with AI Chatbots",
@@ -896,8 +1022,15 @@
         "topics": [
           "Chatbots",
           "Lead Generation"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BA019",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 4E: Customer-Centric Metrics for Journey Improvement",
@@ -943,8 +1076,15 @@
         "topics": [
           "Journey Analytics",
           "KPI Development"
+        ],
+        "viewingOption": [
+          "On Demand"
         ]
-      }
+      },
+      "sessionCode": "OC020",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 5A: Unified CX in the Manufacturing Sector",
@@ -989,8 +1129,15 @@
         "topics": [
           "Omnichannel",
           "B2B Marketing"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KU021",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 5B: Data Privacy and Compliance Essentials",
@@ -1036,8 +1183,15 @@
         "topics": [
           "Compliance",
           "Security"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BC022",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 5C: Governing Brand Voice in Content Supply Chains",
@@ -1083,8 +1237,15 @@
         "topics": [
           "Brand Governance",
           "Content Strategy"
+        ],
+        "viewingOption": [
+          "On Demand"
         ]
-      }
+      },
+      "sessionCode": "OA023",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 5D: AI-Enhanced Social Media Listening",
@@ -1131,8 +1292,15 @@
         "topics": [
           "AI",
           "Social Media"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KA024",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 5E: Customer Journey Mapping for Non-Profits",
@@ -1179,8 +1347,15 @@
         "topics": [
           "Donor Retention",
           "Supporter Engagement"
+        ],
+        "viewingOption": [
+          "On Demand"
         ]
-      }
+      },
+      "sessionCode": "BC025",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 6A: Emerging Trends in B2B Marketing",
@@ -1226,8 +1401,15 @@
         "topics": [
           "Marketing Trends",
           "B2B Strategy"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "OB026",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 6B: Planning Digital Campaigns with Agile Methods",
@@ -1274,8 +1456,15 @@
         "topics": [
           "Agile Marketing",
           "Project Management"
+        ],
+        "viewingOption": [
+          "On Demand"
         ]
-      }
+      },
+      "sessionCode": "BA027",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 6C: Using AI to Predict Customer Churn",
@@ -1323,8 +1512,15 @@
         "topics": [
           "Machine Learning",
           "Retention"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "KA028",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 6D: Creating a Unified Customer Experience for Hospitality",
@@ -1370,8 +1566,15 @@
         "topics": [
           "Omnichannel",
           "Guest Satisfaction"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "OC029",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 6E: Collecting Quality Data for Better Customer Insights",
@@ -1417,8 +1620,15 @@
         "topics": [
           "Data Quality",
           "Analytics"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BC030",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 7A: Account-Based Marketing (ABM) Deep Dive",
@@ -1464,8 +1674,15 @@
         "topics": [
           "ABM",
           "Precision Targeting"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "OB031",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 7B: Mastering Workflow and Planning in Media Production",
@@ -1511,8 +1728,15 @@
         "topics": [
           "Project Timelines",
           "Resource Allocation"
+        ],
+        "viewingOption": [
+          "On Demand"
         ]
-      }
+      },
+      "sessionCode": "BO032",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 7C: Text Generation for Content Marketing",
@@ -1557,8 +1781,15 @@
         "topics": [
           "AI Content",
           "Speed-to-Market"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KG033",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 7D: In-Person vs. Online Customer Journeys",
@@ -1604,8 +1835,15 @@
         "topics": [
           "Omnichannel",
           "Physical vs. Digital"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "OC034",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 7E: Integrating ChatGPT into Workflow Processes",
@@ -1651,8 +1889,15 @@
         "topics": [
           "AI Integration",
           "Task Automation"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BO035",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 8A: High-Converting B2B Landing Pages",
@@ -1698,8 +1943,15 @@
         "topics": [
           "Conversion Optimization",
           "UX"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KB036",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 8B: Collaborative Planning for Marketing Teams",
@@ -1745,8 +1997,15 @@
         "topics": [
           "Collaboration",
           "Campaign Planning"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "BW037",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 8C: Generative AI for Real-Time Video Personalization",
@@ -1793,8 +2052,15 @@
         "topics": [
           "Personalization",
           "Video Marketing"
+        ],
+        "viewingOption": [
+          "On Demand"
         ]
-      }
+      },
+      "sessionCode": "OA038",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 8D: Improving Email Journey Flows",
@@ -1841,8 +2107,15 @@
         "topics": [
           "Email Marketing",
           "Segmentation"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KA039",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 8E: Creating a Unified Experience for Education Services",
@@ -1887,8 +2160,15 @@
         "topics": [
           "Online Learning",
           "Student Engagement"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BU040",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 9A: AI for High-Level Content Supply Chain Orchestration",
@@ -1934,8 +2214,15 @@
         "topics": [
           "Orchestration",
           "Automation"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "OA041",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 9B: Optimizing Workflows for Non-Profit Campaigns",
@@ -1982,8 +2269,15 @@
         "topics": [
           "Resource Management",
           "Campaign Planning"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "BA042",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 9C: Advanced Analytics for Customer Acquisition",
@@ -2029,8 +2323,15 @@
         "topics": [
           "Predictive Analytics",
           "Conversion Optimization"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KC043",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 9D: Engaging Customer Journeys in the Public Sector",
@@ -2076,8 +2377,15 @@
         "topics": [
           "Citizen Engagement",
           "Service Design"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "OC044",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 9E: Scaling Unified CX with Automation",
@@ -2122,8 +2430,15 @@
         "topics": [
           "Automation",
           "CX Scalability"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "BU045",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 10A: Future-Proofing Your B2B Marketing Strategy",
@@ -2169,8 +2484,15 @@
         "topics": [
           "Market Forecasting",
           "Innovation"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KB046",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 10B: Workflow Sprints for Creative Teams",
@@ -2216,8 +2538,15 @@
         "topics": [
           "Agile Methods",
           "Creative Processes"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BO047",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 10C: Real-World Generative AI Case Studies",
@@ -2264,8 +2593,15 @@
         "topics": [
           "Implementation",
           "Business Impact"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "OA048",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
       "title": "Session 10D: Building Trust in Customer Journeys",
@@ -2311,8 +2647,15 @@
         "topics": [
           "Brand Credibility",
           "Trust Metrics"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "KC049",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 10E: Unified Customer Experience for Energy Sector Clients",
@@ -2358,8 +2701,15 @@
         "topics": [
           "Omnichannel",
           "Service Reliability"
+        ],
+        "viewingOption": [
+          "On Demand"
         ]
-      }
+      },
+      "sessionCode": "BC050",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 1A: Evolving B2B Marketing for Emerging Markets",
@@ -2405,8 +2755,15 @@
         "topics": [
           "Market Expansion",
           "Localization"
+        ],
+        "viewingOption": [
+          "On Demand"
         ]
-      }
+      },
+      "sessionCode": "KB051",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 1B: Planning Content for Seasonal Campaigns",
@@ -2452,8 +2809,15 @@
         "topics": [
           "Seasonal Marketing",
           "Automation"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BA052",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 1C: Generative AI for Legal Document Summaries",
@@ -2500,11 +2864,18 @@
         "topics": [
           "Legal Automation",
           "AI Summaries"
+        ],
+        "viewingOption": [
+          "Online"
         ]
-      }
+      },
+      "sessionCode": "OA053",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
-      "title": "Session 1D: The 360\u00b0 Customer Journey in Retail",
+      "title": "Session 1D: The 360° Customer Journey in Retail",
       "slug": "day2-session-1d-the-360-degree-customer-journey-in-retail",
       "description": "Craft an immersive retail experience from pre-purchase to post-purchase engagement.",
       "startTime": "2025-09-02T08:00:00Z",
@@ -2549,8 +2920,15 @@
         "topics": [
           "Omnichannel",
           "Loyalty Programs"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "BA054",
+      "published": true,
+      "videoId": "7dX8ysg8UfI",
+      "videoType": "youtube"
     },
     {
       "title": "Session 1E: Handling Big Data for Unified CX",
@@ -2595,8 +2973,15 @@
         "topics": [
           "Big Data",
           "Integration"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KU055",
+      "published": true,
+      "videoId": "p1d0Qn336y8",
+      "videoType": "youtube"
     },
     {
       "title": "Session 2A: B2B Marketing KPIs and Benchmarking",
@@ -2643,13 +3028,20 @@
         "topics": [
           "KPIs",
           "Benchmarking"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "OB056",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     },
     {
-      "title": "Session 10E: Closing Keynote \u2013 Innovating the Future of Digital Marketing",
+      "title": "Session 10E: Closing Keynote – Innovating the Future of Digital Marketing",
       "slug": "day2-session-10e-closing-keynote-innovating-future-of-digital-marketing",
-      "description": "Inspiring perspectives on what\u2019s next in digital marketing and how to stay adaptive.",
+      "description": "Inspiring perspectives on what’s next in digital marketing and how to stay adaptive.",
       "startTime": "2025-09-02T17:00:00Z",
       "endTime": "2025-09-02T17:45:00Z",
       "duration": 45,
@@ -2689,8 +3081,15 @@
         "topics": [
           "Future Trends",
           "Strategic Innovation"
+        ],
+        "viewingOption": [
+          "In-Person"
         ]
-      }
+      },
+      "sessionCode": "KB057",
+      "published": true,
+      "videoId": "_ZYFHx83m44",
+      "videoType": "youtube"
     }
   ]
 }
