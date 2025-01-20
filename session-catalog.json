@@ -16,7 +16,7 @@
           "jobTitle": "Senior Content Manager",
           "company": "MarketEdge",
           "bio": "Alice specializes in B2B content tactics for global enterprises.",
-          "profilePhotoUrl": "https://example.com/photos/alice_smith.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/yvonne-ellis.webp?raw=true"
         },
         {
           "firstName": "James",
@@ -26,14 +26,21 @@
           "jobTitle": "Head of Growth",
           "company": "GrowthGuru",
           "bio": "James focuses on data-driven acquisition and brand visibility.",
-          "profilePhotoUrl": "https://example.com/photos/james_lee.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "B2B Marketing",
-        "industry": "Healthcare",
-        "level": "Advanced",
+        "track": [
+          "B2B Marketing",
+          "B2B Strategies"
+        ],
+        "industry": [
+          "Healthcare"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Lead Generation",
           "Funnel Optimization"
@@ -56,7 +63,7 @@
           "jobTitle": "Workflow Consultant",
           "company": "ProcessFlow Inc.",
           "bio": "Brian transforms digital teams with agile workflows and efficient planning.",
-          "profilePhotoUrl": "https://example.com/photos/brian_young.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sophie-cheng.webp?raw=true"
         },
         {
           "firstName": "Sophie",
@@ -66,14 +73,21 @@
           "jobTitle": "Content Marketing Lead",
           "company": "InnoMark",
           "bio": "Sophie leads global content teams to improve quality and reduce time-to-market.",
-          "profilePhotoUrl": "https://example.com/photos/sophie_cheng.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sarah-kennedy.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Workflow and Planning",
-        "industry": "Retail",
-        "level": "Intermediate",
+        "track": [
+          "Operational Excellence",
+          "Workflow and Planning"
+        ],
+        "industry": [
+          "Retail"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Project Management",
           "Content Supply Chain"
@@ -96,7 +110,7 @@
           "jobTitle": "AI Product Manager",
           "company": "TechNova",
           "bio": "Emma leads AI-driven transformations for enterprises in various sectors.",
-          "profilePhotoUrl": "https://example.com/photos/emma_jones.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/alice-smith.webp?raw=true"
         },
         {
           "firstName": "Jacob",
@@ -106,14 +120,22 @@
           "jobTitle": "Chief Data Scientist",
           "company": "TrendHive",
           "bio": "Jacob bridges big data analytics and consumer behavior to maximize ROI.",
-          "profilePhotoUrl": "https://example.com/photos/jacob_hart.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/ava-miller.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Generative AI",
-        "industry": "Technology",
-        "level": "Advanced",
+        "track": [
+          "Artificial Intelligence",
+          "Customer Engagement",
+          "Generative AI"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "AI",
           "Personalization",
@@ -137,7 +159,7 @@
           "jobTitle": "CX Strategist",
           "company": "CustExp Advisors",
           "bio": "Olivia improves customer lifecycle touchpoints for various verticals.",
-          "profilePhotoUrl": "https://example.com/photos/olivia_brown.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/alice-smith.webp?raw=true"
         },
         {
           "firstName": "Daniel",
@@ -147,14 +169,23 @@
           "jobTitle": "Marketing Analyst",
           "company": "DataDriven Inc.",
           "bio": "Daniel specializes in tracking both digital and offline journey metrics.",
-          "profilePhotoUrl": "https://example.com/photos/daniel_lopez.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/henry-baker.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Customer Journey Management",
-        "industry": "Hospitality",
-        "level": "Beginner",
+        "track": [
+          "Customer Engagement",
+          "Customer Journey Management",
+          "Unified Customer Experience"
+        ],
+        "industry": [
+          "Hospitality",
+          "Insurance"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Customer Experience",
           "Journey Mapping"
@@ -177,7 +208,7 @@
           "jobTitle": "Head of Customer Experience",
           "company": "OmniConnect",
           "bio": "Ava integrates online and offline touchpoints to enhance brand loyalty.",
-          "profilePhotoUrl": "https://example.com/photos/ava_miller.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/nicole-sanders.webp?raw=true"
         },
         {
           "firstName": "Kevin",
@@ -187,14 +218,23 @@
           "jobTitle": "Digital Strategist",
           "company": "ExperiencePlus",
           "bio": "Kevin's strategies link technology with customer engagement at scale.",
-          "profilePhotoUrl": "https://example.com/photos/kevin_scott.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/david-nguyen.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Unified Customer Experience",
-        "industry": "Manufacturing",
-        "level": "Intermediate",
+        "track": [
+          "Customer Engagement",
+          "Customer Journey Management",
+          "Unified Customer Experience"
+        ],
+        "industry": [
+          "Manufacturing",
+          "Non-Profit"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Omnichannel",
           "Brand Loyalty"
@@ -217,7 +257,7 @@
           "jobTitle": "Data Governance Lead",
           "company": "DataCore",
           "bio": "David architected data solutions for Fortune 500 marketing teams.",
-          "profilePhotoUrl": "https://example.com/photos/david_nguyen.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/emma-jones.webp?raw=true"
         },
         {
           "firstName": "Elena",
@@ -227,14 +267,21 @@
           "jobTitle": "CRM Specialist",
           "company": "ClientFirst",
           "bio": "Elena focuses on improving data quality and segmentation strategies.",
-          "profilePhotoUrl": "https://example.com/photos/elena_carlson.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/ethan-wright.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Customer Data Management",
-        "industry": "Non-Profit",
-        "level": "Beginner",
+        "track": [
+          "Customer Data Management",
+          "Customer Engagement"
+        ],
+        "industry": [
+          "Non-Profit"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Data Governance",
           "Segmentation"
@@ -257,7 +304,7 @@
           "jobTitle": "Operations Manager",
           "company": "StreamFlow",
           "bio": "Ethan streamlines content processes for global marketing teams.",
-          "profilePhotoUrl": "https://example.com/photos/ethan_wright.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sarah-kennedy.webp?raw=true"
         },
         {
           "firstName": "Catherine",
@@ -267,14 +314,21 @@
           "jobTitle": "Content Architect",
           "company": "CreateX",
           "bio": "Catherine develops scalable systems for multi-channel content.",
-          "profilePhotoUrl": "https://example.com/photos/catherine_morgan.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Workflow and Planning",
-        "industry": "Insurance",
-        "level": "Intermediate",
+        "track": [
+          "Operational Excellence",
+          "Workflow and Planning"
+        ],
+        "industry": [
+          "Insurance"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Automation",
           "Content Supply Chain"
@@ -297,7 +351,7 @@
           "jobTitle": "AI Strategist",
           "company": "AI Next",
           "bio": "Grace implements AI solutions to boost marketing automation.",
-          "profilePhotoUrl": "https://example.com/photos/grace_hernandez.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/gavin-rhodes.webp?raw=true"
         },
         {
           "firstName": "Henry",
@@ -307,14 +361,22 @@
           "jobTitle": "Email Marketing Manager",
           "company": "MailWorks",
           "bio": "Henry orchestrates data-driven email strategies for improved engagement.",
-          "profilePhotoUrl": "https://example.com/photos/henry_baker.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/emma-jones.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Generative AI",
-        "industry": "Education",
-        "level": "Intermediate",
+        "track": [
+          "Artificial Intelligence",
+          "Generative AI"
+        ],
+        "industry": [
+          "Education",
+          "Technology"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "AI",
           "Email Marketing"
@@ -337,7 +399,7 @@
           "jobTitle": "Analytics Director",
           "company": "AttributionPro",
           "bio": "Isaac specializes in multi-touch attribution models for global brands.",
-          "profilePhotoUrl": "https://example.com/photos/isaac_garcia.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/jacob-hart.webp?raw=true"
         },
         {
           "firstName": "Nicole",
@@ -347,14 +409,20 @@
           "jobTitle": "Data Scientist",
           "company": "Insights Inc.",
           "bio": "Nicole's models help businesses understand cross-channel marketing ROI.",
-          "profilePhotoUrl": "https://example.com/photos/nicole_sanders.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Customer Acquisition",
-        "industry": "Financial Services",
-        "level": "Advanced",
+        "track": [
+          "Customer Acquisition"
+        ],
+        "industry": [
+          "Financial Services"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Analytics",
           "ROI Measurement"
@@ -377,7 +445,7 @@
           "jobTitle": "Creative Director",
           "company": "VisionaryLab",
           "bio": "Fiona blends design with technology to create interactive brand experiences.",
-          "profilePhotoUrl": "https://example.com/photos/fiona_wood.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/yvonne-ellis.webp?raw=true"
         },
         {
           "firstName": "Gavin",
@@ -387,14 +455,20 @@
           "jobTitle": "Multimedia Producer",
           "company": "MediaSpark",
           "bio": "Gavin creates visual and video content strategies for digital campaigns.",
-          "profilePhotoUrl": "https://example.com/photos/gavin_rhodes.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/jacob-hart.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Content Management",
-        "industry": "Media & Entertainment",
-        "level": "Beginner",
+        "track": [
+          "Content Management"
+        ],
+        "industry": [
+          "Media & Entertainment"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Visual Content",
           "Brand Engagement"
@@ -417,7 +491,7 @@
           "jobTitle": "Marketing Automation Lead",
           "company": "Automate360",
           "bio": "Heather integrates automation solutions into high-velocity sales pipelines.",
-          "profilePhotoUrl": "https://example.com/photos/heather_james.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         },
         {
           "firstName": "Ian",
@@ -427,14 +501,21 @@
           "jobTitle": "Growth Hacker",
           "company": "GrowthSphere",
           "bio": "Ian employs A/B testing and automation to accelerate conversion rates.",
-          "profilePhotoUrl": "https://example.com/photos/ian_boyd.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/gavin-rhodes.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Customer Acquisition",
-        "industry": "Consulting",
-        "level": "Intermediate",
+        "track": [
+          "Customer Acquisition",
+          "Customer Engagement"
+        ],
+        "industry": [
+          "Consulting"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Automation",
           "Lead Management"
@@ -457,7 +538,7 @@
           "jobTitle": "Global Content Strategist",
           "company": "TransGlobal Corp",
           "bio": "Janet has launched multinational content campaigns for multiple Fortune 500s.",
-          "profilePhotoUrl": "https://example.com/photos/janet_wilson.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/yvonne-ellis.webp?raw=true"
         },
         {
           "firstName": "Kieran",
@@ -467,14 +548,22 @@
           "jobTitle": "Localization Manager",
           "company": "LinguaTech",
           "bio": "Kieran ensures brand consistency through localized content strategies.",
-          "profilePhotoUrl": "https://example.com/photos/kieran_frost.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sarah-kennedy.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Content Supply Chain",
-        "industry": "Public Sector",
-        "level": "Advanced",
+        "track": [
+          "Artificial Intelligence",
+          "Content Supply Chain"
+        ],
+        "industry": [
+          "Public Sector",
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Localization",
           "Global Strategy"
@@ -497,7 +586,7 @@
           "jobTitle": "Social Media Strategist",
           "company": "BuzzConnect",
           "bio": "Lauren's data-centric approach has boosted engagement for global brands.",
-          "profilePhotoUrl": "https://example.com/photos/lauren_reed.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/elena-carlson .webp?raw=true"
         },
         {
           "firstName": "Marcus",
@@ -507,14 +596,20 @@
           "jobTitle": "Digital Analyst",
           "company": "MetricMinds",
           "bio": "Marcus deciphers key metrics to optimize influencer partnerships.",
-          "profilePhotoUrl": "https://example.com/photos/marcus_stevens.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/jacob-hart.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Customer Acquisition",
-        "industry": "Retail",
-        "level": "Intermediate",
+        "track": [
+          "Customer Acquisition"
+        ],
+        "industry": [
+          "Retail"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Influencer Marketing",
           "Data Analysis"
@@ -537,7 +632,7 @@
           "jobTitle": "Innovation Director",
           "company": "FutureWorks",
           "bio": "Nina guides organizations through AI adoption and workflow transformation.",
-          "profilePhotoUrl": "https://example.com/photos/nina_cole.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/fiona-wood.webp?raw=true"
         },
         {
           "firstName": "Oscar",
@@ -547,14 +642,21 @@
           "jobTitle": "Content AI Specialist",
           "company": "ContentAI",
           "bio": "Oscar implements AI-based content solutions for enterprise clients.",
-          "profilePhotoUrl": "https://example.com/photos/oscar_reyes.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/fiona-wood.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Generative AI",
-        "industry": "Technology",
-        "level": "Beginner",
+        "track": [
+          "Artificial Intelligence",
+          "Generative AI"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Team Development",
           "AI Tools"
@@ -577,7 +679,7 @@
           "jobTitle": "Real-Time Data Architect",
           "company": "DataPulse",
           "bio": "Priya designs scalable solutions for instant data-driven customer interactions.",
-          "profilePhotoUrl": "https://example.com/photos/priya_kapoor.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         },
         {
           "firstName": "Raymond",
@@ -587,14 +689,22 @@
           "jobTitle": "Customer Experience Lead",
           "company": "JourneyLogic",
           "bio": "Raymond merges data insights with user-centric design for top brands.",
-          "profilePhotoUrl": "https://example.com/photos/raymond_adams.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/speaker-names.txt?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Customer Journey Management",
-        "industry": "Hospitality",
-        "level": "Advanced",
+        "track": [
+          "Customer Engagement",
+          "Customer Journey Management"
+        ],
+        "industry": [
+          "Hospitality",
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Real-Time Analytics",
           "Personalization"
@@ -617,7 +727,7 @@
           "jobTitle": "CX Platform Manager",
           "company": "OmniLink",
           "bio": "Sarah orchestrates channel integration and unified messaging strategies.",
-          "profilePhotoUrl": "https://example.com/photos/sarah_kennedy.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/yvonne-ellis.webp?raw=true"
         },
         {
           "firstName": "Tomas",
@@ -627,14 +737,21 @@
           "jobTitle": "Business Analyst",
           "company": "EngageNow",
           "bio": "Tomas uses data to align brand communications across consumer journeys.",
-          "profilePhotoUrl": "https://example.com/photos/tomas_vargas.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/jacob-hart.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Unified Customer Experience",
-        "industry": "Energy",
-        "level": "Intermediate",
+        "track": [
+          "Customer Engagement",
+          "Unified Customer Experience"
+        ],
+        "industry": [
+          "Energy"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Omnichannel",
           "Customer Lifecycle"
@@ -657,7 +774,7 @@
           "jobTitle": "CDP Consultant",
           "company": "DataUnify",
           "bio": "Uma helps organizations transition to centralized data management systems.",
-          "profilePhotoUrl": "https://example.com/photos/uma_patel.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/elena-carlson .webp?raw=true"
         },
         {
           "firstName": "Victor",
@@ -667,14 +784,21 @@
           "jobTitle": "Marketing Technologist",
           "company": "TechBridge",
           "bio": "Victor specializes in configuring marketing stacks for maximum efficiency.",
-          "profilePhotoUrl": "https://example.com/photos/victor_henderson.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/kevin-scott.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Customer Data Management",
-        "industry": "Technology",
-        "level": "Beginner",
+        "track": [
+          "Customer Data Management",
+          "Customer Engagement"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "CDP",
           "Data Integration"
@@ -697,7 +821,7 @@
           "jobTitle": "CMS Specialist",
           "company": "WebCore",
           "bio": "Willow implements enterprise CMS solutions across diverse industries.",
-          "profilePhotoUrl": "https://example.com/photos/willow_chang.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/jacob-hart.webp?raw=true"
         },
         {
           "firstName": "Xavier",
@@ -707,14 +831,20 @@
           "jobTitle": "Solutions Architect",
           "company": "DigitAll",
           "bio": "Xavier focuses on robust architecture and integrations within CMS platforms.",
-          "profilePhotoUrl": "https://example.com/photos/xavier_hunter.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Content Management",
-        "industry": "Manufacturing",
-        "level": "Intermediate",
+        "track": [
+          "Content Management"
+        ],
+        "industry": [
+          "Manufacturing"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "CMS",
           "Platform Comparison"
@@ -737,7 +867,7 @@
           "jobTitle": "Conversational AI Lead",
           "company": "BotBuilders",
           "bio": "Yvonne develops chatbots that guide prospects through initial sales funnels.",
-          "profilePhotoUrl": "https://example.com/photos/yvonne_ellis.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/daniel-lopez.webp?raw=true"
         },
         {
           "firstName": "Zachary",
@@ -747,14 +877,22 @@
           "jobTitle": "Sales Automation Architect",
           "company": "LeadFlow",
           "bio": "Zachary's frameworks streamline lead nurturing using AI-driven solutions.",
-          "profilePhotoUrl": "https://example.com/photos/zachary_nolan.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/fiona-wood.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Generative AI",
-        "industry": "Consulting",
-        "level": "Advanced",
+        "track": [
+          "Artificial Intelligence",
+          "Generative AI"
+        ],
+        "industry": [
+          "Consulting",
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Chatbots",
           "Lead Generation"
@@ -777,7 +915,7 @@
           "jobTitle": "Data Insights Manager",
           "company": "MetricLabs",
           "bio": "Amanda crafts KPIs to measure digital and physical customer engagement.",
-          "profilePhotoUrl": "https://example.com/photos/amanda_fox.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/emma-jones.webp?raw=true"
         },
         {
           "firstName": "Benjamin",
@@ -787,14 +925,21 @@
           "jobTitle": "Customer Experience Consultant",
           "company": "CX Partners",
           "bio": "Benjamin aligns company goals with journey-based performance indicators.",
-          "profilePhotoUrl": "https://example.com/photos/benjamin_rice.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/jacob-hart.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Customer Journey Management",
-        "industry": "Healthcare",
-        "level": "Advanced",
+        "track": [
+          "Customer Engagement",
+          "Customer Journey Management"
+        ],
+        "industry": [
+          "Healthcare"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Journey Analytics",
           "KPI Development"
@@ -817,7 +962,7 @@
           "jobTitle": "Industry Marketing Manager",
           "company": "MakeTech",
           "bio": "Brianna focuses on bridging technical product details with marketing messaging.",
-          "profilePhotoUrl": "https://example.com/photos/brianna_hall.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/evin-scott.webp?raw=true"
         },
         {
           "firstName": "Carson",
@@ -827,14 +972,20 @@
           "jobTitle": "Customer Success Director",
           "company": "IndustrialCX",
           "bio": "Carson implements omnichannel strategies for manufacturing businesses.",
-          "profilePhotoUrl": "https://example.com/photos/carson_evans.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/brian-young.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Unified Customer Experience",
-        "industry": "Manufacturing",
-        "level": "Intermediate",
+        "track": [
+          "Unified Customer Experience"
+        ],
+        "industry": [
+          "Manufacturing"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Omnichannel",
           "B2B Marketing"
@@ -857,7 +1008,7 @@
           "jobTitle": "Data Privacy Officer",
           "company": "PrivacyShield",
           "bio": "Diana is an expert in GDPR, CCPA, and data governance frameworks.",
-          "profilePhotoUrl": "https://example.com/photos/diana_osborne.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/ava-miller.webp?raw=true"
         },
         {
           "firstName": "Edward",
@@ -867,14 +1018,21 @@
           "jobTitle": "Legal Counsel",
           "company": "SecureData Law",
           "bio": "Edward advises global corporations on data protection and compliance.",
-          "profilePhotoUrl": "https://example.com/photos/edward_ibrahim.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sophie-cheng.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Customer Data Management",
-        "industry": "Financial Services",
-        "level": "Advanced",
+        "track": [
+          "Customer Data Management"
+        ],
+        "industry": [
+          "Financial Services",
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Compliance",
           "Security"
@@ -897,7 +1055,7 @@
           "jobTitle": "Global Brand Manager",
           "company": "BrandGuard",
           "bio": "Farah ensures brand standards are upheld across multiple geographies.",
-          "profilePhotoUrl": "https://example.com/photos/farah_khan.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         },
         {
           "firstName": "Gustavo",
@@ -907,14 +1065,21 @@
           "jobTitle": "Content Governance Specialist",
           "company": "ContentChain",
           "bio": "Gustavo builds frameworks for brand coherence throughout the content supply chain.",
-          "profilePhotoUrl": "https://example.com/photos/gustavo_ortega.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sarah-kennedy.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Content Supply Chain",
-        "industry": "Media & Entertainment",
-        "level": "Intermediate",
+        "track": [
+          "Artificial Intelligence",
+          "Content Supply Chain"
+        ],
+        "industry": [
+          "Media & Entertainment"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Brand Governance",
           "Content Strategy"
@@ -937,7 +1102,7 @@
           "jobTitle": "Social Intelligence Manager",
           "company": "ListenTech",
           "bio": "Hannah uses AI to track brand perception and competitor strategies.",
-          "profilePhotoUrl": "https://example.com/photos/hannah_shaw.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sophie-cheng.webp?raw=true"
         },
         {
           "firstName": "Irfan",
@@ -947,14 +1112,22 @@
           "jobTitle": "Data Scientist",
           "company": "DeepInsights",
           "bio": "Irfan's sentiment models provide actionable insights from social data streams.",
-          "profilePhotoUrl": "https://example.com/photos/irfan_durrani.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/ethan-wright.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Generative AI",
-        "industry": "Retail",
-        "level": "Advanced",
+        "track": [
+          "Artificial Intelligence",
+          "Generative AI"
+        ],
+        "industry": [
+          "Retail",
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "AI",
           "Social Media"
@@ -977,7 +1150,7 @@
           "jobTitle": "Fundraising Strategist",
           "company": "CauseConnect",
           "bio": "Jasmine helps non-profits optimize donor experience and retention.",
-          "profilePhotoUrl": "https://example.com/photos/jasmine_coleman.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/ava-miller.webp?raw=true"
         },
         {
           "firstName": "Kenny",
@@ -987,14 +1160,22 @@
           "jobTitle": "Volunteer Engagement Lead",
           "company": "ServeBetter",
           "bio": "Kenny develops volunteer journey frameworks across multiple channels.",
-          "profilePhotoUrl": "https://example.com/photos/kenny_morgan.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/ethan-wright.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Customer Journey Management",
-        "industry": "Non-Profit",
-        "level": "Beginner",
+        "track": [
+          "Customer Engagement",
+          "Customer Journey Management"
+        ],
+        "industry": [
+          "Non-Profit",
+          "Technology"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Donor Retention",
           "Supporter Engagement"
@@ -1017,7 +1198,7 @@
           "jobTitle": "B2B Specialist",
           "company": "InsightEdge",
           "bio": "Luke researches upcoming B2B marketing trends and emerging technologies.",
-          "profilePhotoUrl": "https://example.com/photos/luke_davenport.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/nicole-sanders.webp?raw=true"
         },
         {
           "firstName": "Monica",
@@ -1027,14 +1208,21 @@
           "jobTitle": "Content Analyst",
           "company": "TrendMax",
           "bio": "Monica identifies data-driven content solutions for B2B target audiences.",
-          "profilePhotoUrl": "https://example.com/photos/monica_gray.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sarah-kennedy.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "B2B Marketing",
-        "industry": "Technology",
-        "level": "Advanced",
+        "track": [
+          "B2B Marketing",
+          "B2B Strategies"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Marketing Trends",
           "B2B Strategy"
@@ -1057,7 +1245,7 @@
           "jobTitle": "Scrum Master",
           "company": "AgileMark",
           "bio": "Nathan introduces agile frameworks in marketing to reduce lead time.",
-          "profilePhotoUrl": "https://example.com/photos/nathan_ford.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/ethan-wright.webp?raw=true"
         },
         {
           "firstName": "Olga",
@@ -1067,14 +1255,22 @@
           "jobTitle": "Digital Project Manager",
           "company": "SprintFlow",
           "bio": "Olga coordinates cross-functional teams to deliver campaigns on time.",
-          "profilePhotoUrl": "https://example.com/photos/olga_pavlova.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/brian-young.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Workflow and Planning",
-        "industry": "Consulting",
-        "level": "Intermediate",
+        "track": [
+          "Artificial Intelligence",
+          "Workflow and Planning"
+        ],
+        "industry": [
+          "Consulting",
+          "Technology"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Agile Marketing",
           "Project Management"
@@ -1097,7 +1293,7 @@
           "jobTitle": "ML Engineer",
           "company": "PredictPro",
           "bio": "Paula creates predictive models that empower retention teams.",
-          "profilePhotoUrl": "https://example.com/photos/paula_vega.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/kevin-scott.webp?raw=true"
         },
         {
           "firstName": "Quentin",
@@ -1107,14 +1303,23 @@
           "jobTitle": "Customer Retention Manager",
           "company": "RetentionPlus",
           "bio": "Quentin implements churn-reduction strategies based on data insights.",
-          "profilePhotoUrl": "https://example.com/photos/quentin_wallace.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/speaker-names.txt?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Generative AI",
-        "industry": "Financial Services",
-        "level": "Advanced",
+        "track": [
+          "Artificial Intelligence",
+          "Customer Engagement",
+          "Generative AI"
+        ],
+        "industry": [
+          "Education",
+          "Financial Services"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Machine Learning",
           "Retention"
@@ -1137,7 +1342,7 @@
           "jobTitle": "Hotel CX Director",
           "company": "StayBetter",
           "bio": "Rita merges hospitality experience with modern digital engagement.",
-          "profilePhotoUrl": "https://example.com/photos/rita_palmer.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/uma-patel.webp?raw=true"
         },
         {
           "firstName": "Steven",
@@ -1147,14 +1352,21 @@
           "jobTitle": "Brand Consultant",
           "company": "HoteLux",
           "bio": "Steven advises hotels on brand-building across multiple guest channels.",
-          "profilePhotoUrl": "https://example.com/photos/steven_wong.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/yvonne-ellis.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Unified Customer Experience",
-        "industry": "Hospitality",
-        "level": "Intermediate",
+        "track": [
+          "Customer Engagement",
+          "Unified Customer Experience"
+        ],
+        "industry": [
+          "Hospitality"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Omnichannel",
           "Guest Satisfaction"
@@ -1177,7 +1389,7 @@
           "jobTitle": "Data Quality Manager",
           "company": "QualityFirst",
           "bio": "Tina sets standards and protocols for enterprise-level data collection.",
-          "profilePhotoUrl": "https://example.com/photos/tina_gardner.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/emma-jones.webp?raw=true"
         },
         {
           "firstName": "Umar",
@@ -1187,14 +1399,21 @@
           "jobTitle": "BI Consultant",
           "company": "ClarityAnalytics",
           "bio": "Umar integrates data sources to produce actionable customer intelligence.",
-          "profilePhotoUrl": "https://example.com/photos/umar_siddiqui.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/speaker-names.txt?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Customer Data Management",
-        "industry": "Public Sector",
-        "level": "Beginner",
+        "track": [
+          "Customer Data Management",
+          "Customer Engagement"
+        ],
+        "industry": [
+          "Public Sector"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Data Quality",
           "Analytics"
@@ -1217,7 +1436,7 @@
           "jobTitle": "ABM Consultant",
           "company": "TargetXP",
           "bio": "Valerie excels in crafting account-specific campaigns for enterprise clients.",
-          "profilePhotoUrl": "https://example.com/photos/valerie_ray.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/evin-scott.webp?raw=true"
         },
         {
           "firstName": "Wesley",
@@ -1227,14 +1446,21 @@
           "jobTitle": "Data Strategist",
           "company": "FocusData",
           "bio": "Wesley integrates deep analytics into ABM approaches for measurable outcomes.",
-          "profilePhotoUrl": "https://example.com/photos/wesley_clarke.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/uma-patel.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "B2B Marketing",
-        "industry": "Consulting",
-        "level": "Advanced",
+        "track": [
+          "B2B Marketing"
+        ],
+        "industry": [
+          "Consulting",
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "ABM",
           "Precision Targeting"
@@ -1257,7 +1483,7 @@
           "jobTitle": "Media Project Manager",
           "company": "MediaFlow",
           "bio": "Ximena manages video and audio production schedules for streamlined output.",
-          "profilePhotoUrl": "https://example.com/photos/ximena_lopez.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sophie-cheng.webp?raw=true"
         },
         {
           "firstName": "Yuri",
@@ -1267,14 +1493,21 @@
           "jobTitle": "Creative Technologist",
           "company": "VisionMedia",
           "bio": "Yuri merges creative design and technology to optimize production workflows.",
-          "profilePhotoUrl": "https://example.com/photos/yuri_petrov.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/evin-scott.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Workflow and Planning",
-        "industry": "Media & Entertainment",
-        "level": "Intermediate",
+        "track": [
+          "Operational Excellence",
+          "Workflow and Planning"
+        ],
+        "industry": [
+          "Media & Entertainment"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Project Timelines",
           "Resource Allocation"
@@ -1297,7 +1530,7 @@
           "jobTitle": "AI Content Engineer",
           "company": "WriteSmart",
           "bio": "Zara pioneers automated text creation tools for marketing departments.",
-          "profilePhotoUrl": "https://example.com/photos/zara_patel.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/uma-patel.webp?raw=true"
         },
         {
           "firstName": "Adrian",
@@ -1307,14 +1540,20 @@
           "jobTitle": "Marketing Technologist",
           "company": "CopyGen",
           "bio": "Adrian designs pipelines integrating AI-generated text into editorial processes.",
-          "profilePhotoUrl": "https://example.com/photos/adrian_lee.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Generative AI",
-        "industry": "Technology",
-        "level": "Beginner",
+        "track": [
+          "Generative AI"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "AI Content",
           "Speed-to-Market"
@@ -1337,7 +1576,7 @@
           "jobTitle": "Omnichannel Specialist",
           "company": "AllReach",
           "bio": "Bella integrates physical and digital brand experiences for global clients.",
-          "profilePhotoUrl": "https://example.com/photos/bella_tran.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/alice-smith.webp?raw=true"
         },
         {
           "firstName": "Clark",
@@ -1347,14 +1586,21 @@
           "jobTitle": "Retail Experience Designer",
           "company": "LiveStores",
           "bio": "Clark transforms retail spaces into immersive brand experiences.",
-          "profilePhotoUrl": "https://example.com/photos/clark_mason.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/daniel-lopez.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Customer Journey Management",
-        "industry": "Retail",
-        "level": "Intermediate",
+        "track": [
+          "Customer Engagement",
+          "Customer Journey Management"
+        ],
+        "industry": [
+          "Retail"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Omnichannel",
           "Physical vs. Digital"
@@ -1377,7 +1623,7 @@
           "jobTitle": "AI Workflow Consultant",
           "company": "SmartOps",
           "bio": "Danielle specializes in connecting AI tools with corporate workflow systems.",
-          "profilePhotoUrl": "https://example.com/photos/danielle_gates.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/uma-patel.webp?raw=true"
         },
         {
           "firstName": "Eric",
@@ -1387,14 +1633,21 @@
           "jobTitle": "Software Engineer",
           "company": "Botsify",
           "bio": "Eric builds custom ChatGPT integrations for enterprise clients.",
-          "profilePhotoUrl": "https://example.com/photos/eric_finch.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/gavin-rhodes.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Workflow and Planning",
-        "industry": "Technology",
-        "level": "Advanced",
+        "track": [
+          "Operational Excellence",
+          "Workflow and Planning"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "AI Integration",
           "Task Automation"
@@ -1417,7 +1670,7 @@
           "jobTitle": "Conversion Rate Expert",
           "company": "LandingLabs",
           "bio": "Francesca uses data and UX best practices to drive B2B lead captures.",
-          "profilePhotoUrl": "https://example.com/photos/francesca_rivera.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/uma-patel.webp?raw=true"
         },
         {
           "firstName": "Gerald",
@@ -1427,14 +1680,21 @@
           "jobTitle": "UX Designer",
           "company": "UserFocus",
           "bio": "Gerald creates intuitive user flows to simplify lead generation funnels.",
-          "profilePhotoUrl": "https://example.com/photos/gerald_knight.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/alice-smith.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "B2B Marketing",
-        "industry": "Technology",
-        "level": "Intermediate",
+        "track": [
+          "B2B Marketing",
+          "B2B Strategies"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Conversion Optimization",
           "UX"
@@ -1457,7 +1717,7 @@
           "jobTitle": "Cross-Functional Coordinator",
           "company": "SynergyGroup",
           "bio": "Hazel's frameworks bring together sales, product, and marketing seamlessly.",
-          "profilePhotoUrl": "https://example.com/photos/hazel_wilson.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         },
         {
           "firstName": "Isaiah",
@@ -1467,14 +1727,21 @@
           "jobTitle": "Operations Director",
           "company": "UnifiedOps",
           "bio": "Isaiah helps teams align goals, tasks, and deliverables to boost efficiency.",
-          "profilePhotoUrl": "https://example.com/photos/isaiah_morgan.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/elena-carlson .webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Workflow and Planning",
-        "industry": "Non-Profit",
-        "level": "Beginner",
+        "track": [
+          "Workflow and Planning"
+        ],
+        "industry": [
+          "Non-Profit",
+          "Technology"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Collaboration",
           "Campaign Planning"
@@ -1497,7 +1764,7 @@
           "jobTitle": "Video AI Specialist",
           "company": "VidSense",
           "bio": "Jared builds real-time video personalization engines for marketing campaigns.",
-          "profilePhotoUrl": "https://example.com/photos/jared_becker.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/jacob-hart.webp?raw=true"
         },
         {
           "firstName": "Kamila",
@@ -1507,14 +1774,22 @@
           "jobTitle": "Creative Producer",
           "company": "StreamZone",
           "bio": "Kamila utilizes AI-driven editing workflows to accelerate content production.",
-          "profilePhotoUrl": "https://example.com/photos/kamila_nowak.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/david-nguyen.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Generative AI",
-        "industry": "Media & Entertainment",
-        "level": "Advanced",
+        "track": [
+          "Artificial Intelligence",
+          "Generative AI"
+        ],
+        "industry": [
+          "Media & Entertainment",
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Personalization",
           "Video Marketing"
@@ -1537,7 +1812,7 @@
           "jobTitle": "Email Flow Architect",
           "company": "MailDynamics",
           "bio": "Lara develops advanced flows for nurturing and upselling in email marketing.",
-          "profilePhotoUrl": "https://example.com/photos/lara_roy.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sarah-kennedy.webp?raw=true"
         },
         {
           "firstName": "Mark",
@@ -1547,14 +1822,22 @@
           "jobTitle": "Lifecycle Marketing Manager",
           "company": "EngagePro",
           "bio": "Mark crafts stage-specific email campaigns for higher open and click rates.",
-          "profilePhotoUrl": "https://example.com/photos/mark_tan.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/fiona-wood.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Customer Journey Management",
-        "industry": "Retail",
-        "level": "Intermediate",
+        "track": [
+          "Artificial Intelligence",
+          "Customer Journey Management"
+        ],
+        "industry": [
+          "Retail",
+          "Technology"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Email Marketing",
           "Segmentation"
@@ -1577,7 +1860,7 @@
           "jobTitle": "EdTech Specialist",
           "company": "LearnConnect",
           "bio": "Naomi integrates technology solutions for holistic educational experiences.",
-          "profilePhotoUrl": "https://example.com/photos/naomi_blake.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/daniel-lopez.webp?raw=true"
         },
         {
           "firstName": "Owen",
@@ -1587,14 +1870,20 @@
           "jobTitle": "Instructional Designer",
           "company": "EduSynergy",
           "bio": "Owen creates cross-platform learning modules that engage learners effectively.",
-          "profilePhotoUrl": "https://example.com/photos/owen_reed.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/david-nguyen.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Unified Customer Experience",
-        "industry": "Education",
-        "level": "Beginner",
+        "track": [
+          "Unified Customer Experience"
+        ],
+        "industry": [
+          "Education"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Online Learning",
           "Student Engagement"
@@ -1617,7 +1906,7 @@
           "jobTitle": "AI Operations Manager",
           "company": "AutoContent",
           "bio": "Penelope develops end-to-end AI solutions for streamlined content pipelines.",
-          "profilePhotoUrl": "https://example.com/photos/penelope_saunders.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sophie-cheng.webp?raw=true"
         },
         {
           "firstName": "Ricardo",
@@ -1627,14 +1916,21 @@
           "jobTitle": "Innovation Lead",
           "company": "Futurity Labs",
           "bio": "Ricardo researches new AI techniques for multi-channel content distribution.",
-          "profilePhotoUrl": "https://example.com/photos/ricardo_vasquez.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Content Supply Chain",
-        "industry": "Technology",
-        "level": "Advanced",
+        "track": [
+          "Artificial Intelligence",
+          "Content Supply Chain"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Orchestration",
           "Automation"
@@ -1657,7 +1953,7 @@
           "jobTitle": "Non-Profit Consultant",
           "company": "CharityFlow",
           "bio": "Sanjay designs operational processes for grassroots and large non-profits.",
-          "profilePhotoUrl": "https://example.com/photos/sanjay_verma.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/kevin-scott.webp?raw=true"
         },
         {
           "firstName": "Tamara",
@@ -1667,14 +1963,22 @@
           "jobTitle": "Volunteer Coordinator",
           "company": "HelpingHands",
           "bio": "Tamara specializes in mobilizing and retaining volunteer talent at scale.",
-          "profilePhotoUrl": "https://example.com/photos/tamara_ng.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/brian-young.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Workflow and Planning",
-        "industry": "Non-Profit",
-        "level": "Beginner",
+        "track": [
+          "Artificial Intelligence",
+          "Operational Excellence",
+          "Workflow and Planning"
+        ],
+        "industry": [
+          "Non-Profit"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Resource Management",
           "Campaign Planning"
@@ -1697,7 +2001,7 @@
           "jobTitle": "Predictive Analytics Lead",
           "company": "DataVision",
           "bio": "Ursula builds predictive models that align acquisition efforts with ROI goals.",
-          "profilePhotoUrl": "https://example.com/photos/ursula_green.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sarah-kennedy.webp?raw=true"
         },
         {
           "firstName": "Victor",
@@ -1707,14 +2011,21 @@
           "jobTitle": "Statistical Analyst",
           "company": "DeepData",
           "bio": "Victor deploys advanced statistical techniques for targeted marketing.",
-          "profilePhotoUrl": "https://example.com/photos/victor_edwards.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/evin-scott.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Customer Acquisition",
-        "industry": "Financial Services",
-        "level": "Advanced",
+        "track": [
+          "Customer Acquisition",
+          "Customer Engagement"
+        ],
+        "industry": [
+          "Financial Services"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Predictive Analytics",
           "Conversion Optimization"
@@ -1737,7 +2048,7 @@
           "jobTitle": "Government Services Advisor",
           "company": "CivicEngage",
           "bio": "Wendy transforms bureaucratic processes into user-friendly citizen services.",
-          "profilePhotoUrl": "https://example.com/photos/wendy_liu.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/evin-scott.webp?raw=true"
         },
         {
           "firstName": "Xander",
@@ -1747,14 +2058,21 @@
           "jobTitle": "Public Policy Analyst",
           "company": "PoliTech",
           "bio": "Xander leverages digital tools to streamline public-facing programs.",
-          "profilePhotoUrl": "https://example.com/photos/xander_powell.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/ava-miller.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Customer Journey Management",
-        "industry": "Public Sector",
-        "level": "Intermediate",
+        "track": [
+          "Customer Engagement",
+          "Customer Journey Management"
+        ],
+        "industry": [
+          "Public Sector"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Citizen Engagement",
           "Service Design"
@@ -1777,7 +2095,7 @@
           "jobTitle": "Customer Automation Specialist",
           "company": "FlowCX",
           "bio": "Yara designs automated workflows that maintain consistent customer experiences.",
-          "profilePhotoUrl": "https://example.com/photos/yara_smith.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/david-nguyen.webp?raw=true"
         },
         {
           "firstName": "Zoe",
@@ -1787,14 +2105,20 @@
           "jobTitle": "Integration Engineer",
           "company": "SysConnect",
           "bio": "Zoe creates integrated systems that unify data streams for consistent CX.",
-          "profilePhotoUrl": "https://example.com/photos/zoe_reese.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/fiona-wood.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Unified Customer Experience",
-        "industry": "Healthcare",
-        "level": "Advanced",
+        "track": [
+          "Unified Customer Experience"
+        ],
+        "industry": [
+          "Healthcare"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Automation",
           "CX Scalability"
@@ -1817,7 +2141,7 @@
           "jobTitle": "Global Marketing Director",
           "company": "BlueSky Inc.",
           "bio": "Aria crafts forward-thinking marketing approaches for international B2B markets.",
-          "profilePhotoUrl": "https://example.com/photos/aria_roberts.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/brian-young.webp?raw=true"
         },
         {
           "firstName": "Bryce",
@@ -1827,14 +2151,21 @@
           "jobTitle": "Futurist",
           "company": "TrendVision",
           "bio": "Bryce predicts market evolutions and helps clients remain competitive.",
-          "profilePhotoUrl": "https://example.com/photos/bryce_thompson.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sophie-cheng.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "B2B Marketing",
-        "industry": "Technology",
-        "level": "Advanced",
+        "track": [
+          "B2B Marketing",
+          "B2B Strategies"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Market Forecasting",
           "Innovation"
@@ -1857,7 +2188,7 @@
           "jobTitle": "Creative Director",
           "company": "VisualMinds",
           "bio": "Celine sets up dynamic sprints that align creative goals with business objectives.",
-          "profilePhotoUrl": "https://example.com/photos/celine_baker.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/ethan-wright.webp?raw=true"
         },
         {
           "firstName": "Darius",
@@ -1867,14 +2198,21 @@
           "jobTitle": "Agile Coach",
           "company": "SprintForward",
           "bio": "Darius specializes in transforming conventional teams into agile powerhouses.",
-          "profilePhotoUrl": "https://example.com/photos/darius_moore.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/ava-miller.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Workflow and Planning",
-        "industry": "Media & Entertainment",
-        "level": "Intermediate",
+        "track": [
+          "Operational Excellence",
+          "Workflow and Planning"
+        ],
+        "industry": [
+          "Media & Entertainment"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Agile Methods",
           "Creative Processes"
@@ -1897,7 +2235,7 @@
           "jobTitle": "AI Implementation Lead",
           "company": "InnovateAI",
           "bio": "Evelyn consults on large-scale AI deployments in various sectors.",
-          "profilePhotoUrl": "https://example.com/photos/evelyn_schultz.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         },
         {
           "firstName": "Fabian",
@@ -1907,14 +2245,22 @@
           "jobTitle": "Chief Transformation Officer",
           "company": "TechAdvantage",
           "bio": "Fabian guides organizations through digital transformations focusing on AI ROI.",
-          "profilePhotoUrl": "https://example.com/photos/fabian_rodriguez.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/alice-smith.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Generative AI",
-        "industry": "Manufacturing",
-        "level": "Beginner",
+        "track": [
+          "Artificial Intelligence",
+          "Generative AI"
+        ],
+        "industry": [
+          "Manufacturing",
+          "Technology"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Implementation",
           "Business Impact"
@@ -1937,7 +2283,7 @@
           "jobTitle": "Brand Assurance Manager",
           "company": "TrustWorks",
           "bio": "Gabriel sets guidelines to maintain brand authenticity at every touchpoint.",
-          "profilePhotoUrl": "https://example.com/photos/gabriel_nelson.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/fiona-wood.webp?raw=true"
         },
         {
           "firstName": "Heidi",
@@ -1947,14 +2293,21 @@
           "jobTitle": "Customer Experience Consultant",
           "company": "CredibleCX",
           "bio": "Heidi maps brand credibility factors across the entire customer lifecycle.",
-          "profilePhotoUrl": "https://example.com/photos/heidi_rogers.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/alice-smith.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Customer Journey Management",
-        "industry": "Insurance",
-        "level": "Intermediate",
+        "track": [
+          "Customer Engagement",
+          "Customer Journey Management"
+        ],
+        "industry": [
+          "Insurance"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Brand Credibility",
           "Trust Metrics"
@@ -1977,7 +2330,7 @@
           "jobTitle": "Energy Solutions Specialist",
           "company": "PowerConnect",
           "bio": "Ivy aligns marketing communications with utility service operations.",
-          "profilePhotoUrl": "https://example.com/photos/ivy_cooper.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sarah-kennedy.webp?raw=true"
         },
         {
           "firstName": "Jonas",
@@ -1987,14 +2340,21 @@
           "jobTitle": "Customer Service Designer",
           "company": "GreenGrid",
           "bio": "Jonas shapes end-to-end experiences for sustainable energy customers.",
-          "profilePhotoUrl": "https://example.com/photos/jonas_bell.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sophie-cheng.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Unified Customer Experience",
-        "industry": "Energy",
-        "level": "Advanced",
+        "track": [
+          "Customer Engagement",
+          "Unified Customer Experience"
+        ],
+        "industry": [
+          "Energy"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Omnichannel",
           "Service Reliability"
@@ -2017,7 +2377,7 @@
           "jobTitle": "Global Markets Analyst",
           "company": "MacroView",
           "bio": "Katie tracks economic shifts to identify prime B2B opportunities overseas.",
-          "profilePhotoUrl": "https://example.com/photos/katie_murray.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/emma-jones.webp?raw=true"
         },
         {
           "firstName": "Liam",
@@ -2027,14 +2387,21 @@
           "jobTitle": "International Marketing Lead",
           "company": "GlobalReach",
           "bio": "Liam helps companies localize and adapt offerings for new markets.",
-          "profilePhotoUrl": "https://example.com/photos/liam_watts.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/james-lee.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "B2B Marketing",
-        "industry": "Technology",
-        "level": "Intermediate",
+        "track": [
+          "B2B Marketing",
+          "B2B Strategies"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Market Expansion",
           "Localization"
@@ -2057,7 +2424,7 @@
           "jobTitle": "Seasonal Campaign Manager",
           "company": "WaveMarket",
           "bio": "Malia crafts content themes to maximize brand presence during seasonal peaks.",
-          "profilePhotoUrl": "https://example.com/photos/malia_jordan.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/daniel-lopez.webp?raw=true"
         },
         {
           "firstName": "Noah",
@@ -2067,14 +2434,21 @@
           "jobTitle": "Marketing Automation Specialist",
           "company": "AutoReach",
           "bio": "Noah schedules campaigns and automates triggers for recurring events.",
-          "profilePhotoUrl": "https://example.com/photos/noah_collins.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/speaker-names.txt?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Workflow and Planning",
-        "industry": "Retail",
-        "level": "Beginner",
+        "track": [
+          "Artificial Intelligence",
+          "Workflow and Planning"
+        ],
+        "industry": [
+          "Retail"
+        ],
+        "level": [
+          "Beginner"
+        ],
         "topics": [
           "Seasonal Marketing",
           "Automation"
@@ -2097,7 +2471,7 @@
           "jobTitle": "LegalTech Specialist",
           "company": "LexAI",
           "bio": "Olga develops AI solutions for faster legal documentation processes.",
-          "profilePhotoUrl": "https://example.com/photos/olga_volkov.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/david-nguyen.webp?raw=true"
         },
         {
           "firstName": "Peter",
@@ -2107,14 +2481,22 @@
           "jobTitle": "Compliance Officer",
           "company": "ReguSafe",
           "bio": "Peter ensures AI applications meet strict regulatory and ethical guidelines.",
-          "profilePhotoUrl": "https://example.com/photos/peter_coleman.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/kevin-scott.webp?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "Generative AI",
-        "industry": "Consulting",
-        "level": "Advanced",
+        "track": [
+          "Artificial Intelligence",
+          "Generative AI"
+        ],
+        "industry": [
+          "Consulting",
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Legal Automation",
           "AI Summaries"
@@ -2122,7 +2504,7 @@
       }
     },
     {
-      "title": "Session 1D: The 360° Customer Journey in Retail",
+      "title": "Session 1D: The 360\u00b0 Customer Journey in Retail",
       "slug": "day2-session-1d-the-360-degree-customer-journey-in-retail",
       "description": "Craft an immersive retail experience from pre-purchase to post-purchase engagement.",
       "startTime": "2025-09-02T08:00:00Z",
@@ -2137,7 +2519,7 @@
           "jobTitle": "Retail Experience Lead",
           "company": "Shop360",
           "bio": "Queenie integrates e-commerce platforms with physical store journeys.",
-          "profilePhotoUrl": "https://example.com/photos/queenie_lin.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/sophie-cheng.webp?raw=true"
         },
         {
           "firstName": "Rafael",
@@ -2147,14 +2529,23 @@
           "jobTitle": "Loyalty Program Manager",
           "company": "RewardNow",
           "bio": "Rafael designs loyalty initiatives to keep customers engaged after purchase.",
-          "profilePhotoUrl": "https://example.com/photos/rafael_torres.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/daniel-lopez.webp?raw=true"
         }
       ],
       "sessionType": "Breakout",
       "categories": {
-        "track": "Customer Journey Management",
-        "industry": "Retail",
-        "level": "Intermediate",
+        "track": [
+          "Artificial Intelligence",
+          "Customer Engagement",
+          "Customer Journey Management"
+        ],
+        "industry": [
+          "Retail",
+          "Technology"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "Omnichannel",
           "Loyalty Programs"
@@ -2177,7 +2568,7 @@
           "jobTitle": "Big Data Engineer",
           "company": "DataMass",
           "bio": "Selena optimizes large-scale data infrastructures for real-time CX insights.",
-          "profilePhotoUrl": "https://example.com/photos/selena_woods.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/james-lee.webp?raw=true"
         },
         {
           "firstName": "Troy",
@@ -2187,14 +2578,20 @@
           "jobTitle": "Integration Specialist",
           "company": "UnityNet",
           "bio": "Troy designs integration blueprints that unify data streams and business systems.",
-          "profilePhotoUrl": "https://example.com/photos/troy_mitchell.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/henry-baker.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "Unified Customer Experience",
-        "industry": "Energy",
-        "level": "Advanced",
+        "track": [
+          "Unified Customer Experience"
+        ],
+        "industry": [
+          "Energy"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Big Data",
           "Integration"
@@ -2217,7 +2614,7 @@
           "jobTitle": "B2B Analytics Expert",
           "company": "MetricX",
           "bio": "Ulysses helps organizations track the right metrics for B2B success.",
-          "profilePhotoUrl": "https://example.com/photos/ulysses_rhodes.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/brian-young.webp?raw=true"
         },
         {
           "firstName": "Veronica",
@@ -2227,14 +2624,22 @@
           "jobTitle": "Marketing Strategist",
           "company": "BenchMark",
           "bio": "Veronica benchmarks performance across multiple industries and verticals.",
-          "profilePhotoUrl": "https://example.com/photos/veronica_adler.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/speaker-names.txt?raw=true"
         }
       ],
       "sessionType": "Online Session",
       "categories": {
-        "track": "B2B Marketing",
-        "industry": "Consulting",
-        "level": "Intermediate",
+        "track": [
+          "B2B Marketing",
+          "B2B Strategies"
+        ],
+        "industry": [
+          "Consulting",
+          "Technology"
+        ],
+        "level": [
+          "Intermediate"
+        ],
         "topics": [
           "KPIs",
           "Benchmarking"
@@ -2242,9 +2647,9 @@
       }
     },
     {
-      "title": "Session 10E: Closing Keynote – Innovating the Future of Digital Marketing",
+      "title": "Session 10E: Closing Keynote \u2013 Innovating the Future of Digital Marketing",
       "slug": "day2-session-10e-closing-keynote-innovating-future-of-digital-marketing",
-      "description": "Inspiring perspectives on what’s next in digital marketing and how to stay adaptive.",
+      "description": "Inspiring perspectives on what\u2019s next in digital marketing and how to stay adaptive.",
       "startTime": "2025-09-02T17:00:00Z",
       "endTime": "2025-09-02T17:45:00Z",
       "duration": 45,
@@ -2257,7 +2662,7 @@
           "jobTitle": "Chief Marketing Futurist",
           "company": "FutureShift",
           "bio": "Winston envisions the next era of marketing through emerging trends and tech.",
-          "profilePhotoUrl": "https://example.com/photos/winston_brooks.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/olivia-brown.webp?raw=true"
         },
         {
           "firstName": "Yvonne",
@@ -2267,14 +2672,20 @@
           "jobTitle": "Global Strategy Lead",
           "company": "MarketWave",
           "bio": "Yvonne translates macro trends into actionable strategies for global brands.",
-          "profilePhotoUrl": "https://example.com/photos/yvonne_blanc.jpg"
+          "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/david-nguyen.webp?raw=true"
         }
       ],
       "sessionType": "Keynote",
       "categories": {
-        "track": "B2B Marketing",
-        "industry": "Technology",
-        "level": "Advanced",
+        "track": [
+          "B2B Marketing"
+        ],
+        "industry": [
+          "Technology"
+        ],
+        "level": [
+          "Advanced"
+        ],
         "topics": [
           "Future Trends",
           "Strategic Innovation"
