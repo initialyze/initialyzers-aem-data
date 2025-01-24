@@ -47,7 +47,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "KB001",
       "published": true,
@@ -101,7 +102,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "BO002",
       "published": true,
@@ -157,7 +159,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OA003",
       "published": true,
@@ -213,7 +216,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "BC004",
       "published": true,
@@ -269,7 +273,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "KC005",
       "published": true,
@@ -323,7 +328,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OC006",
       "published": true,
@@ -377,7 +383,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "BO007",
       "published": true,
@@ -432,7 +439,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "KA008",
       "published": true,
@@ -485,7 +493,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OC009",
       "published": true,
@@ -538,7 +547,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "BC010",
       "published": true,
@@ -592,7 +602,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "KC011",
       "published": true,
@@ -647,7 +658,8 @@
         ],
         "viewingOption": [
           "On Demand"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OA012",
       "published": true,
@@ -700,7 +712,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "BC013",
       "published": true,
@@ -754,7 +767,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "KA014",
       "published": true,
@@ -809,7 +823,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OC015",
       "published": true,
@@ -863,7 +878,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "BC016",
       "published": true,
@@ -917,7 +933,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OC017",
       "published": true,
@@ -970,7 +987,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "KC018",
       "published": true,
@@ -1025,7 +1043,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "BA019",
       "published": true,
@@ -1079,7 +1098,8 @@
         ],
         "viewingOption": [
           "On Demand"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "OC020",
       "published": true,
@@ -1132,7 +1152,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "KU021",
       "published": true,
@@ -1186,7 +1207,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "BC022",
       "published": true,
@@ -1240,7 +1262,8 @@
         ],
         "viewingOption": [
           "On Demand"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OA023",
       "published": true,
@@ -1295,7 +1318,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "KA024",
       "published": true,
@@ -1350,7 +1374,8 @@
         ],
         "viewingOption": [
           "On Demand"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "BC025",
       "published": true,
@@ -1404,7 +1429,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "OB026",
       "published": true,
@@ -1459,7 +1485,8 @@
         ],
         "viewingOption": [
           "On Demand"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "BA027",
       "published": true,
@@ -1515,7 +1542,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "KA028",
       "published": true,
@@ -1569,7 +1597,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "OC029",
       "published": true,
@@ -1623,7 +1652,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "BC030",
       "published": true,
@@ -1677,7 +1707,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OB031",
       "published": true,
@@ -1731,7 +1762,8 @@
         ],
         "viewingOption": [
           "On Demand"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "BO032",
       "published": true,
@@ -1784,7 +1816,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "KG033",
       "published": true,
@@ -1838,7 +1871,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "OC034",
       "published": true,
@@ -1892,7 +1926,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "BO035",
       "published": true,
@@ -1946,7 +1981,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "KB036",
       "published": true,
@@ -2000,7 +2036,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "BW037",
       "published": true,
@@ -2055,7 +2092,8 @@
         ],
         "viewingOption": [
           "On Demand"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "OA038",
       "published": true,
@@ -2110,7 +2148,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "KA039",
       "published": true,
@@ -2163,7 +2202,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "BU040",
       "published": true,
@@ -2217,7 +2257,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OA041",
       "published": true,
@@ -2272,7 +2313,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "BA042",
       "published": true,
@@ -2326,7 +2368,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "KC043",
       "published": true,
@@ -2380,7 +2423,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "OC044",
       "published": true,
@@ -2433,7 +2477,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "BU045",
       "published": true,
@@ -2487,7 +2532,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "KB046",
       "published": true,
@@ -2541,7 +2587,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "BO047",
       "published": true,
@@ -2596,7 +2643,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OA048",
       "published": true,
@@ -2650,7 +2698,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "KC049",
       "published": true,
@@ -2704,7 +2753,8 @@
         ],
         "viewingOption": [
           "On Demand"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "BC050",
       "published": true,
@@ -2758,7 +2808,8 @@
         ],
         "viewingOption": [
           "On Demand"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "KB051",
       "published": true,
@@ -2812,7 +2863,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "BA052",
       "published": true,
@@ -2867,7 +2919,8 @@
         ],
         "viewingOption": [
           "Online"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "OA053",
       "published": true,
@@ -2923,7 +2976,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "BA054",
       "published": true,
@@ -2976,7 +3030,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 3"
       },
       "sessionCode": "KU055",
       "published": true,
@@ -3031,7 +3086,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 2"
       },
       "sessionCode": "OB056",
       "published": true,
@@ -3084,7 +3140,8 @@
         ],
         "viewingOption": [
           "In-Person"
-        ]
+        ],
+        "channels": "Channel 1"
       },
       "sessionCode": "KB057",
       "published": true,
