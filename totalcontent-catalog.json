@@ -3,7 +3,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/EZ Events.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/product-brief": "Product Brief"
+                "resource-type":[
+                    "Product Brief"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356444746,
@@ -20,10 +22,14 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:topics/governance": "Governance",
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "topics": [
+                    "Security",
+                    "Governance",
+                    "Cloud Software"
+                ],
+                "resource-type":[
+                    "News"
+                ]
             },
             "lastModified": 1681827807393,
             "description": "Update this text using page properties \u003E description field. This area can be used to provide a short description about the article which can be pulled by the list components also.",
