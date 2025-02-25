@@ -3,7 +3,7 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/EZ Events.pdf",
             "tags": {
-                "resource-type":[
+                "resourceType":[
                     "Product Brief"
                 ]
             },
@@ -27,7 +27,7 @@
                     "Governance",
                     "Cloud Software"
                 ],
-                "resource-type":[
+                "resourceType":[
                     "News"
                 ]
             },
