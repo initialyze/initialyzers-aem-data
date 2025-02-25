@@ -1,0 +1,214 @@
+{
+    "data":[     
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/EZ Events.pdf",
+            "tags": {
+                "resourceType":[
+                    "Product Brief"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356444746,
+            "description": "Showcase your Events using EZ Events for AEM Sites",
+            "title": "EZ Events",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/EZ Events.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/EZ Events.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Adaptor.pdf",
+            "tags": {
+                "resourceType": [
+                    "Product Brief"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356444256,
+            "description": "Showcase your resources with Adaptor for AEM Sites",
+            "title": "Adaptor",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/Adaptor.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/Adaptor.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Terumo.pdf",
+            "tags": {
+                "resourceType": [
+                    "Case Study"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356444957,
+            "description": "A scalable Adobe AEM implementation to support multi-tenancy",
+            "title": "Terumo",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/Terumo.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/Terumo.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Travel + Leisure.pdf",
+            "tags": {
+                "resourceType": [
+                    "Case Study"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356446117,
+            "description": "Empowering Digital Marketing: The Successful Migration to AEM Assets Cloud Service",
+            "title": "Travel + Leisure",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/Travel + Leisure.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/Travel + Leisure.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/ServiceNow Blog.pdf",
+            "tags": {
+                "resourceType": [
+                    "Case Study"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356445551,
+            "description": "Migrate Blog from WordPress to AEM Sites",
+            "title": "ServiceNow Blog",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/ServiceNow Blog.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/ServiceNow Blog.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Spark.pdf",
+            "tags": {
+                "resourceType": [
+                    "Product Brief"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356444453,
+            "description": "Jumpstart Your Local AEM Development Environments and Processes with Initialyze Spark",
+            "title": "Spark",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/Spark.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/Spark.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Salesforce.pdf",
+            "tags": {
+                "resourceType": [
+                    "Case Study"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356445967,
+            "description": "A scalable platform for Salesforce's Digital Marketing team built using Adobe AEM",
+            "title": "Salesforce",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/Salesforce.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/Salesforce.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Sentry.pdf",
+            "tags": {
+                "resourceType": [
+                    "Product Brief"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356444210,
+            "description": "Get build pipeline status in real-time with  Sentry for AEMaaCS",
+            "title": "Sentry",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/Sentry.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/Sentry.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Logitech.pdf",
+            "tags": {
+                "resourceType": [
+                    "Case Study"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356445551,
+            "description": "Transforming Logitech's Digital Marketing with a Comprehensive Assessment",
+            "title": "Logitech",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/Logitech.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/Logitech.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/BlogPlus.pdf",
+            "tags": {
+                "resourceType": [
+                    "Product Brief"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356445122,
+            "description": "Create Blogs using AEM Sites with  BlogPlus in minutes!",
+            "title": "BlogPlus",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/BlogPlus.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/BlogPlus.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/AEM Initialyzer.pdf",
+            "tags": {
+                "resourceType": [
+                    "Product Brief"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356445819,
+            "description": "Bootstrap your experience, platforms, and teams.",
+            "title": "AEM Initialyzer",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/AEM Initialyzer.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/AEM Initialyzer.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/ServiceNow Events.pdf",
+            "tags": {
+                "resourceType": [
+                    "Case Study"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356445922,
+            "description": "A scalable events section built using Adobe AEM and EZ Events",
+            "title": "ServiceNow",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/ServiceNow Events.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/ServiceNow Events.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Keysight.pdf",
+            "tags": {
+                "resourceType": [
+                    "Case Study"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356445050,
+            "description": "Streamlining Marketing Efforts: The Move from Drupal to AEM",
+            "title": "Keysight",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/Keysight.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/Keysight.pdf"
+        },
+        {
+            "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Alexion.pdf",
+            "tags": {
+                "resourceType": [
+                    "Case Study"
+                ]
+            },
+            "itemType": "asset",
+            "lastModified": 1739356446300,
+            "description": "Revolutionizing Patient Assessment with Sitecore: Alexion's Quest for Customized Care",
+            "title": "Alexion",
+            "path": "/content/dam/resourcecenter/en/documents/pdf/Alexion.pdf",
+            ":type": "dam:Asset",
+            "url": "/content/dam/resourcecenter/en/documents/pdf/Alexion.pdf"
+        }
+    ]
+}
