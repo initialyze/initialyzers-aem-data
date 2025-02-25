@@ -54,7 +54,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Adaptor.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/product-brief": "Product Brief"
+                "resourceType": [
+                    "Product Brief"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356444256,
@@ -71,9 +73,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:industry/business_services": "Business Services"
+                "topics": [
+                    "Security"
+                ],
+                "resourceType": [
+                    "News"
+                ],
+                "industry": [
+                    "Business Services"
+                ]
             },
             "lastModified": 1681827616231,
             "description": "URL filtering limits access by comparing web traffic against a database to prevent employees from accessing harmful sites such as phishing pages.",
@@ -98,7 +106,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Terumo.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/casestudy": "Case Study"
+                "resourceType": [
+                    "Case Study"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356444957,
@@ -115,10 +125,14 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:topics/governance": "Governance",
-            "aem-initialyzer:topics/data-center": "Data Center",
-            "aem-initialyzer:page-type/resource": "Resource Page"
+                "topics": [
+                    "Security",
+                    "Governance",
+                    "Data Center"
+                ],
+                "pageType": [
+                    "Resource"
+                ]
             },
             "lastModified": 1601370440829,
             "description": "A data center is a facility that centralizes an organization’s shared IT operations and equipment for the purposes of storing, processing, and disseminating data and applications.",
@@ -143,7 +157,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Travel + Leisure.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/casestudy": "Case Study"
+                "resourceType": [
+                    "Case Study"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356446117,
@@ -160,11 +176,17 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/saas-security": "Saas Security",
-            "aem-initialyzer:topics/design": "Design",
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:industry/education": "Education",
-            "aem-initialyzer:industry/business_services": "Business Services"
+                "topics": [
+                    "Saas Security", 
+                    "Design"
+                ],
+                "resourceType": [
+                    "News"
+                ],
+                "industry": [
+                    "Education",
+                    "Business Services"
+                ]
             },
             "lastModified": 1681827593911,
             "description": "SaaS applications provide tremendous value to end-users. One of the three main cloud computing categories alongside infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS), software-as-a-service (SaaS) is a web-based software distribution model in which a third-party provider hosts applications that it makes available to customers over the internet.",
@@ -189,7 +211,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/ServiceNow Blog.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/casestudy": "Case Study"
+                "resourceType": [
+                    "Case Study"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356445551,
@@ -206,10 +230,16 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:industry/financial_services": "Financial Services",
-            "aem-initialyzer:topics/governance": "Governance",
-            "aem-initialyzer:resource-type/news": "News"
+                "topics": [
+                    "Security",
+                    "Governance"
+                ],
+                "industry": [
+                    "Financial Services"
+                ],
+                "resourceType": [
+                    "News"
+                ]
             },
             "lastModified": 1681827638962,
             "description": "Credential based attacks occur when attackers steal credentials to gain access, bypass an organizations security measures, and steal critical data.",
@@ -234,7 +264,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Spark.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/product-brief": "Product Brief"
+                "resourceType": [
+                    "Product Brief"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356444453,
@@ -251,9 +283,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:industry/education": "Education",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "resourceType": [
+                    "News"
+                ],
+                "industry": [
+                    "Education"
+                ],
+                "topics": [
+                    "Cloud Software"
+                ]
             },
             "lastModified": 1681827529906,
             "description": "“Cloud native” describes an approach to designing, implementing, deploying and operating applications while taking full advantage of the products and services offered by cloud service providers (CSPs).",
@@ -278,7 +316,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Salesforce.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/casestudy": "Case Study"
+                "resourceType": [
+                    "Case Study"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356445967,
@@ -295,9 +335,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:industry/financial_services": "Financial Services",
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "industry": [
+                    "Financial Services"
+                ],
+                "resourceType": [
+                    "News"
+                ],
+                "topics": [
+                    "Cloud Software"
+                ]
             },
             "lastModified": 1681827841316,
             "description": "Software-defined wide area network is a virtualized service that connects and extends enterprise networks over large geographic distances.",
@@ -322,7 +368,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Sentry.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/product-brief": "Product Brief"
+                "resourceType": [
+                    "Product Brief"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356444210,
@@ -339,9 +387,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:industry/business_services": "Business Services"
+                "topics": [
+                    "Security"
+                ],
+                "resourceType": [
+                    "News"
+                ],
+                "industry": [
+                    "Business Services"
+                ]
             },
             "lastModified": 1681827551752,
             "description": "Ransomware is a criminal business model that uses malicious software to hold something of value for ransom or shutting down victim's operations.",
@@ -366,7 +420,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Logitech.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/casestudy": "Case Study"
+                "resourceType": [
+                    "Case Study"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356445551,
@@ -383,9 +439,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:industry/financial_services": "Financial Services",
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "industry": [
+                    "Financial Services"
+                ],
+                "resourceType": [
+                    "News"
+                ],
+                "topics": [
+                    "Cloud Software"
+                ]
             },
             "lastModified": 1681827685120,
             "description": "A bot is a piece of malware that infects a computer to carry out commands under the remote control of the attacker.",
@@ -410,7 +472,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/BlogPlus.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/product-brief": "Product Brief"
+                "resourceType": [
+                    "Product Brief"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356445122,
@@ -427,10 +491,16 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:industry/financial_services": "Financial Services",
-            "aem-initialyzer:topics/data-center": "Data Center",
-            "aem-initialyzer:resource-type/news": "News"
+                "topics": [
+                    "Security",
+                    "Data Center"
+                ],
+                "industry": [
+                    "Financial Services"
+                ],
+                "resourceType": [
+                    "News"
+                ]
             },
             "lastModified": 1681827740862,
             "description": "Command-and-control attacks can compromise an entire network. Find out what they are and how they work.",
@@ -455,7 +525,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/AEM Initialyzer.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/product-brief": "Product Brief"
+                "resourceType": [
+                    "Product Brief"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356445819,
@@ -472,11 +544,17 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:industry/financial_services": "Financial Services",
-            "aem-initialyzer:topics/data": "Data",
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:topics/networking": "Networking",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "industry": [
+                    "Financial Services"
+                ],
+                "topics": [
+                    "Data",
+                    "Networking",
+                    "Cloud Software"
+                ],
+                "resourceType": [
+                    "News"
+                ]
             },
             "lastModified": 1681827572977,
             "description": "A cloud VPN (aka a virtual private network as a service or hosted VPN) is a new type of VPN technology that’s specifically designed for the cloud.",
@@ -501,7 +579,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/ServiceNow Events.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/casestudy": "Case Study"
+                "resourceType": [
+                    "Case Study"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356445922,
@@ -518,10 +598,16 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:topics/governance": "Governance",
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:industry/business_services": "Business Services"
+                "topics": [
+                    "Security",
+                    "Governance"
+                ],
+                "resourceType": [
+                    "News"
+                ],
+                "industry": [
+                    "Business Services"
+                ]
             },
             "lastModified": 1681827709083,
             "description": "This brief breaks down the different stages of the cyber attack lifecycle and discusses steps that should be taken at each stage to prevent an attack.",
@@ -546,7 +632,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Keysight.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/casestudy": "Case Study"
+                "resourceType": [
+                    "Case Study"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356445050,
@@ -563,9 +651,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:industry/education": "Education",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "resourceType": [
+                    "News"
+                ],
+                "industry": [
+                    "Education"
+                ],
+                "topics": [
+                    "Cloud Software"
+                ]
             },
             "lastModified": 1735636471293,
             "description": "Machine learning is when a program takes new data, learns from it and makes changes without being explicitly programed to do so.",
@@ -590,7 +684,9 @@
         {
             "imagePath": "/content/dam/resourcecenter/en/documents/pdf/Alexion.pdf",
             "tags": {
-            "aem-initialyzer:resource-type/casestudy": "Case Study"
+                "resourceType": [
+                    "Case Study"
+                ]
             },
             "itemType": "asset",
             "lastModified": 1739356446300,
@@ -607,10 +703,16 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:topics/development": "Development",
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:industry/education": "Education"
+                "topics": [
+                    "Security",
+                    "Development"
+                ],
+                "resourceType": [
+                    "News"
+                ],
+                "industry": [
+                    "Education"
+                ]
             },
             "lastModified": 1681827784949,
             "description": "DevSecOps refers to the concept of making software security a core part of the overall software delivery process.",
@@ -639,10 +741,16 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/news": "News",
-            "aem-initialyzer:industry/education": "Education",
-            "aem-initialyzer:topics/networking": "Networking",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "resourceType": [
+                    "News"
+                ],
+                "industry": [
+                    "Education"
+                ],
+                "topics": [
+                    "Networking",
+                    "Cloud Software"
+                ]
             },
             "lastModified": 1681827659916,
             "description": "DNS hijacking has been used to take over the web domain of The New York Times. What is it, and how does it work?",
@@ -696,10 +804,14 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:topics/governance": "Governance",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "topics": [
+                    "Security",
+                    "Governance",
+                    "Cloud Software"
+                ],
+                "resourceType": [
+                    "Article"
+                ]
             },
             "lastModified": 1681827807393,
             "description": "Update this text using page properties \u003E description field. This area can be used to provide a short description about the article which can be pulled by the list components also.",
@@ -728,9 +840,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:industry/business_services": "Business Services"
+                "topics": [
+                    "Security"
+                ],
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Business Services"
+                ]
             },
             "lastModified": 1681827616231,
             "description": "URL filtering limits access by comparing web traffic against a database to prevent employees from accessing harmful sites such as phishing pages.",
@@ -759,10 +877,14 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:topics/governance": "Governance",
-            "aem-initialyzer:topics/data-center": "Data Center",
-            "aem-initialyzer:page-type/resource": "Resource Page"
+                "topics": [
+                    "Security",
+                    "Governance",
+                    "Data Center"
+                ],
+                "pageType": [
+                    "Resource"
+                ]
             },
             "lastModified": 1601370440829,
             "description": "A data center is a facility that centralizes an organization’s shared IT operations and equipment for the purposes of storing, processing, and disseminating data and applications.",
@@ -791,11 +913,17 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:topics/saas-security": "Saas Security",
-            "aem-initialyzer:topics/design": "Design",
-            "aem-initialyzer:industry/education": "Education",
-            "aem-initialyzer:industry/business_services": "Business Services"
+                "resourceType": [
+                    "Article"
+                ],
+                "topics": [
+                    "Saas Security",
+                    "Design"
+                ],
+                "industry": [
+                    "Education",
+                    "Business Services"
+                ]
             },
             "lastModified": 1681827593911,
             "description": "SaaS applications provide tremendous value to end-users. One of the three main cloud computing categories alongside infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS), software-as-a-service (SaaS) is a web-based software distribution model in which a third-party provider hosts applications that it makes available to customers over the internet.",
@@ -824,10 +952,16 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:industry/financial_services": "Financial Services",
-            "aem-initialyzer:topics/governance": "Governance"
+                "topics": [
+                    "Security",
+                    "Governance"
+                ],
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Financial Services"
+                ]
             },
             "lastModified": 1681827638962,
             "description": "Credential based attacks occur when attackers steal credentials to gain access, bypass an organizations security measures, and steal critical data.",
@@ -856,10 +990,16 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:industry/financial_services": "Financial Services",
-            "aem-initialyzer:topics/data-center": "Data Center"
+                "topics": [
+                    "Security",
+                    "Data Center"
+                ],
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Financial Services"
+                ]
             },
             "lastModified": 1681827740862,
             "description": "Command-and-control attacks can compromise an entire network. Find out what they are and how they work.",
@@ -888,11 +1028,17 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:industry/financial_services": "Financial Services",
-            "aem-initialyzer:topics/data": "Data",
-            "aem-initialyzer:topics/networking": "Networking",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Financial Services"
+                ],
+                "topics": [
+                    "Networking",
+                    "Cloud Software",
+                    "Data"
+                ]
             },
             "lastModified": 1681827572977,
             "description": "A cloud VPN (aka a virtual private network as a service or hosted VPN) is a new type of VPN technology that’s specifically designed for the cloud.",
@@ -921,9 +1067,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:industry/education": "Education",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Education"
+                ],
+                "topics": [
+                    "Cloud Software"
+                ]
             },
             "lastModified": 1681827529906,
             "description": "“Cloud native” describes an approach to designing, implementing, deploying and operating applications while taking full advantage of the products and services offered by cloud service providers (CSPs).",
@@ -952,10 +1104,16 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:topics/governance": "Governance",
-            "aem-initialyzer:industry/business_services": "Business Services"
+                "topics": [
+                    "Security",
+                    "Governance"
+                ],
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Business Services"
+                ]
             },
             "lastModified": 1681827709083,
             "description": "This brief breaks down the different stages of the cyber attack lifecycle and discusses steps that should be taken at each stage to prevent an attack.",
@@ -984,9 +1142,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:industry/education": "Education",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Education"
+                ],
+                "topics": [
+                    "Cloud Software"
+                ]
             },
             "lastModified": 1681827501127,
             "description": "Machine learning is when a program takes new data, learns from it and makes changes without being explicitly programed to do so.",
@@ -1015,9 +1179,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:industry/financial_services": "Financial Services",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Financial Services"
+                ],
+                "topics": [
+                    "Cloud Software"
+                ]
             },
             "lastModified": 1681827841316,
             "description": "Software-defined wide area network is a virtualized service that connects and extends enterprise networks over large geographic distances.",
@@ -1046,9 +1216,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:industry/business_services": "Business Services"
+                "topics": [
+                    "Security"
+                ],
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Business Services"
+                ]
             },
             "lastModified": 1681827551752,
             "description": "Ransomware is a criminal business model that uses malicious software to hold something of value for ransom or shutting down victim's operations.",
@@ -1077,10 +1253,16 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:topics/development": "Development",
-            "aem-initialyzer:industry/education": "Education"
+                "topics": [
+                    "Security",
+                    "Development"
+                ],
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Education"
+                ]
             },
             "lastModified": 1681827784949,
             "description": "DevSecOps refers to the concept of making software security a core part of the overall software delivery process.",
@@ -1109,9 +1291,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:industry/financial_services": "Financial Services",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Financial Services"
+                ],
+                "topics": [
+                    "Cloud Software"
+                ]
             },
             "lastModified": 1681827685120,
             "description": "A bot is a piece of malware that infects a computer to carry out commands under the remote control of the attacker.",
@@ -1140,10 +1328,16 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/article": "Article",
-            "aem-initialyzer:industry/education": "Education",
-            "aem-initialyzer:topics/networking": "Networking",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "resourceType": [
+                    "Article"
+                ],
+                "industry": [
+                    "Education"
+                ],
+                "topics": [
+                    "Networking",
+                    "Cloud Software"
+                ]
             },
             "lastModified": 1681827659916,
             "description": "DNS hijacking has been used to take over the web domain of The New York Times. What is it, and how does it work?",
@@ -1197,10 +1391,14 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/press-release": "Press Release",
-            "aem-initialyzer:topics/governance": "Governance",
-            "aem-initialyzer:topics/cloud_software": "Cloud Software"
+                "topics": [
+                    "Security",
+                    "Governance",
+                    "Cloud Software"
+                ],
+                "resourceType": [
+                    "Press Release"
+                ]
             },
             "lastModified": 1681827807393,
             "description": "Update this text using page properties \u003E description field. This area can be used to provide a short description about the article which can be pulled by the list components also.",
@@ -1229,9 +1427,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/press-release": "Press Release",
-            "aem-initialyzer:industry/business_services": "Business Services"
+                "topics": [
+                    "Security"
+                ],
+                "resourceType": [
+                    "Press Release"
+                ],
+                "industry": [
+                    "Business Services"
+                ]
             },
             "lastModified": 1681827616231,
             "description": "URL filtering limits access by comparing web traffic against a database to prevent employees from accessing harmful sites such as phishing pages.",
@@ -1260,10 +1464,14 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:topics/security": "Security",
-            "aem-initialyzer:resource-type/press-release": "Press Release",
-            "aem-initialyzer:topics/governance": "Governance",
-            "aem-initialyzer:topics/data-center": "Data Center"
+                "topics": [
+                    "Security",
+                    "Governance",
+                    "Data Center"
+                ],
+                "resourceType": [
+                    "Press Release"
+                ]
             },
             "lastModified": 1601370440829,
             "description": "A data center is a facility that centralizes an organization’s shared IT operations and equipment for the purposes of storing, processing, and disseminating data and applications.",
@@ -1292,11 +1500,15 @@
             },
             "itemType": "page",
             "tags": {
-            "aem-initialyzer:resource-type/press-release": "Press Release",
-            "aem-initialyzer:topics/saas-security": "Saas Security",
-            "aem-initialyzer:topics/design": "Design",
-            "aem-initialyzer:industry/education": "Education",
-            "aem-initialyzer:industry/business_services": "Business Services"
+            "resourceType": "Press Release",
+                "topics": [
+                    "Saas Security",
+                    "Design"
+                ],
+                "industry": [
+                    "Education",
+                    "Business Services"
+                ]
             },
             "lastModified": 1681827593911,
             "description": "SaaS applications provide tremendous value to end-users. One of the three main cloud computing categories alongside infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS), software-as-a-service (SaaS) is a web-based software distribution model in which a third-party provider hosts applications that it makes available to customers over the internet.",
