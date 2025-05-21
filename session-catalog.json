@@ -174,7 +174,8 @@
       "sessionCode": "OA003",
       "published": true,
       "videoId": "7dX8ysg8UfI",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 1D: Mapping the Customer Journey 101",
@@ -234,7 +235,8 @@
       "sessionCode": "BC004",
       "published": true,
       "videoId": "p1d0Qn336y8",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 1E: Building a Unified Customer Experience",
@@ -352,7 +354,8 @@
       "sessionCode": "OC006",
       "published": true,
       "videoId": "p1d0Qn336y8",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 2B: Workflow Automation for Content Teams",
@@ -757,7 +760,8 @@
       "sessionCode": "BC013",
       "published": true,
       "videoId": "7dX8ysg8UfI",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 3D: Building AI-Ready Content Teams",
@@ -815,7 +819,8 @@
       "sessionCode": "KA014",
       "published": true,
       "videoId": "p1d0Qn336y8",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 3E: Enhancing Customer Journeys with Real-Time Data",
@@ -1164,7 +1169,8 @@
       "sessionCode": "OC020",
       "published": true,
       "videoId": "p1d0Qn336y8",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 5A: Unified CX in the Manufacturing Sector",
@@ -1221,7 +1227,8 @@
       "sessionCode": "KU021",
       "published": true,
       "videoId": "_ZYFHx83m44",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 5B: Data Privacy and Compliance Essentials",
@@ -1337,7 +1344,8 @@
       "sessionCode": "OA023",
       "published": true,
       "videoId": "7dX8ysg8UfI",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 5D: AI-Enhanced Social Media Listening",
@@ -1632,7 +1640,8 @@
       "sessionCode": "KA028",
       "published": true,
       "videoId": "_ZYFHx83m44",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 6D: Creating a Unified Customer Experience for Hospitality",
@@ -1690,7 +1699,8 @@
       "sessionCode": "OC029",
       "published": true,
       "videoId": "7dX8ysg8UfI",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 6E: Collecting Quality Data for Better Customer Insights",
@@ -1748,7 +1758,8 @@
       "sessionCode": "BC030",
       "published": true,
       "videoId": "_ZYFHx83m44",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 7A: Account-Based Marketing (ABM) Deep Dive",
@@ -1864,7 +1875,8 @@
       "sessionCode": "BO032",
       "published": true,
       "videoId": "7dX8ysg8UfI",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 7C: Text Generation for Content Marketing",
@@ -1921,7 +1933,8 @@
       "sessionCode": "KG033",
       "published": true,
       "videoId": "7dX8ysg8UfI",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 7D: In-Person vs. Online Customer Journeys",
@@ -1979,7 +1992,8 @@
       "sessionCode": "OC034",
       "published": true,
       "videoId": "7dX8ysg8UfI",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 7E: Integrating ChatGPT into Workflow Processes",
@@ -2271,7 +2285,8 @@
       "sessionCode": "KA039",
       "published": true,
       "videoId": "7dX8ysg8UfI",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 8E: Creating a Unified Experience for Education Services",
@@ -2618,7 +2633,8 @@
       "sessionCode": "BU045",
       "published": true,
       "videoId": "_ZYFHx83m44",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 10A: Future-Proofing Your B2B Marketing Strategy",
@@ -2734,7 +2750,8 @@
       "sessionCode": "BO047",
       "published": true,
       "videoId": "_ZYFHx83m44",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 10C: Real-World Generative AI Case Studies",
@@ -2909,7 +2926,8 @@
       "sessionCode": "BC050",
       "published": true,
       "videoId": "7dX8ysg8UfI",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 1A: Evolving B2B Marketing for Emerging Markets",
@@ -2967,7 +2985,8 @@
       "sessionCode": "KB051",
       "published": true,
       "videoId": "7dX8ysg8UfI",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 1B: Planning Content for Seasonal Campaigns",
@@ -3201,7 +3220,8 @@
       "sessionCode": "KU055",
       "published": true,
       "videoId": "p1d0Qn336y8",
-      "videoType": "youtube"
+      "videoType": "youtube",
+      "isGated": true
     },
     {
       "title": "Session 2A: B2B Marketing KPIs and Benchmarking",
