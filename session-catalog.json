@@ -5,10 +5,10 @@
       "slug": "session-1a-advanced-b2b-funnel-tactics",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-1a-advanced-b2b-funnel-tactics",
       "description": "Learn proven funnel optimization methods for B2B client acquisition.",
-      "startTime": "2025-09-01T08:00:00Z",
-      "endTime": "2025-09-01T08:45:00Z",
+      "startTime": "2026-09-01T08:00:00Z",
+      "endTime": "2026-09-01T08:45:00Z",
       "duration": 45,
-      "image" : "/content/dam/resourcecenter/en/images/logos/CF_Resource_card_img.png",
+      "image": "/content/dam/resourcecenter/en/images/logos/CF_Resource_card_img.png",
       "speakers": [
         {
           "firstName": "Alice",
@@ -64,8 +64,8 @@
       "slug": "session-1b-streamlining-digital-asset-workflows",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-1b-streamlining-digital-asset-workflows",
       "description": "Implement best practices to optimize digital asset creation and distribution.",
-      "startTime": "2025-09-01T08:00:00Z",
-      "endTime": "2025-09-01T08:45:00Z",
+      "startTime": "2026-09-01T08:00:00Z",
+      "endTime": "2026-09-01T08:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -122,8 +122,8 @@
       "slug": "session-1c-personalization-at-scale-with-ai",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-1c-personalization-at-scale-with-ai",
       "description": "Explore how generative AI can create deeper, more personalized customer journeys.",
-      "startTime": "2025-09-01T08:00:00Z",
-      "endTime": "2025-09-01T08:45:00Z",
+      "startTime": "2026-09-01T08:00:00Z",
+      "endTime": "2026-09-01T08:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -183,8 +183,8 @@
       "slug": "session-1d-mapping-the-customer-journey-101",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-1d-mapping-the-customer-journey-101",
       "description": "Fundamentals of defining and optimizing key customer touchpoints.",
-      "startTime": "2025-09-01T08:00:00Z",
-      "endTime": "2025-09-01T08:45:00Z",
+      "startTime": "2026-09-01T08:00:00Z",
+      "endTime": "2026-09-01T08:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -244,8 +244,8 @@
       "slug": "session-1e-building-a-unified-customer-experience",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-1e-building-a-unified-customer-experience",
       "description": "Approaches for delivering seamless interactions across all customer channels.",
-      "startTime": "2025-09-01T08:00:00Z",
-      "endTime": "2025-09-01T08:45:00Z",
+      "startTime": "2026-09-01T08:00:00Z",
+      "endTime": "2026-09-01T08:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -304,8 +304,8 @@
       "slug": "session-2a-fundamentals-of-customer-data-management",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-2a-fundamentals-of-customer-data-management",
       "description": "Capture, store, and leverage first-party data to drive marketing success.",
-      "startTime": "2025-09-01T09:00:00Z",
-      "endTime": "2025-09-01T09:45:00Z",
+      "startTime": "2026-09-01T09:00:00Z",
+      "endTime": "2026-09-01T09:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -363,8 +363,8 @@
       "slug": "session-2b-workflow-automation-for-content-teams",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-2b-workflow-automation-for-content-teams",
       "description": "Discover tools and techniques to automate repetitive tasks in content creation.",
-      "startTime": "2025-09-01T09:00:00Z",
-      "endTime": "2025-09-01T09:45:00Z",
+      "startTime": "2026-09-01T09:00:00Z",
+      "endTime": "2026-09-01T09:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -421,8 +421,8 @@
       "slug": "session-2c-ai-powered-email-marketing",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-2c-ai-powered-email-marketing",
       "description": "Use generative AI to personalize and automate high-volume email outreach.",
-      "startTime": "2025-09-01T09:00:00Z",
-      "endTime": "2025-09-01T09:45:00Z",
+      "startTime": "2026-09-01T09:00:00Z",
+      "endTime": "2026-09-01T09:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -480,8 +480,8 @@
       "slug": "session-2d-measuring-multi-touch-attribution",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-2d-measuring-multi-touch-attribution",
       "description": "Analyze multiple customer touchpoints to accurately measure marketing impact.",
-      "startTime": "2025-09-01T09:00:00Z",
-      "endTime": "2025-09-01T09:45:00Z",
+      "startTime": "2026-09-01T09:00:00Z",
+      "endTime": "2026-09-01T09:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -537,8 +537,8 @@
       "slug": "session-2e-creating-engaging-visual-content",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-2e-creating-engaging-visual-content",
       "description": "Best practices for designing visuals that capture attention across channels.",
-      "startTime": "2025-09-01T09:00:00Z",
-      "endTime": "2025-09-01T09:45:00Z",
+      "startTime": "2026-09-01T09:00:00Z",
+      "endTime": "2026-09-01T09:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -594,8 +594,8 @@
       "slug": "session-3a-automation-in-customer-acquisition",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-3a-automation-in-customer-acquisition",
       "description": "How to leverage marketing automation platforms for rapid customer growth.",
-      "startTime": "2025-09-01T10:00:00Z",
-      "endTime": "2025-09-01T10:45:00Z",
+      "startTime": "2026-09-01T10:00:00Z",
+      "endTime": "2026-09-01T10:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -652,8 +652,8 @@
       "slug": "session-3b-content-supply-chain-for-global-teams",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-3b-content-supply-chain-for-global-teams",
       "description": "Coordinate content creation across different regions while maintaining brand consistency.",
-      "startTime": "2025-09-01T10:00:00Z",
-      "endTime": "2025-09-01T10:45:00Z",
+      "startTime": "2026-09-01T10:00:00Z",
+      "endTime": "2026-09-01T10:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -711,8 +711,8 @@
       "slug": "session-3c-data-driven-influencer-marketing",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-3c-data-driven-influencer-marketing",
       "description": "Use analytics to select the right influencers and measure real ROI.",
-      "startTime": "2025-09-01T10:00:00Z",
-      "endTime": "2025-09-01T10:45:00Z",
+      "startTime": "2026-09-01T10:00:00Z",
+      "endTime": "2026-09-01T10:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -769,8 +769,8 @@
       "slug": "session-3d-building-ai-ready-content-teams",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-3d-building-ai-ready-content-teams",
       "description": "How to upskill content teams to collaborate effectively with AI tools.",
-      "startTime": "2025-09-01T10:00:00Z",
-      "endTime": "2025-09-01T10:45:00Z",
+      "startTime": "2026-09-01T10:00:00Z",
+      "endTime": "2026-09-01T10:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -828,8 +828,8 @@
       "slug": "session-3e-enhancing-customer-journeys-with-real-time-data",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-3e-enhancing-customer-journeys-with-real-time-data",
       "description": "Leverage real-time analytics to tailor the customer experience instantly.",
-      "startTime": "2025-09-01T10:00:00Z",
-      "endTime": "2025-09-01T10:45:00Z",
+      "startTime": "2026-09-01T10:00:00Z",
+      "endTime": "2026-09-01T10:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -887,8 +887,8 @@
       "slug": "session-4a-unified-customer-experience-strategies",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-4a-unified-customer-experience-strategies",
       "description": "Key steps to unify online and offline touchpoints for a cohesive brand presence.",
-      "startTime": "2025-09-01T11:00:00Z",
-      "endTime": "2025-09-01T11:45:00Z",
+      "startTime": "2026-09-01T11:00:00Z",
+      "endTime": "2026-09-01T11:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -945,8 +945,8 @@
       "slug": "session-4b-intro-to-customer-data-platforms",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-4b-intro-to-customer-data-platforms",
       "description": "Understand the core functionalities and benefits of modern CDPs.",
-      "startTime": "2025-09-01T11:00:00Z",
-      "endTime": "2025-09-01T11:45:00Z",
+      "startTime": "2026-09-01T11:00:00Z",
+      "endTime": "2026-09-01T11:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1003,8 +1003,8 @@
       "slug": "session-4c-cms-selecting-the-right-fit",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-4c-cms-selecting-the-right-fit",
       "description": "A comparative look at leading CMS platforms and how to choose for your organization.",
-      "startTime": "2025-09-01T11:00:00Z",
-      "endTime": "2025-09-01T11:45:00Z",
+      "startTime": "2026-09-01T11:00:00Z",
+      "endTime": "2026-09-01T11:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1060,8 +1060,8 @@
       "slug": "session-4d-revolutionizing-lead-gen-with-ai-chatbots",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-4d-revolutionizing-lead-gen-with-ai-chatbots",
       "description": "Learn how AI chatbots can automate lead qualification and engagement.",
-      "startTime": "2025-09-01T11:00:00Z",
-      "endTime": "2025-09-01T11:45:00Z",
+      "startTime": "2026-09-01T11:00:00Z",
+      "endTime": "2026-09-01T11:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1119,8 +1119,8 @@
       "slug": "session-4e-customer-centric-metrics-for-journey-improvement",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-4e-customer-centric-metrics-for-journey-improvement",
       "description": "Identify and track the most critical metrics for each stage of the customer journey.",
-      "startTime": "2025-09-01T11:00:00Z",
-      "endTime": "2025-09-01T11:45:00Z",
+      "startTime": "2026-09-01T11:00:00Z",
+      "endTime": "2026-09-01T11:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1178,8 +1178,8 @@
       "slug": "session-5a-unified-cx-in-the-manufacturing-sector",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-5a-unified-cx-in-the-manufacturing-sector",
       "description": "Tactics to unify communication and support for B2B manufacturing clients.",
-      "startTime": "2025-09-01T12:00:00Z",
-      "endTime": "2025-09-01T12:45:00Z",
+      "startTime": "2026-09-01T12:00:00Z",
+      "endTime": "2026-09-01T12:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1236,8 +1236,8 @@
       "slug": "session-5b-data-privacy-and-compliance-essentials",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-5b-data-privacy-and-compliance-essentials",
       "description": "Navigate global data regulations to maintain trust and protect customer data.",
-      "startTime": "2025-09-01T12:00:00Z",
-      "endTime": "2025-09-01T12:45:00Z",
+      "startTime": "2026-09-01T12:00:00Z",
+      "endTime": "2026-09-01T12:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1294,8 +1294,8 @@
       "slug": "session-5c-governing-brand-voice-in-content-supply-chains",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-5c-governing-brand-voice-in-content-supply-chains",
       "description": "Implement governance protocols to keep brand messaging consistent across content creators.",
-      "startTime": "2025-09-01T12:00:00Z",
-      "endTime": "2025-09-01T12:45:00Z",
+      "startTime": "2026-09-01T12:00:00Z",
+      "endTime": "2026-09-01T12:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1353,8 +1353,8 @@
       "slug": "session-5d-ai-enhanced-social-media-listening",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-5d-ai-enhanced-social-media-listening",
       "description": "Monitor and analyze social conversations with advanced AI sentiment analysis.",
-      "startTime": "2025-09-01T12:00:00Z",
-      "endTime": "2025-09-01T12:45:00Z",
+      "startTime": "2026-09-01T12:00:00Z",
+      "endTime": "2026-09-01T12:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1412,8 +1412,8 @@
       "slug": "session-5e-customer-journey-mapping-for-non-profits",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-5e-customer-journey-mapping-for-non-profits",
       "description": "Tailor your communication and fundraising strategies to unique supporter journeys.",
-      "startTime": "2025-09-01T12:00:00Z",
-      "endTime": "2025-09-01T12:45:00Z",
+      "startTime": "2026-09-01T12:00:00Z",
+      "endTime": "2026-09-01T12:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1471,8 +1471,8 @@
       "slug": "session-6a-emerging-trends-in-b2b-marketing",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-6a-emerging-trends-in-b2b-marketing",
       "description": "Stay ahead of the curve with the latest B2B marketing strategies and tools.",
-      "startTime": "2025-09-01T13:00:00Z",
-      "endTime": "2025-09-01T13:45:00Z",
+      "startTime": "2026-09-01T13:00:00Z",
+      "endTime": "2026-09-01T13:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1529,8 +1529,8 @@
       "slug": "session-6b-planning-digital-campaigns-with-agile-methods",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-6b-planning-digital-campaigns-with-agile-methods",
       "description": "Adopt agile methodologies to respond swiftly to market changes in your digital campaigns.",
-      "startTime": "2025-09-01T13:00:00Z",
-      "endTime": "2025-09-01T13:45:00Z",
+      "startTime": "2026-09-01T13:00:00Z",
+      "endTime": "2026-09-01T13:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1588,8 +1588,8 @@
       "slug": "session-6c-using-ai-to-predict-customer-churn",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-6c-using-ai-to-predict-customer-churn",
       "description": "Implement machine learning models to identify at-risk customers and reduce churn.",
-      "startTime": "2025-09-01T13:00:00Z",
-      "endTime": "2025-09-01T13:45:00Z",
+      "startTime": "2026-09-01T13:00:00Z",
+      "endTime": "2026-09-01T13:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1649,8 +1649,8 @@
       "slug": "session-6d-creating-a-unified-customer-experience-for-hospitality",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-6d-creating-a-unified-customer-experience-for-hospitality",
       "description": "Provide guests with consistent brand experiences across physical and digital touchpoints.",
-      "startTime": "2025-09-01T13:00:00Z",
-      "endTime": "2025-09-01T13:45:00Z",
+      "startTime": "2026-09-01T13:00:00Z",
+      "endTime": "2026-09-01T13:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1708,8 +1708,8 @@
       "slug": "session-6e-collecting-quality-data-for-better-customer-insights",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-6e-collecting-quality-data-for-better-customer-insights",
       "description": "Techniques and tools to ensure data accuracy across multiple collection points.",
-      "startTime": "2025-09-01T13:00:00Z",
-      "endTime": "2025-09-01T13:45:00Z",
+      "startTime": "2026-09-01T13:00:00Z",
+      "endTime": "2026-09-01T13:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1767,8 +1767,8 @@
       "slug": "session-7a-account-based-marketing-deep-dive",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-7a-account-based-marketing-deep-dive",
       "description": "Tailor marketing efforts to high-value accounts with precision targeting.",
-      "startTime": "2025-09-01T14:00:00Z",
-      "endTime": "2025-09-01T14:45:00Z",
+      "startTime": "2026-09-01T14:00:00Z",
+      "endTime": "2026-09-01T14:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1825,8 +1825,8 @@
       "slug": "session-7b-mastering-workflow-and-planning-in-media-production",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-7b-mastering-workflow-and-planning-in-media-production",
       "description": "Keep media production teams on track with structured workflows and timelines.",
-      "startTime": "2025-09-01T14:00:00Z",
-      "endTime": "2025-09-01T14:45:00Z",
+      "startTime": "2026-09-01T14:00:00Z",
+      "endTime": "2026-09-01T14:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1884,8 +1884,8 @@
       "slug": "session-7c-text-generation-for-content-marketing",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-7c-text-generation-for-content-marketing",
       "description": "Practical use-cases of generative AI to expedite blog posts, eBooks, and more.",
-      "startTime": "2025-09-01T14:00:00Z",
-      "endTime": "2025-09-01T14:45:00Z",
+      "startTime": "2026-09-01T14:00:00Z",
+      "endTime": "2026-09-01T14:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -1942,8 +1942,8 @@
       "slug": "session-7d-in-person-vs-online-customer-journeys",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-7d-in-person-vs-online-customer-journeys",
       "description": "Compare and contrast critical touchpoints in physical locations and digital spaces.",
-      "startTime": "2025-09-01T14:00:00Z",
-      "endTime": "2025-09-01T14:45:00Z",
+      "startTime": "2026-09-01T14:00:00Z",
+      "endTime": "2026-09-01T14:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2001,8 +2001,8 @@
       "slug": "session-7e-integrating-chatgpt-into-workflow-processes",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-7e-integrating-chatgpt-into-workflow-processes",
       "description": "Utilize ChatGPT for task automation, idea generation, and real-time team assistance.",
-      "startTime": "2025-09-01T14:00:00Z",
-      "endTime": "2025-09-01T14:45:00Z",
+      "startTime": "2026-09-01T14:00:00Z",
+      "endTime": "2026-09-01T14:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2059,8 +2059,8 @@
       "slug": "session-8a-high-converting-b2b-landing-pages",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-8a-high-converting-b2b-landing-pages",
       "description": "Design and optimize landing pages that speak to B2B decision-makers.",
-      "startTime": "2025-09-01T15:00:00Z",
-      "endTime": "2025-09-01T15:45:00Z",
+      "startTime": "2026-09-01T15:00:00Z",
+      "endTime": "2026-09-01T15:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2117,8 +2117,8 @@
       "slug": "session-8b-collaborative-planning-for-marketing-teams",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-8b-collaborative-planning-for-marketing-teams",
       "description": "Coordinate across departments to deliver effective, unified campaign plans.",
-      "startTime": "2025-09-01T15:00:00Z",
-      "endTime": "2025-09-01T15:45:00Z",
+      "startTime": "2026-09-01T15:00:00Z",
+      "endTime": "2026-09-01T15:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2175,8 +2175,8 @@
       "slug": "session-8c-generative-ai-for-real-time-video-personalization",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-8c-generative-ai-for-real-time-video-personalization",
       "description": "Use AI to dynamically adapt video content based on viewer preferences.",
-      "startTime": "2025-09-01T15:00:00Z",
-      "endTime": "2025-09-01T15:45:00Z",
+      "startTime": "2026-09-01T15:00:00Z",
+      "endTime": "2026-09-01T15:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2234,8 +2234,8 @@
       "slug": "session-8d-improving-email-journey-flows",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-8d-improving-email-journey-flows",
       "description": "Enhance the customer email experience through segmented, trigger-based messaging.",
-      "startTime": "2025-09-01T15:00:00Z",
-      "endTime": "2025-09-01T15:45:00Z",
+      "startTime": "2026-09-01T15:00:00Z",
+      "endTime": "2026-09-01T15:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2294,8 +2294,8 @@
       "slug": "session-8e-creating-a-unified-experience-for-education-services",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-8e-creating-a-unified-experience-for-education-services",
       "description": "Align online and offline learning experiences to improve student engagement.",
-      "startTime": "2025-09-01T15:00:00Z",
-      "endTime": "2025-09-01T15:45:00Z",
+      "startTime": "2026-09-01T15:00:00Z",
+      "endTime": "2026-09-01T15:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2351,8 +2351,8 @@
       "slug": "session-9a-ai-for-high-level-content-supply-chain-orchestration",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-9a-ai-for-high-level-content-supply-chain-orchestration",
       "description": "Use AI to automate tasks from ideation to distribution, ensuring timely delivery.",
-      "startTime": "2025-09-01T16:00:00Z",
-      "endTime": "2025-09-01T16:45:00Z",
+      "startTime": "2026-09-01T16:00:00Z",
+      "endTime": "2026-09-01T16:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2409,8 +2409,8 @@
       "slug": "session-9b-optimizing-workflows-for-non-profit-campaigns",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-9b-optimizing-workflows-for-non-profit-campaigns",
       "description": "Tactics to handle limited budgets and volunteer resources effectively.",
-      "startTime": "2025-09-01T16:00:00Z",
-      "endTime": "2025-09-01T16:45:00Z",
+      "startTime": "2026-09-01T16:00:00Z",
+      "endTime": "2026-09-01T16:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2468,8 +2468,8 @@
       "slug": "session-9c-advanced-analytics-for-customer-acquisition",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-9c-advanced-analytics-for-customer-acquisition",
       "description": "In-depth look at predictive modeling and analytics to boost conversion rates.",
-      "startTime": "2025-09-01T16:00:00Z",
-      "endTime": "2025-09-01T16:45:00Z",
+      "startTime": "2026-09-01T16:00:00Z",
+      "endTime": "2026-09-01T16:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2526,8 +2526,8 @@
       "slug": "session-9d-engaging-customer-journeys-in-the-public-sector",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-9d-engaging-customer-journeys-in-the-public-sector",
       "description": "Design service-focused journeys to improve citizen engagement and satisfaction.",
-      "startTime": "2025-09-01T16:00:00Z",
-      "endTime": "2025-09-01T16:45:00Z",
+      "startTime": "2026-09-01T16:00:00Z",
+      "endTime": "2026-09-01T16:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2584,8 +2584,8 @@
       "slug": "session-9e-scaling-unified-cx-with-automation",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-9e-scaling-unified-cx-with-automation",
       "description": "Maximize efficiency by automating repetitive CX processes and data updates.",
-      "startTime": "2025-09-01T16:00:00Z",
-      "endTime": "2025-09-01T16:45:00Z",
+      "startTime": "2026-09-01T16:00:00Z",
+      "endTime": "2026-09-01T16:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2642,8 +2642,8 @@
       "slug": "session-10a-future-proofing-your-b2b-marketing-strategy",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-10a-future-proofing-your-b2b-marketing-strategy",
       "description": "Anticipate market shifts and emerging technologies to stay ahead in B2B marketing.",
-      "startTime": "2025-09-01T17:00:00Z",
-      "endTime": "2025-09-01T17:45:00Z",
+      "startTime": "2026-09-01T17:00:00Z",
+      "endTime": "2026-09-01T17:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2700,8 +2700,8 @@
       "slug": "session-10b-workflow-sprints-for-creative-teams",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-10b-workflow-sprints-for-creative-teams",
       "description": "Adapt sprints to meet the unique needs of designers, writers, and creative leads.",
-      "startTime": "2025-09-01T17:00:00Z",
-      "endTime": "2025-09-01T17:45:00Z",
+      "startTime": "2026-09-01T17:00:00Z",
+      "endTime": "2026-09-01T17:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2759,8 +2759,8 @@
       "slug": "session-10c-real-world-generative-ai-case-studies",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-10c-real-world-generative-ai-case-studies",
       "description": "Dive into multiple successful implementations of generative AI across industries.",
-      "startTime": "2025-09-01T17:00:00Z",
-      "endTime": "2025-09-01T17:45:00Z",
+      "startTime": "2026-09-01T17:00:00Z",
+      "endTime": "2026-09-01T17:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2818,8 +2818,8 @@
       "slug": "session-10d-building-trust-in-customer-journeys",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-10d-building-trust-in-customer-journeys",
       "description": "Design messaging and interactions that consistently reinforce brand credibility.",
-      "startTime": "2025-09-01T17:00:00Z",
-      "endTime": "2025-09-01T17:45:00Z",
+      "startTime": "2026-09-01T17:00:00Z",
+      "endTime": "2026-09-01T17:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2876,8 +2876,8 @@
       "slug": "session-10e-unified-customer-experience-for-energy-sector-clients",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-10e-unified-customer-experience-for-energy-sector-clients",
       "description": "Implement consistent and reliable communication strategies for energy customers.",
-      "startTime": "2025-09-01T17:00:00Z",
-      "endTime": "2025-09-01T17:45:00Z",
+      "startTime": "2026-09-01T17:00:00Z",
+      "endTime": "2026-09-01T17:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2935,8 +2935,8 @@
       "slug": "day2-session-1a-evolving-b2b-marketing-emerging-markets",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/day2-session-1a-evolving-b2b-marketing-emerging-markets",
       "description": "Strategies to tap into high-growth, emerging economies with B2B solutions.",
-      "startTime": "2025-09-02T08:00:00Z",
-      "endTime": "2025-09-02T08:45:00Z",
+      "startTime": "2026-09-02T08:00:00Z",
+      "endTime": "2026-09-02T08:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -2994,8 +2994,8 @@
       "slug": "day2-session-1b-planning-content-for-seasonal-campaigns",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/day2-session-1b-planning-content-for-seasonal-campaigns",
       "description": "Organize timely and relevant content to capitalize on seasonal demand spikes.",
-      "startTime": "2025-09-02T08:00:00Z",
-      "endTime": "2025-09-02T08:45:00Z",
+      "startTime": "2026-09-02T08:00:00Z",
+      "endTime": "2026-09-02T08:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -3052,8 +3052,8 @@
       "slug": "day2-session-1c-generative-ai-for-legal-document-summaries",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/day2-session-1c-generative-ai-for-legal-document-summaries",
       "description": "Use AI to expedite document review and summary creation in regulated industries.",
-      "startTime": "2025-09-02T08:00:00Z",
-      "endTime": "2025-09-02T08:45:00Z",
+      "startTime": "2026-09-02T08:00:00Z",
+      "endTime": "2026-09-02T08:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -3111,8 +3111,8 @@
       "slug": "day2-session-1d-the-360-degree-customer-journey-in-retail",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/day2-session-1d-the-360-degree-customer-journey-in-retail",
       "description": "Craft an immersive retail experience from pre-purchase to post-purchase engagement.",
-      "startTime": "2025-09-02T08:00:00Z",
-      "endTime": "2025-09-02T08:45:00Z",
+      "startTime": "2026-09-02T08:00:00Z",
+      "endTime": "2026-09-02T08:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -3171,8 +3171,8 @@
       "slug": "day2-session-1e-handling-big-data-for-unified-cx",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/day2-session-1e-handling-big-data-for-unified-cx",
       "description": "Architect data management solutions to seamlessly integrate user data at scale.",
-      "startTime": "2025-09-02T08:00:00Z",
-      "endTime": "2025-09-02T08:45:00Z",
+      "startTime": "2026-09-02T08:00:00Z",
+      "endTime": "2026-09-02T08:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -3229,8 +3229,8 @@
       "slug": "day2-session-2a-b2b-marketing-kpis-and-benchmarking",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/day2-session-2a-b2b-marketing-kpis-and-benchmarking",
       "description": "Identify essential KPIs and compare performance against industry benchmarks.",
-      "startTime": "2025-09-02T09:00:00Z",
-      "endTime": "2025-09-02T09:45:00Z",
+      "startTime": "2026-09-02T09:00:00Z",
+      "endTime": "2026-09-02T09:45:00Z",
       "duration": 45,
       "speakers": [
         {
@@ -3288,8 +3288,8 @@
       "slug": "day2-session-10e-closing-keynote-innovating-future-of-digital-marketing",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/day2-session-10e-closing-keynote-innovating-future-of-digital-marketing",
       "description": "Inspiring perspectives on what’s next in digital marketing and how to stay adaptive.",
-      "startTime": "2025-09-02T17:00:00Z",
-      "endTime": "2025-09-02T17:45:00Z",
+      "startTime": "2026-09-02T17:00:00Z",
+      "endTime": "2026-09-02T17:45:00Z",
       "duration": 45,
       "speakers": [
         {
