@@ -600,7 +600,7 @@
                     ]
                 },
                 "lastModified": 1681827807393,
-                "description": "Note : Update this text using page properties > description field. This area can be used to provide a short description about the article which can be pulled by the list components also.",
+                "description": "Test :Update this text using page properties > description field. This area can be used to provide a short description about the article which can be pulled by the list components also.",
                 "title": "What Is a Virtual Network Firewall?",
                 "path": "/content/aem-initialyzer-docs/language-masters/en/home/frameworks/totalcontent/demo/articles/what-is-a-virtual-firewall",
                 "lastModifiedDate": 1738909170548,
