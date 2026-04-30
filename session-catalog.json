@@ -179,10 +179,10 @@
       "isGated": true
     },
     {
-      "title": "Session 1D: Mapping the Customer Journey 101",
+      "title": "Session 1D: Mapping the Customer Journey Analytics 101",
       "slug": "session-1d-mapping-the-customer-journey-101",
       "fragmentPath": "/content/dam/ezconference/en/content/sessions/session-1d-mapping-the-customer-journey-101",
-      "description": "Fundamentals of defining and optimizing key customer touchpoints.",
+      "description": "Fundamentals of defining and optimizing key customer touchpoints and Footprints.",
       "startTime": "2026-09-01T08:00:00Z",
       "endTime": "2026-09-01T08:45:00Z",
       "duration": 45,
@@ -192,7 +192,7 @@
           "lastName": "Brown",
           "fullName": "Olivia Brown",
           "slug": "olivia-brown",
-          "jobTitle": "CX Strategist",
+          "jobTitle": "CX Strategist and consultant",
           "company": "CustExp Advisors",
           "bio": "Olivia improves customer lifecycle touchpoints for various verticals.",
           "profilePhotoUrl": "https://github.com/initialyze/initialyzers-aem-data/blob/main/images/speakers/alice-smith.webp?raw=true"
