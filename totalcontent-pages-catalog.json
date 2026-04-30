@@ -56,8 +56,8 @@
                     ]
                 },
                 "lastModified": 1681827616231,
-                "description": "URL filtering limits access by comparing web traffic against a database to prevent employees from accessing harmful sites such as phishing pages.",
-                "title": "Enhancing Web Security with URL Filtering Solutions",
+                "description": "Note: URL filtering limits access by comparing web traffic against a database to prevent employees from accessing harmful sites such as phishing pages.",
+                "title": "Enhancing Web Security with URL Filtering Solutions and technologies",
                 "path": "/content/aem-initialyzer-docs/language-masters/en/home/frameworks/totalcontent/demo/news/what-is-url-filtering",
                 "lastModifiedDate": 1738909172324,
                 "componentDataLayer": {
@@ -364,7 +364,7 @@
                 },
                 "lastModified": 1681827740862,
                 "description": "Command-and-control attacks can compromise an entire network. Find out what they are and how they work.",
-                "title": "Breaking Down the Command and Control Mechanisms Behind Cyber Attacks",
+                "title": "Breaking Down the Command and Control Mechanisms Behind Cyber Attacks and dangerous",
                 "path": "/content/aem-initialyzer-docs/language-masters/en/home/frameworks/totalcontent/demo/news/command-and-control-explained",
                 "lastModifiedDate": 1738909171962,
                 "componentDataLayer": {
